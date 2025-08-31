@@ -1,0 +1,328 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - button "VALORANT SKINS" [ref=e6] [cursor=pointer]:
+        - heading "VALORANT SKINS" [level=1] [ref=e7] [cursor=pointer]
+      - navigation [ref=e8]:
+        - button "Rifles" [ref=e10] [cursor=pointer]:
+          - text: Rifles
+          - img [ref=e11] [cursor=pointer]
+        - button "Sidearms" [ref=e14] [cursor=pointer]:
+          - text: Sidearms
+          - img [ref=e15] [cursor=pointer]
+        - button "Snipers" [ref=e18] [cursor=pointer]:
+          - text: Snipers
+          - img [ref=e19] [cursor=pointer]
+        - button "Shotguns" [ref=e22] [cursor=pointer]:
+          - text: Shotguns
+          - img [ref=e23] [cursor=pointer]
+        - button "Machine Guns" [ref=e26] [cursor=pointer]:
+          - text: Machine Guns
+          - img [ref=e27] [cursor=pointer]
+        - button "Knives" [ref=e29] [cursor=pointer]
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - textbox "Search skins..." [ref=e35]
+            - img
+          - generic [ref=e36]:
+            - combobox [ref=e37] [cursor=pointer]:
+              - option "All Weapons" [selected]
+              - option "Vandal"
+              - option "Phantom"
+              - option "Sheriff"
+              - option "Ghost"
+              - option "Operator"
+              - option "Bulldog"
+              - option "Spectre"
+              - option "Classic"
+              - option "Frenzy"
+              - option "Karambit"
+              - option "Butterfly Knife"
+              - option "Marshal"
+              - option "Bucky"
+              - option "Odin"
+            - combobox [ref=e38] [cursor=pointer]:
+              - option "All Rarities" [selected]
+              - option "Select"
+              - option "Deluxe"
+              - option "Premium"
+              - option "Ultra"
+            - combobox [ref=e39] [cursor=pointer]:
+              - option "All Collections" [selected]
+              - option "Prime"
+              - option "Reaver"
+              - option "Glitchpop"
+              - option "Elderflame"
+              - option "Ion"
+              - option "Sovereign"
+              - option "Oni"
+              - option "Champions"
+        - generic [ref=e41]: Showing 20 of 20 skins
+      - generic [ref=e42]:
+        - generic [ref=e43] [cursor=pointer]:
+          - generic [ref=e44] [cursor=pointer]:
+            - img "Prime Vandal" [ref=e45] [cursor=pointer]
+            - generic [ref=e46] [cursor=pointer]:
+              - img [ref=e48] [cursor=pointer]
+              - img [ref=e51] [cursor=pointer]
+          - generic [ref=e53] [cursor=pointer]:
+            - generic [ref=e54] [cursor=pointer]:
+              - heading "Prime Vandal" [level=3] [ref=e55] [cursor=pointer]
+              - generic [ref=e56] [cursor=pointer]: Premium
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e58] [cursor=pointer]: Vandal
+              - generic [ref=e59] [cursor=pointer]: 1775 VP
+            - generic [ref=e60] [cursor=pointer]: Prime Collection
+        - generic [ref=e61] [cursor=pointer]:
+          - generic [ref=e62] [cursor=pointer]:
+            - img "Elderflame Vandal" [ref=e63] [cursor=pointer]
+            - img [ref=e66] [cursor=pointer]
+          - generic [ref=e68] [cursor=pointer]:
+            - generic [ref=e69] [cursor=pointer]:
+              - heading "Elderflame Vandal" [level=3] [ref=e70] [cursor=pointer]
+              - generic [ref=e71] [cursor=pointer]: Ultra
+            - generic [ref=e72] [cursor=pointer]:
+              - generic [ref=e73] [cursor=pointer]: Vandal
+              - generic [ref=e74] [cursor=pointer]: 2475 VP
+            - generic [ref=e75] [cursor=pointer]: Elderflame Collection
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77] [cursor=pointer]:
+            - img "Reaver Vandal" [ref=e78] [cursor=pointer]
+            - generic [ref=e79] [cursor=pointer]:
+              - img [ref=e81] [cursor=pointer]
+              - img [ref=e84] [cursor=pointer]
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e87] [cursor=pointer]:
+              - heading "Reaver Vandal" [level=3] [ref=e88] [cursor=pointer]
+              - generic [ref=e89] [cursor=pointer]: Premium
+            - generic [ref=e90] [cursor=pointer]:
+              - generic [ref=e91] [cursor=pointer]: Vandal
+              - generic [ref=e92] [cursor=pointer]: 1775 VP
+            - generic [ref=e93] [cursor=pointer]: Reaver Collection
+        - generic [ref=e94] [cursor=pointer]:
+          - generic [ref=e95] [cursor=pointer]:
+            - img "Prime Phantom" [ref=e96] [cursor=pointer]
+            - generic [ref=e97] [cursor=pointer]:
+              - img [ref=e99] [cursor=pointer]
+              - img [ref=e102] [cursor=pointer]
+          - generic [ref=e104] [cursor=pointer]:
+            - generic [ref=e105] [cursor=pointer]:
+              - heading "Prime Phantom" [level=3] [ref=e106] [cursor=pointer]
+              - generic [ref=e107] [cursor=pointer]: Premium
+            - generic [ref=e108] [cursor=pointer]:
+              - generic [ref=e109] [cursor=pointer]: Phantom
+              - generic [ref=e110] [cursor=pointer]: 1775 VP
+            - generic [ref=e111] [cursor=pointer]: Prime Collection
+        - generic [ref=e112] [cursor=pointer]:
+          - generic [ref=e113] [cursor=pointer]:
+            - img "Glitchpop Phantom" [ref=e114] [cursor=pointer]
+            - img [ref=e117] [cursor=pointer]
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e120] [cursor=pointer]:
+              - heading "Glitchpop Phantom" [level=3] [ref=e121] [cursor=pointer]
+              - generic [ref=e122] [cursor=pointer]: Premium
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e124] [cursor=pointer]: Phantom
+              - generic [ref=e125] [cursor=pointer]: 2175 VP
+            - generic [ref=e126] [cursor=pointer]: Glitchpop Collection
+        - generic [ref=e127] [cursor=pointer]:
+          - generic [ref=e128] [cursor=pointer]:
+            - img "Ion Sheriff" [ref=e129] [cursor=pointer]
+            - img [ref=e132] [cursor=pointer]
+          - generic [ref=e134] [cursor=pointer]:
+            - generic [ref=e135] [cursor=pointer]:
+              - heading "Ion Sheriff" [level=3] [ref=e136] [cursor=pointer]
+              - generic [ref=e137] [cursor=pointer]: Premium
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e139] [cursor=pointer]: Sheriff
+              - generic [ref=e140] [cursor=pointer]: 1775 VP
+            - generic [ref=e141] [cursor=pointer]: Ion Collection
+        - generic [ref=e142] [cursor=pointer]:
+          - generic [ref=e143] [cursor=pointer]:
+            - img "Reaver Sheriff" [ref=e144] [cursor=pointer]
+            - generic [ref=e145] [cursor=pointer]:
+              - img [ref=e147] [cursor=pointer]
+              - img [ref=e150] [cursor=pointer]
+          - generic [ref=e152] [cursor=pointer]:
+            - generic [ref=e153] [cursor=pointer]:
+              - heading "Reaver Sheriff" [level=3] [ref=e154] [cursor=pointer]
+              - generic [ref=e155] [cursor=pointer]: Premium
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e157] [cursor=pointer]: Sheriff
+              - generic [ref=e158] [cursor=pointer]: 1775 VP
+            - generic [ref=e159] [cursor=pointer]: Reaver Collection
+        - generic [ref=e160] [cursor=pointer]:
+          - generic [ref=e161] [cursor=pointer]:
+            - img "Sovereign Ghost" [ref=e162] [cursor=pointer]
+            - generic [ref=e163] [cursor=pointer]:
+              - img [ref=e165] [cursor=pointer]
+              - img [ref=e168] [cursor=pointer]
+          - generic [ref=e170] [cursor=pointer]:
+            - generic [ref=e171] [cursor=pointer]:
+              - heading "Sovereign Ghost" [level=3] [ref=e172] [cursor=pointer]
+              - generic [ref=e173] [cursor=pointer]: Premium
+            - generic [ref=e174] [cursor=pointer]:
+              - generic [ref=e175] [cursor=pointer]: Ghost
+              - generic [ref=e176] [cursor=pointer]: 1775 VP
+            - generic [ref=e177] [cursor=pointer]: Sovereign Collection
+        - generic [ref=e178] [cursor=pointer]:
+          - generic [ref=e179] [cursor=pointer]:
+            - img "Prime Operator" [ref=e180] [cursor=pointer]
+            - generic [ref=e181] [cursor=pointer]:
+              - img [ref=e183] [cursor=pointer]
+              - img [ref=e186] [cursor=pointer]
+          - generic [ref=e188] [cursor=pointer]:
+            - generic [ref=e189] [cursor=pointer]:
+              - heading "Prime Operator" [level=3] [ref=e190] [cursor=pointer]
+              - generic [ref=e191] [cursor=pointer]: Premium
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]: Operator
+              - generic [ref=e194] [cursor=pointer]: 1775 VP
+            - generic [ref=e195] [cursor=pointer]: Prime Collection
+        - generic [ref=e196] [cursor=pointer]:
+          - generic [ref=e197] [cursor=pointer]:
+            - img "Elderflame Operator" [ref=e198] [cursor=pointer]
+            - img [ref=e201] [cursor=pointer]
+          - generic [ref=e203] [cursor=pointer]:
+            - generic [ref=e204] [cursor=pointer]:
+              - heading "Elderflame Operator" [level=3] [ref=e205] [cursor=pointer]
+              - generic [ref=e206] [cursor=pointer]: Ultra
+            - generic [ref=e207] [cursor=pointer]:
+              - generic [ref=e208] [cursor=pointer]: Operator
+              - generic [ref=e209] [cursor=pointer]: 2475 VP
+            - generic [ref=e210] [cursor=pointer]: Elderflame Collection
+        - generic [ref=e211] [cursor=pointer]:
+          - generic [ref=e212] [cursor=pointer]:
+            - img "Glitchpop Bulldog" [ref=e213] [cursor=pointer]
+            - img [ref=e216] [cursor=pointer]
+          - generic [ref=e218] [cursor=pointer]:
+            - generic [ref=e219] [cursor=pointer]:
+              - heading "Glitchpop Bulldog" [level=3] [ref=e220] [cursor=pointer]
+              - generic [ref=e221] [cursor=pointer]: Premium
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e223] [cursor=pointer]: Bulldog
+              - generic [ref=e224] [cursor=pointer]: 2175 VP
+            - generic [ref=e225] [cursor=pointer]: Glitchpop Collection
+        - generic [ref=e226] [cursor=pointer]:
+          - img "Recon Spectre" [ref=e228] [cursor=pointer]
+          - generic [ref=e229] [cursor=pointer]:
+            - generic [ref=e230] [cursor=pointer]:
+              - heading "Recon Spectre" [level=3] [ref=e231] [cursor=pointer]
+              - generic [ref=e232] [cursor=pointer]: Select
+            - generic [ref=e233] [cursor=pointer]:
+              - generic [ref=e234] [cursor=pointer]: Spectre
+              - generic [ref=e235] [cursor=pointer]: 875 VP
+            - generic [ref=e236] [cursor=pointer]: Recon Collection
+        - generic [ref=e237] [cursor=pointer]:
+          - generic [ref=e238] [cursor=pointer]:
+            - img "Prime Classic" [ref=e239] [cursor=pointer]
+            - generic [ref=e240] [cursor=pointer]:
+              - img [ref=e242] [cursor=pointer]
+              - img [ref=e245] [cursor=pointer]
+          - generic [ref=e247] [cursor=pointer]:
+            - generic [ref=e248] [cursor=pointer]:
+              - heading "Prime Classic" [level=3] [ref=e249] [cursor=pointer]
+              - generic [ref=e250] [cursor=pointer]: Premium
+            - generic [ref=e251] [cursor=pointer]:
+              - generic [ref=e252] [cursor=pointer]: Classic
+              - generic [ref=e253] [cursor=pointer]: 1775 VP
+            - generic [ref=e254] [cursor=pointer]: Prime Collection
+        - generic [ref=e255] [cursor=pointer]:
+          - generic [ref=e256] [cursor=pointer]:
+            - img "Elderflame Frenzy" [ref=e257] [cursor=pointer]
+            - img [ref=e260] [cursor=pointer]
+          - generic [ref=e262] [cursor=pointer]:
+            - generic [ref=e263] [cursor=pointer]:
+              - heading "Elderflame Frenzy" [level=3] [ref=e264] [cursor=pointer]
+              - generic [ref=e265] [cursor=pointer]: Ultra
+            - generic [ref=e266] [cursor=pointer]:
+              - generic [ref=e267] [cursor=pointer]: Frenzy
+              - generic [ref=e268] [cursor=pointer]: 2475 VP
+            - generic [ref=e269] [cursor=pointer]: Elderflame Collection
+        - generic [ref=e270] [cursor=pointer]:
+          - generic [ref=e271] [cursor=pointer]:
+            - img "Prime Karambit" [ref=e272] [cursor=pointer]
+            - generic [ref=e273] [cursor=pointer]:
+              - img [ref=e275] [cursor=pointer]
+              - img [ref=e278] [cursor=pointer]
+          - generic [ref=e280] [cursor=pointer]:
+            - generic [ref=e281] [cursor=pointer]:
+              - heading "Prime Karambit" [level=3] [ref=e282] [cursor=pointer]
+              - generic [ref=e283] [cursor=pointer]: Ultra
+            - generic [ref=e284] [cursor=pointer]:
+              - generic [ref=e285] [cursor=pointer]: Karambit
+              - generic [ref=e286] [cursor=pointer]: 4350 VP
+            - generic [ref=e287] [cursor=pointer]: Prime Collection
+        - generic [ref=e288] [cursor=pointer]:
+          - generic [ref=e289] [cursor=pointer]:
+            - img "Reaver Karambit" [ref=e290] [cursor=pointer]
+            - generic [ref=e291] [cursor=pointer]:
+              - img [ref=e293] [cursor=pointer]
+              - img [ref=e296] [cursor=pointer]
+          - generic [ref=e298] [cursor=pointer]:
+            - generic [ref=e299] [cursor=pointer]:
+              - heading "Reaver Karambit" [level=3] [ref=e300] [cursor=pointer]
+              - generic [ref=e301] [cursor=pointer]: Ultra
+            - generic [ref=e302] [cursor=pointer]:
+              - generic [ref=e303] [cursor=pointer]: Karambit
+              - generic [ref=e304] [cursor=pointer]: 4350 VP
+            - generic [ref=e305] [cursor=pointer]: Reaver Collection
+        - generic [ref=e306] [cursor=pointer]:
+          - generic [ref=e307] [cursor=pointer]:
+            - img "Butterfly Knife" [ref=e308] [cursor=pointer]
+            - img [ref=e311] [cursor=pointer]
+          - generic [ref=e313] [cursor=pointer]:
+            - generic [ref=e314] [cursor=pointer]:
+              - heading "Butterfly Knife" [level=3] [ref=e315] [cursor=pointer]
+              - generic [ref=e316] [cursor=pointer]: Ultra
+            - generic [ref=e317] [cursor=pointer]:
+              - generic [ref=e318] [cursor=pointer]: Butterfly Knife
+              - generic [ref=e319] [cursor=pointer]: 4350 VP
+            - generic [ref=e320] [cursor=pointer]: Champions Collection
+        - generic [ref=e321] [cursor=pointer]:
+          - generic [ref=e322] [cursor=pointer]:
+            - img "Sovereign Marshal" [ref=e323] [cursor=pointer]
+            - generic [ref=e324] [cursor=pointer]:
+              - img [ref=e326] [cursor=pointer]
+              - img [ref=e329] [cursor=pointer]
+          - generic [ref=e331] [cursor=pointer]:
+            - generic [ref=e332] [cursor=pointer]:
+              - heading "Sovereign Marshal" [level=3] [ref=e333] [cursor=pointer]
+              - generic [ref=e334] [cursor=pointer]: Premium
+            - generic [ref=e335] [cursor=pointer]:
+              - generic [ref=e336] [cursor=pointer]: Marshal
+              - generic [ref=e337] [cursor=pointer]: 1775 VP
+            - generic [ref=e338] [cursor=pointer]: Sovereign Collection
+        - generic [ref=e339] [cursor=pointer]:
+          - generic [ref=e340] [cursor=pointer]:
+            - img "Oni Bucky" [ref=e341] [cursor=pointer]
+            - img [ref=e344] [cursor=pointer]
+          - generic [ref=e346] [cursor=pointer]:
+            - generic [ref=e347] [cursor=pointer]:
+              - heading "Oni Bucky" [level=3] [ref=e348] [cursor=pointer]
+              - generic [ref=e349] [cursor=pointer]: Premium
+            - generic [ref=e350] [cursor=pointer]:
+              - generic [ref=e351] [cursor=pointer]: Bucky
+              - generic [ref=e352] [cursor=pointer]: 1775 VP
+            - generic [ref=e353] [cursor=pointer]: Oni Collection
+        - generic [ref=e354] [cursor=pointer]:
+          - generic [ref=e355] [cursor=pointer]:
+            - img "Prime Odin" [ref=e356] [cursor=pointer]
+            - generic [ref=e357] [cursor=pointer]:
+              - img [ref=e359] [cursor=pointer]
+              - img [ref=e362] [cursor=pointer]
+          - generic [ref=e364] [cursor=pointer]:
+            - generic [ref=e365] [cursor=pointer]:
+              - heading "Prime Odin" [level=3] [ref=e366] [cursor=pointer]
+              - generic [ref=e367] [cursor=pointer]: Premium
+            - generic [ref=e368] [cursor=pointer]:
+              - generic [ref=e369] [cursor=pointer]: Odin
+              - generic [ref=e370] [cursor=pointer]: 1775 VP
+            - generic [ref=e371] [cursor=pointer]: Prime Collection
+```

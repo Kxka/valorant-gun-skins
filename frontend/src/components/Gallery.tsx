@@ -106,6 +106,9 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
       filtered = filtered.filter(skin => skin.cost <= maxPrice);
     }
 
+    // Sort by cost (highest to lowest) by default
+    filtered.sort((a, b) => b.cost - a.cost);
+    
     setFilteredSkins(filtered);
   }, [skins, filters]);
 

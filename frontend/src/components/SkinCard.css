@@ -95,6 +95,7 @@
   line-height: 1.2;
   flex: 1;
   margin-right: 0.5rem;
+  text-transform: uppercase;
 }
 
 .skin-rarity {

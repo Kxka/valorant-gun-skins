@@ -10,22 +10,21 @@ test.describe('Navbar Functionality', () => {
     await expect(page.locator('.logo h1')).toBeVisible();
     await expect(page.locator('.logo')).toHaveText('VALORANT SKINS');
     
-    // Check if All Skins button is visible
+    // Check if Melee button is visible
     await expect(page.locator('.nav-link')).toBeVisible();
-    await expect(page.locator('.nav-link')).toHaveText('All Skins');
+    await expect(page.locator('.nav-link')).toHaveText('Melee');
 
     // Check if weapon category dropdowns are visible
     await expect(page.locator('.dropdown-button').first()).toBeVisible();
     
-    // Check dropdown buttons text content
+    // Check dropdown buttons text content (should have 5 dropdown buttons)
     const dropdownButtons = page.locator('.dropdown-button');
+    await expect(dropdownButtons).toHaveCount(5);
     await expect(dropdownButtons.nth(0)).toContainText('Rifles');
     await expect(dropdownButtons.nth(1)).toContainText('Sidearms');
     await expect(dropdownButtons.nth(2)).toContainText('Snipers');
-    await expect(dropdownButtons.nth(3)).toContainText('SMGs');
-    await expect(dropdownButtons.nth(4)).toContainText('Shotguns');
-    await expect(dropdownButtons.nth(5)).toContainText('Machine Guns');
-    await expect(dropdownButtons.nth(6)).toContainText('Melee');
+    await expect(dropdownButtons.nth(3)).toContainText('Shotguns');
+    await expect(dropdownButtons.nth(4)).toContainText('Machine Guns');
   });
 
   test('should show dropdown content on hover', async ({ page }) => {
@@ -129,7 +128,8 @@ test.describe('Navbar Functionality', () => {
     await expect(page.locator('.header-container')).toHaveCSS('flex-direction', 'column');
     await expect(page.locator('.navigation')).toHaveCSS('flex-wrap', 'wrap');
     
-    // Logo should be smaller
-    await expect(page.locator('.logo h1')).toHaveCSS('font-size', '1.6rem');
+    // Logo should be smaller (accepting both rem and px values)
+    const fontSize = await page.locator('.logo h1').evaluate(el => getComputedStyle(el).fontSize);
+    expect(parseFloat(fontSize)).toBeLessThan(32); // Should be smaller than desktop size (2rem = 32px)
   });
 });

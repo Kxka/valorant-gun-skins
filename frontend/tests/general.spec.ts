@@ -105,7 +105,7 @@ test.describe('General Application Functionality', () => {
     
     // Check if buttons have proper cursor
     await expect(page.locator('.nav-link')).toHaveCSS('cursor', 'pointer');
-    await expect(page.locator('.dropdown-button')).toHaveCSS('cursor', 'pointer');
+    await expect(page.locator('.dropdown-button').first()).toHaveCSS('cursor', 'pointer');
     
     // Check for proper semantic elements
     await expect(page.locator('header')).toBeVisible();
@@ -117,12 +117,17 @@ test.describe('General Application Functionality', () => {
     // Simulate offline network
     await page.context().setOffline(true);
     
-    // Reload the page
-    await page.reload();
+    try {
+      // Try to reload the page - this might fail due to offline mode
+      await page.reload({ waitUntil: 'domcontentloaded', timeout: 10000 });
+    } catch (error) {
+      // If reload fails due to network, navigate to the page again
+      await page.goto('http://localhost:3000', { waitUntil: 'domcontentloaded', timeout: 10000 });
+    }
     
     // The page should still load the basic structure even without API data
-    await expect(page.locator('.header')).toBeVisible();
-    await expect(page.locator('.logo h1')).toHaveText('VALORANT SKINS');
+    await expect(page.locator('.header')).toBeVisible({ timeout: 10000 });
+    await expect(page.locator('.logo h1')).toHaveText('VALORANT SKINS', { timeout: 10000 });
     
     // Restore network
     await page.context().setOffline(false);

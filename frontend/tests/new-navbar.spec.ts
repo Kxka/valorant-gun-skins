@@ -22,9 +22,9 @@ test.describe('Updated Navbar Functionality', () => {
     await expect(dropdownButtons.nth(3)).toContainText('Shotguns');
     await expect(dropdownButtons.nth(4)).toContainText('Machine Guns');
 
-    // Check if Knives button is visible (not dropdown)
+    // Check if Melee button is visible (not dropdown)
     await expect(page.locator('.nav-link')).toBeVisible();
-    await expect(page.locator('.nav-link')).toHaveText('Knives');
+    await expect(page.locator('.nav-link')).toHaveText('Melee');
   });
 
   test('should show dropdown content on hover for weapon categories', async ({ page }) => {
@@ -93,26 +93,26 @@ test.describe('Updated Navbar Functionality', () => {
     await expect(sidearmDropdown).toBeVisible();
   });
 
-  test('should handle knives button click', async ({ page }) => {
-    const knivesButton = page.locator('.nav-link');
-    await expect(knivesButton).toBeVisible();
-    await expect(knivesButton).toHaveText('Knives');
+  test('should handle melee button click', async ({ page }) => {
+    const meleeButton = page.locator('.nav-link');
+    await expect(meleeButton).toBeVisible();
+    await expect(meleeButton).toHaveText('Melee');
     
-    // Click the Knives button
-    await knivesButton.click();
+    // Click the Melee button
+    await meleeButton.click();
     
     // Verify button is still visible after click
-    await expect(knivesButton).toBeVisible();
+    await expect(meleeButton).toBeVisible();
   });
 
   test('should have proper styling and hover effects', async ({ page }) => {
     const logo = page.locator('.logo');
-    const knivesButton = page.locator('.nav-link');
+    const meleeButton = page.locator('.nav-link');
     const firstDropdownButton = page.locator('.dropdown-button').first();
     
     // Check that elements have cursor pointer
     await expect(logo).toHaveCSS('cursor', 'pointer');
-    await expect(knivesButton).toHaveCSS('cursor', 'pointer');
+    await expect(meleeButton).toHaveCSS('cursor', 'pointer');
     await expect(firstDropdownButton).toHaveCSS('cursor', 'pointer');
     
     // Check background gradients and styling

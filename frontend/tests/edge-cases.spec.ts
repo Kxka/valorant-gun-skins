@@ -9,12 +9,17 @@ test.describe('Edge Cases and Error Handling', () => {
     // Test offline behavior
     await page.context().setOffline(true);
     
-    // Reload the page to simulate network failure
-    await page.reload();
+    try {
+      // Try to reload the page - might fail in offline mode
+      await page.reload({ waitUntil: 'domcontentloaded', timeout: 15000 });
+    } catch (error) {
+      // If reload fails, navigate to page instead
+      await page.goto('http://localhost:3000', { waitUntil: 'domcontentloaded', timeout: 15000 });
+    }
     
     // The page should still load the basic structure even without API data
-    await expect(page.locator('.header')).toBeVisible();
-    await expect(page.locator('.logo h1')).toHaveText('VALORANT SKINS');
+    await expect(page.locator('.header')).toBeVisible({ timeout: 15000 });
+    await expect(page.locator('.logo h1')).toHaveText('VALORANT SKINS', { timeout: 15000 });
     
     // Should show either loading, error, or empty state
     await page.waitForTimeout(2000);

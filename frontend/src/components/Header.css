@@ -79,9 +79,10 @@
 }
 
 .weapon-dropdown .dropdown-content {
-  transition: opacity 0.15s ease, visibility 0.15s ease;
+  transition: opacity 0.15s ease, visibility 0.15s ease, transform 0.15s ease;
   opacity: 0;
   visibility: hidden;
+  transform: translateY(-10px);
 }
 
 .dropdown-button {
@@ -120,7 +121,6 @@
 }
 
 .dropdown-content {
-  display: none;
   position: absolute;
   top: 100%;
   left: 0;
@@ -149,9 +149,9 @@
 
 .weapon-dropdown:hover .dropdown-content,
 .dropdown-content:hover {
-  display: block;
   opacity: 1;
   visibility: visible;
+  transform: translateY(0);
 }
 
 .weapon-category {
@@ -207,9 +207,9 @@
 
 /* Add smooth slide-in animation for dropdowns */
 .weapon-dropdown:hover .dropdown-content {
-  display: block;
   opacity: 1;
   visibility: visible;
+  transform: translateY(0);
   animation: slideDown 0.3s ease-out forwards;
 }
 

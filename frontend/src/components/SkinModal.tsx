@@ -13,10 +13,11 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
 
   const getRarityColor = (rarity: string): string => {
     switch (rarity.toLowerCase()) {
-      case 'select': return '#5e9bd1';
-      case 'deluxe': return '#2eb398';
-      case 'premium': return '#e374c7';
-      case 'ultra': return '#f1975a';
+      case 'select': return '#4a90e2';      // Official blue
+      case 'deluxe': return '#27d545';      // Official green
+      case 'premium': return '#d946ef';     // Official pink/magenta
+      case 'exclusive': return '#ff8a00';   // Official orange
+      case 'ultra': return '#ffd700';       // Official gold/yellow
       default: return '#ffffff';
     }
   };
@@ -92,7 +93,9 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
 
               <div className="detail-row">
                 <span className="detail-label">Cost:</span>
-                <span className="detail-value cost">{skin.cost} VP</span>
+                <span className="detail-value cost">
+                  {typeof skin.cost === 'number' ? `${skin.cost} VP` : skin.cost}
+                </span>
               </div>
 
               <div className="detail-row">

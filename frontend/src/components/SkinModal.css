@@ -147,6 +147,7 @@
   color: #ffffff;
   margin: 0;
   line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .modal-rarity {

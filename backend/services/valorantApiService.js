@@ -57,31 +57,239 @@ class ValorantApiService {
     const tier = contentTiers.find(t => t.uuid === contentTierUuid);
     if (!tier) return 'Select';
 
-    // Map based on tier ranking
+    // Map based on tier ranking (corrected to match official Valorant pricing)
     switch(tier.rank) {
       case 0: return 'Select';
       case 1: return 'Deluxe';
       case 2: return 'Premium';
-      case 3: return 'Ultra';
-      case 4: return 'Exclusive';
+      case 3: return 'Exclusive';
+      case 4: return 'Ultra';
       default: return 'Select';
     }
   }
 
-  calculatePrice(rarity) {
-    const priceMap = {
+  isBattlepassSkin(skinName, collectionName) {
+    // Known battlepass collections from all episodes
+    const battlepassCollections = [
+      // Episode 1 (2020)
+      'Kingdom Collection',
+      'Luxe Collection', 
+      
+      // Episode 2-3 (2021)
+      'Artisan Collection',
+      'Wasteland Collection',
+      'Cavalier Collection',
+      'Tethered Collection', // Tethered Realms
+      'Gridcrash Collection',
+      'Convex Collection',
+      
+      // Episode 4-5 (2022)
+      'Ruin Collection',
+      'Nebula Collection',
+      
+      // Episode 6-8 (2023-2024) 
+      'Ruination Collection',
+      
+      // Season 2025
+      'Moon Collection', // Moon Scout
+      'Hieroscape Collection',
+      'Celestia Collection',
+      'Refractrix Collection',
+      'Doom Collection', // Doom Wing
+      'BYTESHIFT Collection',
+      'PERCH Collection',
+      'ATLAS Collection', // ATLAS // CMD
+      'SPACE Collection', // SPACE PIERCER
+      'Interhelm Collection',
+      'Haloform Collection',
+      'Belaflaire Collection'
+    ];
+    
+    // Check if skin is from a battlepass collection
+    return battlepassCollections.some(bpCollection => 
+      collectionName.toLowerCase().includes(bpCollection.toLowerCase().replace(' collection', ''))
+    );
+  }
+
+  getAgentFromSkin(skinName) {
+    // Complete list of agent contract skins with their agent names
+    const agentSkins = {
+      'Eclipse Ghost': 'Astra',
+      'RagnaRocker Frenzy': 'Breach', 
+      'Peacekeeper Sheriff': 'Brimstone',
+      'Finesse Classic': 'Chamber',
+      'Flutter Ghost': 'Clove',
+      'Hush Ghost': 'Cypher',
+      'Resolution Classic': 'Deadlock',
+      'Karabasan Shorty': 'Fade',
+      'Sidekick Shorty': 'Gekko',
+      'Wayfarer Sheriff': 'Harbor',
+      'Mythmaker Sheriff': 'Iso',
+      'Game Over Sheriff': 'Jett',
+      'FIRE/arm Classic': 'KAY/O',
+      'Wunderkind Shorty': 'Killjoy',
+      'Live Wire Frenzy': 'Neon',
+      'Soul Silencer Ghost': 'Omen',
+      'Spitfire Frenzy': 'Phoenix',
+      'Pistolinha Classic': 'Raze',
+      'Vendetta Ghost': 'Reyna',
+      'Final Chamber Classic': 'Sage',
+      'Swooping Frenzy': 'Skye',
+      'Protektor Sheriff': 'Sova',
+      'Snakebite Shorty': 'Viper',
+      'Steel Resolve Classic': 'Vyse',
+      'Hard Bargain Shorty': 'Tejo',
+      'Death Wish Sheriff': 'Yoru',
+      'Kaleidoscope Frenzy': 'Waylay'
+    };
+
+    // Check if this skin matches any agent contract skin
+    for (const [skinKey, agent] of Object.entries(agentSkins)) {
+      if (skinName.includes(skinKey)) {
+        return agent;
+      }
+    }
+    
+    return null;
+  }
+
+  calculatePrice(rarity, weaponType, skinName = '', collectionName = '') {
+    // Check if it's an agent contract skin first
+    const agentName = this.getAgentFromSkin(skinName);
+    if (agentName) {
+      return agentName;
+    }
+    
+    // Check if it's a battlepass skin
+    if (this.isBattlepassSkin(skinName, collectionName)) {
+      return 'Battlepass';
+    }
+    
+    // Special pricing exceptions for unique skins from PCGamesN website
+    const specialPricing = {
+      // Confirmed special melee pricing exceptions
+      'Nocturnum Scythe': 5350,
+      'Onimaru Kunitsuna': 5350, // Oni 2.0 melee
+      'Cyrax Fanblade': 5350,
+      'EX.O Edge': 5350, 
+      'Kuronami no Yaiba': 5350,
+      'Phaseguard Splitter': 5350,
+      'Evori\'s Spellcaster': 4950, // Ultra but different price
+      'Powerfist': 5950, // Radiant Entertainment System
+      'Waveform': 5350, // Spectrum melee
+      
+      // Special gun pricing exceptions  
+      'Neptune Hook': 1775, // Premium melee at gun price
+      'Spectrum Bulldog': 2675,
+      'Spectrum Classic': 2675,
+      'Spectrum Guardian': 2675,
+      'Spectrum Phantom': 2675,
+      
+      // Radiant Entertainment System (different tier entirely)
+      'Radiant Entertainment System Bulldog': 2975,
+      'Radiant Entertainment System Ghost': 2975,
+      'Radiant Entertainment System Operator': 2975,
+      'Radiant Entertainment System Phantom': 2975,
+      
+      // Champions bundles
+      'Champions Karambit': 6000,
+      'Valorant Champions 2021 Vandal': 2475, // Estimate
+      'Valorant Champions 2022 Phantom': 2475, // Estimate
+      
+      // SplashX exceptions
+      'SplashX Operator': 2375,
+      'SplashX Vandal': 2375,
+      
+      // Singularity exceptions
+      'Singularity Ares': 2675,
+      'Singularity Phantom': 2675,
+      'Singularity Sheriff': 2675,
+      'Singularity Spectre': 2675,
+      
+      // Glitchpop exceptions  
+      'Glitchpop Bulldog': 2175,
+      'Glitchpop Classic': 2175,
+      'Glitchpop Judge': 2175,
+      'Glitchpop Odin': 2175,
+      'Glitchpop Vandal': 2175,
+      
+      // Elderflame exceptions
+      'Elderflame Frenzy': 2475,
+      'Elderflame Judge': 2475,
+      'Elderflame Operator': 2475,
+      'Elderflame Vandal': 2475,
+      
+      // Ion exceptions
+      'Ion Bucky': 1775,
+      'Ion Energy Sword': 3550,
+      'Ion Phantom': 1775,
+      'Ion Sheriff': 1775,
+      
+      // Prime exceptions
+      'Prime 2.0 Bucky': 1775,
+      'Prime 2.0 Odin': 1775,
+      'Prime 2.0 Phantom': 1775,
+      'Prime Axe': 3550,
+      'Prime Classic': 1775,
+      'Prime Guardian': 1775,
+      'Prime Spectre': 1775,
+      'Prime Vandal': 1775,
+      
+      // Reaver exceptions
+      'Reaver Guardian': 1775,
+      'Reaver Operator': 1775,
+      'Reaver Sheriff': 1775,
+      'Reaver Vandal': 1775,
+      'Reaver Karambit': 4350,
+      
+      // Sovereign exceptions
+      'Sovereign Ghost': 1775,
+      'Sovereign Guardian': 1775,
+      'Sovereign Marshal': 1775,
+      'Sovereign Stinger': 1775,
+      'Sovereign Sword': 3550,
+      
+      // Sentinels of Light exceptions
+      'Sentinels of Light Ares': 1775,
+      'Sentinels of Light Operator': 1775,
+      'Sentinels of Light Sheriff': 1775,
+      'Sentinels of Light Vandal': 1775,
+    };
+    
+    // Check for special pricing first
+    if (skinName && specialPricing[skinName]) {
+      return specialPricing[skinName];
+    }
+    
+    const gunPriceMap = {
       'Select': 875,
       'Deluxe': 1275,
       'Premium': 1775,
-      'Ultra': 2475,
-      'Exclusive': 4350
+      'Exclusive': 2175,
+      'Ultra': 2475
     };
-    return priceMap[rarity] || 875;
+    
+    const meleePriceMap = {
+      'Select': 1750,    // 875 * 2
+      'Deluxe': 2550,    // 1275 * 2
+      'Premium': 3550,   // 1775 * 2
+      'Exclusive': 4350, // 2175 * 2
+      'Ultra': 4950      // 2475 * 2
+    };
+    
+    const basePrice = gunPriceMap[rarity] || 875;
+    
+    // Check if it's a melee weapon
+    const isMelee = weaponType && weaponType.toLowerCase() === 'melee';
+    
+    return isMelee ? (meleePriceMap[rarity] || 1750) : basePrice;
   }
 
   transformSkinData(weapon, skin, contentTiers) {
     const rarity = this.mapRarityFromContentTier(skin.contentTierUuid, contentTiers);
-    const cost = this.calculatePrice(rarity);
+    const weaponType = this.cleanWeaponName(weapon.displayName);
+    const collection = this.extractCollection(skin.displayName);
+    const cost = this.calculatePrice(rarity, weaponType, skin.displayName, collection);
 
     // Transform chromas to color variants
     const colorVariants = skin.chromas ? skin.chromas.map(chroma => ({
@@ -95,7 +303,7 @@ class ValorantApiService {
       weaponType: this.cleanWeaponName(weapon.displayName),
       rarity,
       cost,
-      collection: this.extractCollection(skin.displayName),
+      collection,
       thumbnailUrl: this.getBestThumbnail(skin),
       imageUrl: this.getBestImage(skin),
       hasColorVariants: colorVariants.length > 1,
@@ -230,6 +438,15 @@ class ValorantApiService {
       console.error('Error getting skin by ID:', error);
       throw error;
     }
+  }
+
+  clearCache() {
+    cache.clear();
+    this.weaponsCache = null;
+    this.contentTiersCache = null;
+    this.lastWeaponsFetch = 0;
+    this.lastContentTiersFetch = 0;
+    console.log('API cache cleared successfully');
   }
 }
 

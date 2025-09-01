@@ -189,6 +189,11 @@
   font-weight: 600;
 }
 
+/* White color for string costs (agent names, battlepass, contract rewards) */
+.detail-value.cost.string-cost {
+  color: #ffffff;
+}
+
 .modal-description {
   flex: 1;
 }

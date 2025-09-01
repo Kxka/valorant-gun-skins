@@ -63,8 +63,43 @@ const SkinCard: React.FC<SkinCardProps> = ({ skin, onClick }) => {
         
         <div className="skin-card-details">
           <span className="weapon-type">{skin.weaponType}</span>
-          <span className="skin-cost">
-            {typeof skin.cost === 'number' ? `${skin.cost} VP` : skin.cost}
+          <span className={`skin-cost ${typeof skin.cost === 'string' ? 'string-cost' : ''}`}>
+            {typeof skin.cost === 'number' ? `${skin.cost} VP` : 
+             skin.cost === 'Contract Reward' ? 
+               // Map agent contract skins to their agent names
+               (() => {
+                 const agentMappings: { [key: string]: string } = {
+                   'Eclipse Ghost': 'Astra',
+                   'RagnaRocker Frenzy': 'Breach',
+                   'Peacekeeper Sheriff': 'Brimstone',
+                   'Finesse Classic': 'Chamber',
+                   'Flutter Ghost': 'Clove',
+                   'Hush Ghost': 'Cypher',
+                   'Resolution Classic': 'Deadlock',
+                   'Karabasan Shorty': 'Fade',
+                   'Sidekick Shorty': 'Gekko',
+                   'Wayfarer Sheriff': 'Harbor',
+                   'Mythmaker Sheriff': 'Iso',
+                   'Game Over Sheriff': 'Jett',
+                   'FIRE/arm Classic': 'KAY/O',
+                   'Wunderkind Shorty': 'Killjoy',
+                   'Live Wire Frenzy': 'Neon',
+                   'Soul Silencer Ghost': 'Omen',
+                   'Spitfire Frenzy': 'Phoenix',
+                   'Pistolinha Classic': 'Raze',
+                   'Vendetta Ghost': 'Reyna',
+                   'Final Chamber Classic': 'Sage',
+                   'Swooping Frenzy': 'Skye',
+                   'Protektor Sheriff': 'Sova',
+                   'Snakebite Shorty': 'Viper',
+                   'Steel Resolve Classic': 'Vyse',
+                   'Hard Bargain Shorty': 'Tejo',
+                   'Death Wish Sheriff': 'Yoru',
+                   'Kaleidoscope Frenzy': 'Waylay'
+                 };
+                 return agentMappings[skin.name] || 'Contract Reward';
+               })() 
+             : skin.cost}
           </span>
         </div>
         

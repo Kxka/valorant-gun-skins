@@ -89,11 +89,82 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
     }
 
     if (filters.search) {
-      filtered = filtered.filter(skin =>
-        skin.name.toLowerCase().includes(filters.search.toLowerCase()) ||
-        skin.weaponType.toLowerCase().includes(filters.search.toLowerCase()) ||
-        skin.collection.toLowerCase().includes(filters.search.toLowerCase())
-      );
+      // Agent skin mappings for search
+      const agentSkinMappings: { [key: string]: string } = {
+        'Eclipse Ghost': 'Astra',
+        'RagnaRocker Frenzy': 'Breach',
+        'Peacekeeper Sheriff': 'Brimstone',
+        'Finesse Classic': 'Chamber',
+        'Flutter Ghost': 'Clove',
+        'Hush Ghost': 'Cypher',
+        'Resolution Classic': 'Deadlock',
+        'Karabasan Shorty': 'Fade',
+        'Sidekick Shorty': 'Gekko',
+        'Wayfarer Sheriff': 'Harbor',
+        'Mythmaker Sheriff': 'Iso',
+        'Game Over Sheriff': 'Jett',
+        'FIRE/arm Classic': 'KAY/O',
+        'Wunderkind Shorty': 'Killjoy',
+        'Live Wire Frenzy': 'Neon',
+        'Soul Silencer Ghost': 'Omen',
+        'Spitfire Frenzy': 'Phoenix',
+        'Pistolinha Classic': 'Raze',
+        'Vendetta Ghost': 'Reyna',
+        'Final Chamber Classic': 'Sage',
+        'Swooping Frenzy': 'Skye',
+        'Protektor Sheriff': 'Sova',
+        'Snakebite Shorty': 'Viper',
+        'Steel Resolve Classic': 'Vyse',
+        'Hard Bargain Shorty': 'Tejo',
+        'Death Wish Sheriff': 'Yoru',
+        'Kaleidoscope Frenzy': 'Waylay'
+      };
+
+      filtered = filtered.filter(skin => {
+        const searchTerm = filters.search.toLowerCase();
+        
+        // Standard searches
+        if (skin.name.toLowerCase().includes(searchTerm) ||
+            skin.weaponType.toLowerCase().includes(searchTerm) ||
+            skin.collection.toLowerCase().includes(searchTerm)) {
+          return true;
+        }
+
+        // Agent-based search
+        const agentName = agentSkinMappings[skin.name];
+        if (agentName && agentName.toLowerCase().includes(searchTerm)) {
+          return true;
+        }
+
+        // Show all agent skins when searching "agents"
+        if ('agents'.includes(searchTerm) && searchTerm.length >= 2) {
+          return agentSkinMappings.hasOwnProperty(skin.name);
+        }
+
+        // Battlepass search - exactly like agent search
+        if ('battlepass'.includes(searchTerm) && searchTerm.length >= 2) {
+          // Check if skin collection contains any battlepass collection name
+          const battlepassCollections = [
+            'kingdom', 'luxe', 'artisan', 'wasteland', 'cavalier', 'tethered', 
+            'gridcrash', 'convex', 'ruin', 'nebula', 'ruination', 'moon', 
+            'hieroscape', 'celestia', 'refractrix', 'doom', 'byteshift', 
+            'perch', 'atlas', 'space', 'interhelm', 'haloform', 'belaflaire'
+          ];
+          
+          return battlepassCollections.some(bp => 
+            skin.collection.toLowerCase().includes(bp)
+          );
+        }
+
+        // Hidden tags search (if they exist)
+        if (skin.hiddenTags && skin.hiddenTags.some((tag: string) => 
+            tag.toLowerCase().includes(searchTerm)
+          )) {
+          return true;
+        }
+
+        return false;
+      });
     }
 
     if (filters.priceMin) {

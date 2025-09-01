@@ -129,6 +129,11 @@
   font-weight: 600;
 }
 
+/* White color for string costs (agent names, battlepass, contract rewards) */
+.skin-cost.string-cost {
+  color: #ffffff;
+}
+
 .collection-name {
   font-size: 0.8rem;
   color: #6c757d;

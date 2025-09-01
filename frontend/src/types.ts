@@ -16,6 +16,7 @@ export interface Skin {
   hasAnimations: boolean;
   colorVariants: ColorVariant[];
   description: string;
+  hiddenTags?: string[];
 }
 
 export interface WeaponType {

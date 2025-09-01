@@ -50,23 +50,6 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
               />
             </div>
 
-            {skin.hasColorVariants && skin.colorVariants.length > 0 && (
-              <div className="variants-section">
-                <h4>Variants</h4>
-                <div className="variants">
-                  {skin.colorVariants.map((variant, index) => (
-                    <div key={index} className="color-variant">
-                      <div 
-                        className="color-swatch"
-                        style={{ backgroundColor: variant.color }}
-                        title={variant.name}
-                      ></div>
-                      <span className="variant-name">{variant.name}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
 
           <div className="modal-info-section">
@@ -93,22 +76,97 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
 
               <div className="detail-row">
                 <span className="detail-label">Cost:</span>
-                <span className="detail-value cost">
-                  {typeof skin.cost === 'number' ? `${skin.cost} VP` : skin.cost}
+                <span className={`detail-value cost ${typeof skin.cost === 'string' ? 'string-cost' : ''}`}>
+                  {typeof skin.cost === 'number' ? `${skin.cost} VP` : 
+                   skin.cost === 'Contract Reward' ? 
+                     // Map agent contract skins to their agent names
+                     (() => {
+                       const agentMappings: { [key: string]: string } = {
+                         'Eclipse Ghost': 'Astra',
+                         'RagnaRocker Frenzy': 'Breach',
+                         'Peacekeeper Sheriff': 'Brimstone',
+                         'Finesse Classic': 'Chamber',
+                         'Flutter Ghost': 'Clove',
+                         'Hush Ghost': 'Cypher',
+                         'Resolution Classic': 'Deadlock',
+                         'Karabasan Shorty': 'Fade',
+                         'Sidekick Shorty': 'Gekko',
+                         'Wayfarer Sheriff': 'Harbor',
+                         'Mythmaker Sheriff': 'Iso',
+                         'Game Over Sheriff': 'Jett',
+                         'FIRE/arm Classic': 'KAY/O',
+                         'Wunderkind Shorty': 'Killjoy',
+                         'Live Wire Frenzy': 'Neon',
+                         'Soul Silencer Ghost': 'Omen',
+                         'Spitfire Frenzy': 'Phoenix',
+                         'Pistolinha Classic': 'Raze',
+                         'Vendetta Ghost': 'Reyna',
+                         'Final Chamber Classic': 'Sage',
+                         'Swooping Frenzy': 'Skye',
+                         'Protektor Sheriff': 'Sova',
+                         'Snakebite Shorty': 'Viper',
+                         'Steel Resolve Classic': 'Vyse',
+                         'Hard Bargain Shorty': 'Tejo',
+                         'Death Wish Sheriff': 'Yoru',
+                         'Kaleidoscope Frenzy': 'Waylay'
+                       };
+                       return agentMappings[skin.name] || 'Contract Reward';
+                     })() 
+                   : skin.cost}
                 </span>
               </div>
 
               <div className="detail-row">
-                <span className="detail-label">Color Variants:</span>
+                <span className="detail-label">Skin Variants:</span>
                 <span className="detail-value">
-                  {skin.hasColorVariants ? 'Yes' : 'No'}
+                  {skin.hasColorVariants && skin.colorVariants && skin.colorVariants.length > 0 
+                    ? (() => {
+                        const extractColorName = (variantName: string): string => {
+                          // Extract color from patterns like "(Variant 1 Black)" or "(Variant 2 Purple/Pink)"
+                          const match = variantName.match(/\(Variant \d+ ([^)]+)\)/);
+                          if (match) {
+                            return match[1];
+                          }
+                          // If no variant pattern found and it's the base skin, return 'Default'
+                          if (!variantName.includes('Variant') && variantName === skin.name) {
+                            return 'Default';
+                          }
+                          return variantName;
+                        };
+                        
+                        const colorNames = skin.colorVariants
+                          .map(variant => extractColorName(variant.name))
+                          .filter(name => name !== 'Default') // Remove default variant from display
+                          .filter((name, index, array) => array.indexOf(name) === index); // Remove duplicates
+                        
+                        return colorNames.length > 0 ? colorNames.join(', ') : 'Default Only';
+                      })()
+                    : 'None'
+                  }
                 </span>
               </div>
 
               <div className="detail-row">
-                <span className="detail-label">Special Animations:</span>
+                <span className="detail-label">Unlockable Levels:</span>
                 <span className="detail-value">
-                  {skin.hasAnimations ? 'Yes' : 'No'}
+                  {skin.hasAnimations 
+                    ? (() => {
+                        // Extract level information from variant names
+                        const extractLevels = (variants: any[]): number => {
+                          const levelMatches = variants
+                            .map(variant => variant.name.match(/Level (\d+)/))
+                            .filter(match => match !== null)
+                            .map(match => parseInt(match![1]));
+                          
+                          // Return the highest level found, or default to 1 if none found but hasAnimations is true
+                          return levelMatches.length > 0 ? Math.max(...levelMatches) : 1;
+                        };
+                        
+                        const maxLevel = extractLevels(skin.colorVariants || []);
+                        return maxLevel > 1 ? `${maxLevel} Levels` : '1 Level';
+                      })()
+                    : 'None'
+                  }
                 </span>
               </div>
             </div>
@@ -118,25 +176,6 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
               <p>{skin.description}</p>
             </div>
 
-            <div className="modal-features">
-              {skin.hasColorVariants && (
-                <div className="feature-badge">
-                  <svg viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12,2C17.52,2 22,6.48 22,12C22,17.52 17.52,22 12,22C6.48,22 2,17.52 2,12C2,6.48 6.48,2 12,2M12,4C7.59,4 4,7.59 4,12C4,16.41 7.59,20 12,20C16.41,20 20,16.41 20,12C20,7.59 16.41,4 12,4M12,6L16,12H13V18H11V12H8L12,6Z"/>
-                  </svg>
-                  Color Variants
-                </div>
-              )}
-
-              {skin.hasAnimations && (
-                <div className="feature-badge">
-                  <svg viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20C7.59,20 4,16.41 4,12C7.59,4 12,4M11,6V12L16.25,15.43L17.75,13.18L13.5,10.25V6H11Z"/>
-                  </svg>
-                  Special Animations
-                </div>
-              )}
-            </div>
           </div>
         </div>
       </div>

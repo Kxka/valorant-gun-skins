@@ -297,19 +297,42 @@ class ValorantApiService {
       color: this.extractColorFromChroma(chroma) || '#ffffff'
     })) : [];
 
+    // Check if cost is an agent name (string) rather than a price (number)
+    const isAgentSkin = typeof cost === 'string' && cost !== 'Battlepass';
+    const agentName = isAgentSkin ? cost : null;
+    const actualCost = isAgentSkin ? 'Contract Reward' : cost;
+    
+    // Check if this is a battlepass skin
+    const isBattlepass = this.isBattlepassSkin(skin.displayName, collection);
+    
+    // Build hidden tags array
+    const hiddenTags = [];
+    if (agentName) {
+      hiddenTags.push(agentName.toLowerCase());
+    }
+    if (isBattlepass) {
+      hiddenTags.push('battlepass');
+    }
+    
+    // Debug logging for all skins
+    if (skin.displayName.includes('Final Chamber')) {
+      console.log(`DEBUG Final Chamber: cost=${cost}, typeof=${typeof cost}, isAgentSkin=${isAgentSkin}, agentName=${agentName}`);
+    }
+    
     return {
       id: this.generateId(weapon.uuid, skin.uuid),
       name: skin.displayName,
       weaponType: this.cleanWeaponName(weapon.displayName),
       rarity,
-      cost,
+      cost: actualCost,
       collection,
       thumbnailUrl: this.getBestThumbnail(skin),
       imageUrl: this.getBestImage(skin),
       hasColorVariants: colorVariants.length > 1,
       hasAnimations: skin.levels && skin.levels.length > 1,
       colorVariants,
-      description: `${skin.displayName} - ${rarity} skin for ${weapon.displayName}`
+      description: `${skin.displayName} - ${rarity} skin for ${weapon.displayName}`,
+      hiddenTags
     };
   }
 
@@ -381,6 +404,7 @@ class ValorantApiService {
 
   async getAllSkins() {
     try {
+      console.log('ValorantApiService.getAllSkins() called');
       const [weapons, contentTiers] = await Promise.all([
         this.getWeapons(),
         this.getContentTiers()

@@ -51,9 +51,9 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
             </div>
 
             {skin.hasColorVariants && skin.colorVariants.length > 0 && (
-              <div className="color-variants-section">
-                <h4>Color Variants</h4>
-                <div className="color-variants">
+              <div className="variants-section">
+                <h4>Variants</h4>
+                <div className="variants">
                   {skin.colorVariants.map((variant, index) => (
                     <div key={index} className="color-variant">
                       <div 

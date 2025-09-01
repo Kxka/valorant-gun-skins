@@ -55,16 +55,21 @@
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-.feature-icon svg {
+.feature-icon svg,
+.feature-icon-image {
   width: 14px;
   height: 14px;
 }
 
-.feature-icon.color-variants {
+.feature-icon-image {
+  object-fit: contain;
+}
+
+.feature-icon.variants {
   color: #4285f4;
 }
 
-.feature-icon.animations {
+.feature-icon.levels {
   color: #fbbc05;
   animation: pulse 2s infinite;
 }

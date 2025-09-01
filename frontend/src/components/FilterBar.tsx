@@ -176,6 +176,9 @@ const FilterBar: React.FC<FilterBarProps> = ({
         <span className="results-text">
           Showing {filteredCount} of {totalSkins} skins
         </span>
+        <span className="legend-text">
+          <img src="/variant-icon-transparent.png" alt="Skin Variants" className="legend-icon" /> Skin Variants • <img src="/lock-logo.png" alt="Unlockable Levels" className="legend-icon" /> Unlockable Levels
+        </span>
       </div>
     </div>
   );

@@ -36,18 +36,14 @@ const SkinCard: React.FC<SkinCardProps> = ({ skin, onClick }) => {
         
         <div className="skin-card-features">
           {skin.hasColorVariants && (
-            <div className="feature-icon color-variants" title="Color Variants Available">
-              <svg viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12,2C17.52,2 22,6.48 22,12C22,17.52 17.52,22 12,22C6.48,22 2,17.52 2,12C2,6.48 6.48,2 12,2M12,4C7.59,4 4,7.59 4,12C4,16.41 7.59,20 12,20C16.41,20 20,16.41 20,12C20,7.59 16.41,4 12,4M12,6L16,12H13V18H11V12H8L12,6Z"/>
-              </svg>
+            <div className="feature-icon variants" title="Variants Available">
+              <img src="/variant-icon-transparent.png" alt="Variants" className="feature-icon-image" />
             </div>
           )}
           
           {skin.hasAnimations && (
-            <div className="feature-icon animations" title="Special Animations">
-              <svg viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4M11,6V12L16.25,15.43L17.75,13.18L13.5,10.25V6H11Z"/>
-              </svg>
+            <div className="feature-icon levels" title="Levels Available">
+              <img src="/lock-logo.png" alt="Levels" className="feature-icon-image" />
             </div>
           )}
         </div>

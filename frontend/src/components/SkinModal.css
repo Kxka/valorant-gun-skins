@@ -85,14 +85,14 @@
   border-radius: 8px;
 }
 
-.color-variants-section h4 {
+.variants-section h4 {
   color: #ffffff;
   font-size: 1.1rem;
   margin: 0 0 0.75rem 0;
   font-weight: 600;
 }
 
-.color-variants {
+.variants {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
@@ -260,7 +260,7 @@
     font-size: 1.5rem;
   }
 
-  .color-variants {
+  .variants {
     justify-content: center;
   }
 }

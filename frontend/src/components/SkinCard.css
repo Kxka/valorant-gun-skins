@@ -1,0 +1,161 @@
+.skin-card {
+  background: linear-gradient(145deg, #1e2328 0%, #0f1419 100%);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.skin-card:hover {
+  transform: translateY(-8px);
+  border-color: #ff4655;
+  box-shadow: 0 12px 24px rgba(255, 70, 85, 0.3);
+}
+
+.skin-card-image-container {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+  background: linear-gradient(45deg, #2c3540, #1e2328);
+}
+
+.skin-card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  transition: transform 0.3s ease;
+  background: linear-gradient(135deg, rgba(45, 53, 64, 0.8), rgba(30, 35, 40, 0.9));
+  padding: 10px;
+}
+
+.skin-card:hover .skin-card-image {
+  transform: scale(1.05);
+}
+
+.skin-card-features {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  display: flex;
+  gap: 4px;
+}
+
+.feature-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.feature-icon svg,
+.feature-icon-image {
+  width: 14px;
+  height: 14px;
+}
+
+.feature-icon-image {
+  object-fit: contain;
+}
+
+.feature-icon.variants {
+  color: #4285f4;
+}
+
+.feature-icon.levels {
+  color: #fbbc05;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+
+.skin-card-info {
+  padding: 1rem;
+  color: white;
+}
+
+.skin-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 0.5rem;
+}
+
+.skin-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0;
+  color: #ffffff;
+  line-height: 1.2;
+  flex: 1;
+  margin-right: 0.5rem;
+  text-transform: uppercase;
+}
+
+.skin-rarity {
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.skin-card-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.weapon-type {
+  color: #a0a8b0;
+  font-weight: 500;
+}
+
+.skin-cost {
+  color: #ff4655;
+  font-weight: 600;
+}
+
+/* White color for string costs (agent names, battlepass, contract rewards) */
+.skin-cost.string-cost {
+  color: #ffffff;
+}
+
+.collection-name {
+  font-size: 0.8rem;
+  color: #6c757d;
+  font-style: italic;
+  border-top: 1px solid #2c3540;
+  padding-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .skin-card-image-container {
+    height: 160px;
+  }
+
+  .skin-name {
+    font-size: 1rem;
+  }
+
+  .skin-card-details {
+    font-size: 0.8rem;
+  }
+
+  .collection-name {
+    font-size: 0.75rem;
+  }
+}

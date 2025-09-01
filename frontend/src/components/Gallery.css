@@ -1,0 +1,150 @@
+.gallery-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 2rem 4rem 2rem;
+  min-height: 100vh;
+}
+
+.gallery-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.gallery-header h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 0.5rem 0;
+  text-shadow: 0 0 20px rgba(255, 70, 85, 0.5);
+  letter-spacing: 1px;
+}
+
+.gallery-header p {
+  font-size: 1.1rem;
+  color: #a0a8b0;
+  margin: 0;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  color: #ffffff;
+}
+
+.loading-spinner {
+  width: 50px;
+  height: 50px;
+  border: 3px solid #2c3540;
+  border-top: 3px solid #ff4655;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-container p {
+  font-size: 1.1rem;
+  color: #a0a8b0;
+}
+
+.error-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+  color: #ffffff;
+}
+
+.error-container h2 {
+  font-size: 2rem;
+  color: #ff4655;
+  margin: 0 0 1rem 0;
+}
+
+.error-container p {
+  font-size: 1.1rem;
+  color: #a0a8b0;
+  margin: 0 0 2rem 0;
+}
+
+.retry-button {
+  background: linear-gradient(135deg, #ff4655, #e03e4e);
+  color: white;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.retry-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(255, 70, 85, 0.3);
+}
+
+.no-results {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #a0a8b0;
+}
+
+.no-results h3 {
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin: 0 0 0.5rem 0;
+}
+
+.no-results p {
+  font-size: 1rem;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .gallery-container {
+    padding: 1rem;
+  }
+
+  .gallery-header h1 {
+    font-size: 2rem;
+  }
+
+  .gallery-header p {
+    font-size: 1rem;
+  }
+
+  .gallery-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .gallery-header h1 {
+    font-size: 1.75rem;
+  }
+}

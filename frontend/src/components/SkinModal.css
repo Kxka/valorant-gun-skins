@@ -1,0 +1,271 @@
+.skin-modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 2rem;
+  backdrop-filter: blur(5px);
+}
+
+.skin-modal {
+  background: linear-gradient(145deg, #1e2328 0%, #0f1419 100%);
+  border-radius: 16px;
+  max-width: 1000px;
+  width: 100%;
+  max-height: 90vh;
+  overflow: hidden;
+  border: 2px solid #ff4655;
+  box-shadow: 0 20px 40px rgba(255, 70, 85, 0.3);
+  position: relative;
+}
+
+.modal-close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(255, 70, 85, 0.8);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: all 0.3s ease;
+}
+
+.modal-close-button:hover {
+  background: #ff4655;
+  transform: scale(1.1);
+}
+
+.modal-close-button svg {
+  width: 20px;
+  height: 20px;
+}
+
+.modal-content {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  height: 100%;
+  max-height: 90vh;
+}
+
+.modal-image-section {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.modal-image-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #2c3540, #1e2328);
+  border-radius: 12px;
+  overflow: hidden;
+  min-height: 400px;
+}
+
+.modal-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.variants-section h4 {
+  color: #ffffff;
+  font-size: 1.1rem;
+  margin: 0 0 0.75rem 0;
+  font-weight: 600;
+}
+
+.variants {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.color-variant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.color-swatch {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.color-swatch:hover {
+  transform: scale(1.1);
+  border-color: #ff4655;
+}
+
+.variant-name {
+  font-size: 0.8rem;
+  color: #a0a8b0;
+  text-align: center;
+}
+
+.modal-info-section {
+  background: rgba(15, 20, 25, 0.8);
+  padding: 2rem;
+  border-left: 1px solid #2c3540;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.modal-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.modal-skin-name {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.modal-rarity {
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  align-self: flex-start;
+}
+
+.modal-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.detail-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #2c3540;
+}
+
+.detail-label {
+  font-weight: 600;
+  color: #a0a8b0;
+  font-size: 0.9rem;
+}
+
+.detail-value {
+  font-weight: 500;
+  color: #ffffff;
+  text-align: right;
+}
+
+.detail-value.cost {
+  color: #ff4655;
+  font-weight: 600;
+}
+
+/* White color for string costs (agent names, battlepass, contract rewards) */
+.detail-value.cost.string-cost {
+  color: #ffffff;
+}
+
+.modal-description {
+  flex: 1;
+}
+
+.modal-description h4 {
+  color: #ffffff;
+  font-size: 1.1rem;
+  margin: 0 0 0.75rem 0;
+  font-weight: 600;
+}
+
+.modal-description p {
+  color: #a0a8b0;
+  line-height: 1.5;
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.modal-features {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.feature-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(255, 70, 85, 0.1);
+  border: 1px solid #ff4655;
+  padding: 0.5rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #ff4655;
+}
+
+.feature-badge svg {
+  width: 16px;
+  height: 16px;
+}
+
+@media (max-width: 768px) {
+  .skin-modal-backdrop {
+    padding: 1rem;
+  }
+
+  .modal-content {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr auto;
+  }
+
+  .modal-image-section {
+    padding: 1.5rem;
+  }
+
+  .modal-image-container {
+    min-height: 250px;
+  }
+
+  .modal-info-section {
+    border-left: none;
+    border-top: 1px solid #2c3540;
+    padding: 1.5rem;
+    max-height: 50vh;
+  }
+
+  .modal-skin-name {
+    font-size: 1.5rem;
+  }
+
+  .variants {
+    justify-content: center;
+  }
+}

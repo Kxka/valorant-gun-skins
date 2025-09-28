@@ -224,6 +224,34 @@
   }
 }
 
+@media (max-width: 1024px) and (min-width: 769px) {
+  /* iPad and tablet styles */
+  .header-container {
+    padding: 0 1rem;
+  }
+
+  .logo h1 {
+    font-size: 1.6rem;
+  }
+
+  .navigation {
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    flex: 1;
+  }
+
+  .nav-link, .dropdown-button {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.9rem;
+    white-space: nowrap;
+  }
+
+  .dropdown-content {
+    min-width: 200px;
+  }
+}
+
 @media (max-width: 768px) {
   .header-container {
     padding: 0 0.5rem;

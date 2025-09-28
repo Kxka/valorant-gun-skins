@@ -1,0 +1,772 @@
+=== VALORANT ADDITIONAL COLLECTIONS INFORMATION ===
+/ all guns should be deluxe rarity in this collection
+**ABYSSAL COLLECTION**
+Total weapons: 4
+/ replace descrpiton for all weapons with Bundle Cost 5100
+/ Caeruleus is also part of abyssal collection, also replace descrpiton
+Guardians:
+  Abyssal Guardian    Valorant Points 1,275
+    Abyssal Guardian - Deluxe skin for Guardian
+
+Phantoms:
+  Abyssal Phantom    Valorant Points 1,275
+    Abyssal Phantom - Deluxe skin for Phantom
+
+Sheriffs:
+  Abyssal Sheriff    Valorant Points 1,275
+    Abyssal Sheriff - Deluxe skin for Sheriff
+
+Spectres:
+  Abyssal Spectre    Valorant Points 1,275
+    Abyssal Spectre - Deluxe skin for Spectre
+
+============================================================
+
+**ALTITUDE COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Buckys:
+  Altitude Bucky    Valorant Points 1,275
+    Altitude Bucky - Deluxe skin for Bucky
+
+Melees:
+  Altitude Knuckle Knife    Valorant Points 2,550
+    Altitude Knuckle Knife - Ultra skin for Melee
+
+Odins:
+  Altitude Odin    Valorant Points 1,275
+    Altitude Odin - Deluxe skin for Odin
+
+Sheriffs:
+  Altitude Sheriff    Valorant Points 1,275
+    Altitude Sheriff - Deluxe skin for Sheriff
+
+Vandals:
+  Altitude Vandal    Valorant Points 1,275
+    Altitude Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**APERTURE COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Bulldogs:
+  Aperture Bulldog    Valorant Points 1,275
+    Aperture Bulldog - Deluxe skin for Bulldog
+
+Ghosts:
+  Aperture Ghost    Valorant Points 1,275
+    Aperture Ghost - Deluxe skin for Ghost
+
+Melees:
+  Aperture Stiletto    Valorant Points 2,550
+    Aperture Stiletto - Ultra skin for Melee
+
+Outlaws:
+  Aperture Outlaw    Valorant Points 1,275
+    Aperture Outlaw - Deluxe skin for Outlaw
+
+Phantoms:
+  Aperture Phantom    Valorant Points 1,275
+    Aperture Phantom - Deluxe skin for Phantom
+
+============================================================
+
+**ARISTOCRAT COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with No Additional Information
+
+Ares:
+  Aristocrat Ares    Valorant Points 1,275
+    Aristocrat Ares - Deluxe skin for Ares
+
+Bulldogs:
+  Aristocrat Bulldog    Valorant Points 1,275
+    Aristocrat Bulldog - Deluxe skin for Bulldog
+
+Sheriffs:
+  Aristocrat Sheriff    Valorant Points 1,275
+    Aristocrat Sheriff - Deluxe skin for Sheriff
+
+Stingers:
+  Aristocrat Stinger    Valorant Points 1,275
+    Aristocrat Stinger - Deluxe skin for Stinger
+
+Vandals:
+  Aristocrat Vandal    Valorant Points 1,275
+    Aristocrat Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**AVALANCHE COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with No Additional Information
+
+Classics:
+  Avalanche Classic    Valorant Points 1,275
+    Avalanche Classic - Deluxe skin for Classic
+
+Marshals:
+  Avalanche Marshal    Valorant Points 1,275
+    Avalanche Marshal - Deluxe skin for Marshal
+
+Phantoms:
+  Avalanche Phantom    Valorant Points 1,275
+    Avalanche Phantom - Deluxe skin for Phantom
+
+Spectres:
+  Avalanche Spectre    Valorant Points 1,275
+    Avalanche Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Avalanche Vandal    Valorant Points 1,275
+    Avalanche Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**CHROMEDEK COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Bulldogs:
+  Chromedek Bulldog    Valorant Points 1,275
+    Chromedek Bulldog - Deluxe skin for Bulldog
+
+Marshals:
+  Chromedek Marshal    Valorant Points 1,275
+    Chromedek Marshal - Deluxe skin for Marshal
+
+Melees:
+  Chromedek Gauntlet    Valorant Points 2,550
+    Chromedek Gauntlet - Ultra skin for Melee
+
+Phantoms:
+  Chromedek Phantom    Valorant Points 1,275
+    Chromedek Phantom - Deluxe skin for Phantom
+
+Shortys:
+  Chromedek Shorty    Valorant Points 1,275
+    Chromedek Shorty - Deluxe skin for Shorty
+
+============================================================
+
+**COMBAT COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+/ Rename collection to Combat Crafts Collection
+Bulldogs:
+  Combat Crafts Bulldog    Valorant Points 1,275
+    Combat Crafts Bulldog - Deluxe skin for Bulldog
+
+Frenzys:
+  Combat Crafts Frenzy    Valorant Points 1,275
+    Combat Crafts Frenzy - Deluxe skin for Frenzy
+
+Judges:
+  Combat Crafts Judge    Valorant Points 1,275
+    Combat Crafts Judge - Deluxe skin for Judge
+
+Melees:
+  Combat Crafts Axe    Valorant Points 2,550
+    Combat Crafts Axe - Ultra skin for Melee
+
+Phantoms:
+  Combat Crafts Phantom    Valorant Points 1,275
+    Combat Crafts Phantom - Deluxe skin for Phantom
+
+============================================================
+
+**EMBERCLAD COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Bulldogs:
+  Emberclad Bulldog    Valorant Points 1,275
+    Emberclad Bulldog - Deluxe skin for Bulldog
+
+Frenzys:
+  Emberclad Frenzy    Valorant Points 1,275
+    Emberclad Frenzy - Deluxe skin for Frenzy
+
+Melees:
+  Emberclad Hammer    Valorant Points 2,550
+    Emberclad Hammer - Ultra skin for Melee
+
+Phantoms:
+  Emberclad Phantom    Valorant Points 1,275
+    Emberclad Phantom - Deluxe skin for Phantom
+
+Spectres:
+  Emberclad Spectre    Valorant Points 1,275
+    Emberclad Spectre - Deluxe skin for Spectre
+
+============================================================
+
+**HOLOMOKU COLLECTION**
+Total weapons: 4
+/ replace descrpiton for all weapons with Bundle Cost 5100
+/ Kaimana is part of collection
+Bulldogs:
+  Holomoku Bulldog    Valorant Points 1,275
+    Holomoku Bulldog - Deluxe skin for Bulldog
+
+Frenzys:
+  Holomoku Frenzy    Valorant Points 1,275
+    Holomoku Frenzy - Deluxe skin for Frenzy
+
+Outlaws:
+  Holomoku Outlaw    Valorant Points 1,275
+    Holomoku Outlaw - Deluxe skin for Outlaw
+
+Vandals:
+  Holomoku Vandal    Valorant Points 1,275
+    Holomoku Vandal - Deluxe skin for Vandal
+
+
+============================================================
+
+**HORIZON COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 4270
+
+Buckys:
+  Horizon Bucky    Valorant Points 1,275
+    Horizon Bucky - Deluxe skin for Bucky
+
+Bulldogs:
+  Horizon Bulldog    Valorant Points 1,275
+    Horizon Bulldog - Deluxe skin for Bulldog
+
+Frenzys:
+  Horizon Frenzy    Valorant Points 1,275
+    Horizon Frenzy - Deluxe skin for Frenzy
+
+Spectres:
+  Horizon Spectre    Valorant Points 1,275
+    Horizon Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Horizon Vandal    Valorant Points 1,275
+    Horizon Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**KOHAKU COLLECTION**
+Total weapons: 4
+/ replace descrpiton for all weapons with Bundle Cost 5100
+/ rename collection to Kohaku & Matsuba Collection
+/ Equilibrium is part of collection
+Classics:
+  Kohaku & Matsuba Classic    Valorant Points 1,275
+    Kohaku & Matsuba Classic - Deluxe skin for Classic
+
+Judges:
+  Kohaku & Matsuba Judge    Valorant Points 1,275
+    Kohaku & Matsuba Judge - Deluxe skin for Judge
+
+Operators:
+  Kohaku & Matsuba Operator    Valorant Points 1,275
+    Kohaku & Matsuba Operator - Deluxe skin for Operator
+
+Phantoms:
+  Kohaku & Matsuba Phantom    Valorant Points 1,275
+    Kohaku & Matsuba Phantom - Deluxe skin for Phantom
+
+============================================================
+
+**LUNA COLLECTION**
+Total weapons: 4
+/ Luna's Descent is part of collection
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Ghosts:
+  Luna Ghost    Valorant Points 1,275
+    Luna Ghost - Deluxe skin for Ghost
+
+Marshals:
+  Luna Marshal    Valorant Points 1,275
+    Luna Marshal - Deluxe skin for Marshal
+
+Spectres:
+  Luna Spectre    Valorant Points 1,275
+    Luna Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Luna Vandal    Valorant Points 1,275
+    Luna Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**MK.VII COLLECTION**
+Total weapons: 5
+/ rename colleciton to MK.VII Liberty Collection
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Guardians:
+  MK.VII Liberty Guardian    Valorant Points 1,275
+    MK.VII Liberty Guardian - Deluxe skin for Guardian
+
+Judges:
+  MK.VII Liberty Judge    Valorant Points 1,275
+    MK.VII Liberty Judge - Deluxe skin for Judge
+
+Melees:
+  MK.VII Liberty Combat Knife    Valorant Points 2,550
+    MK.VII Liberty Combat Knife - Ultra skin for Melee
+
+Operators:
+  MK.VII Liberty Operator     Valorant Points 1,275
+    MK.VII Liberty Operator  - Deluxe skin for Operator
+
+Vandals:
+  MK.VII Liberty Vandal    Valorant Points 1,275
+    MK.VII Liberty Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**MINIMA COLLECTION**
+Total weapons: 10
+/ replace descrpiton for sheriff, spectre, phantom, oeprator, ares with with Bundle Cost 4270
+/ replace descrpiton for ghost, bulldog, vandal, marshal, karambit with Bundle Cost 5100
+
+
+Ares:
+  Minima Ares    Valorant Points 1,275
+    Minima Ares - Deluxe skin for Ares
+
+Bulldogs:
+  Minima Bulldog    Valorant Points 1,275
+    Minima Bulldog - Deluxe skin for Bulldog
+
+Ghosts:
+  Minima Ghost    Valorant Points 1,275
+    Minima Ghost - Deluxe skin for Ghost
+
+Marshals:
+  Minima Marshal    Valorant Points 1,275
+    Minima Marshal - Deluxe skin for Marshal
+
+Melees:
+  Minima Karambit    Valorant Points 3,550
+    Minima Karambit - Ultra skin for Melee
+
+Operators:
+  Minima Operator    Valorant Points 1,275
+    Minima Operator - Deluxe skin for Operator
+
+Phantoms:
+  Minima Phantom    Valorant Points 1,275
+    Minima Phantom - Deluxe skin for Phantom
+
+Sheriffs:
+  Minima Sheriff    Valorant Points 1,275
+    Minima Sheriff - Deluxe skin for Sheriff
+
+Spectres:
+  Minima Spectre    Valorant Points 1,275
+    Minima Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Minima Vandal    Valorant Points 1,275
+    Minima Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**NO COLLECTION**
+Total weapons: 5
+/rename collection to No Limits Collection
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Bulldogs:
+  NO LIMITS Bulldog    Valorant Points 1,275
+    NO LIMITS Bulldog - Deluxe skin for Bulldog
+
+Ghosts:
+  NO LIMITS Ghost    Valorant Points 1,275
+    NO LIMITS Ghost - Deluxe skin for Ghost
+
+Melees:
+  NO LIMITS Bat    Valorant Points 2,550
+    NO LIMITS Bat - Ultra skin for Melee
+
+Spectres:
+  NO LIMITS Spectre    Valorant Points 1,275
+    NO LIMITS Spectre - Deluxe skin for Spectre
+
+Vandals:
+  NO LIMITS Vandal    Valorant Points 1,275
+    NO LIMITS Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**NUNCA COLLECTION**
+Total weapons: 5
+/ rename colleciton to Nunca Olvidados Collection
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Ares:
+  Nunca Olvidados Ares    Valorant Points 1,275
+    Nunca Olvidados Ares - Deluxe skin for Ares
+
+Bulldogs:
+  Nunca Olvidados Bulldog    Valorant Points 1,275
+    Nunca Olvidados Bulldog - Deluxe skin for Bulldog
+
+Frenzys:
+  Nunca Olvidados Frenzy    Valorant Points 1,275
+    Nunca Olvidados Frenzy - Deluxe skin for Frenzy
+
+Melees:
+  Catrina    Valorant Points 2,550
+    Catrina - Ultra skin for Melee
+
+Vandals:
+  Nunca Olvidados Vandal    Valorant Points 1,275
+    Nunca Olvidados Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**ORION COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Frenzys:
+  Orion Frenzy    Valorant Points 1,275
+    Orion Frenzy - Deluxe skin for Frenzy
+
+Melees:
+  Orion Sword    Valorant Points 2,550
+    Orion Sword - Ultra skin for Melee
+
+Odins:
+  Orion Odin    Valorant Points 1,275
+    Orion Odin - Deluxe skin for Odin
+
+Phantoms:
+  Orion Phantom    Valorant Points 1,275
+    Orion Phantom - Deluxe skin for Phantom
+
+Vandals:
+  Orion Vandal    Valorant Points 1,275
+    Orion Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**PRISM COLLECTION**
+Total weapons: 10
+/ Prism III Classic, Prism III Judge, Prism III Axe, Prism III Odin are part of Prism III Collection
+/ Prism//Reloaded Outlaw Is part of Prism collection
+/ replace descrpiton for ghost, spectre, phantom, operator, knife with Bundle Cost 5100
+/ replace descrpiton for Ares with No Additional Information
+/ replace descrpiton Outlaw with Part of Throwback Pack: Outlaw Collection
+
+Ares:
+  Prism Ares    Valorant Points 1,275
+    Prism Ares - Deluxe skin for Ares
+
+Classics:
+  Prism III Classic    Valorant Points 875
+    Prism III Classic - Select skin for Classic
+
+Ghosts:
+  Prism Ghost    Valorant Points 1,275
+    Prism Ghost - Deluxe skin for Ghost
+
+Judges:
+  Prism III Judge    Valorant Points 875
+    Prism III Judge - Select skin for Judge
+
+Melees:
+  Prism Knife    Valorant Points 2,550
+    Prism Knife - Ultra skin for Melee
+  Prism III Axe    Valorant Points 4,950
+    Prism III Axe - Ultra skin for Melee
+
+Odins:
+  Prism III Odin    Valorant Points 875
+    Prism III Odin - Select skin for Odin
+
+Operators:
+  Prism Operator    Valorant Points 1,275
+    Prism Operator - Deluxe skin for Operator
+
+Phantoms:
+  Prism Phantom    Valorant Points 1,275
+    Prism Phantom - Deluxe skin for Phantom
+
+Spectres:
+  Prism Spectre    Valorant Points 1,275
+    Prism Spectre - Deluxe skin for Spectre
+
+============================================================
+
+**SAKURA COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 4270
+
+Ares:
+  Sakura Ares    Valorant Points 1,275
+    Sakura Ares - Deluxe skin for Ares
+
+Classics:
+  Sakura Classic    Valorant Points 1,275
+    Sakura Classic - Deluxe skin for Classic
+
+Sheriffs:
+  Sakura Sheriff    Valorant Points 1,275
+    Sakura Sheriff - Deluxe skin for Sheriff
+
+Stingers:
+  Sakura Stinger    Valorant Points 1,275
+    Sakura Stinger - Deluxe skin for Stinger
+
+Vandals:
+  Sakura Vandal    Valorant Points 1,275
+    Sakura Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**SARMAD COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Frenzys:
+  Sarmad Frenzy    Valorant Points 1,275
+    Sarmad Frenzy - Deluxe skin for Frenzy
+
+Melees:
+  Blade of Serket    Valorant Points 2,550
+    Blade of Serket - Ultra skin for Melee
+
+Phantoms:
+  Sarmad Phantom    Valorant Points 1,275
+    Sarmad Phantom - Deluxe skin for Phantom
+
+Spectres:
+  Sarmad Spectre    Valorant Points 1,275
+    Sarmad Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Sarmad Vandal    Valorant Points 1,275
+    Sarmad Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**SILVANUS COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 4270
+
+Operators:
+  Silvanus Operator    Valorant Points 1,275
+    Silvanus Operator - Deluxe skin for Operator
+
+Phantoms:
+  Silvanus Phantom    Valorant Points 1,275
+    Silvanus Phantom - Deluxe skin for Phantom
+
+Sheriffs:
+  Silvanus Sheriff    Valorant Points 1,275
+    Silvanus Sheriff - Deluxe skin for Sheriff
+
+Stingers:
+  Silvanus Stinger    Valorant Points 1,275
+    Silvanus Stinger - Deluxe skin for Stinger
+
+Vandals:
+  Silvanus Vandal    Valorant Points 1,275
+    Silvanus Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**SNOWFALL COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Ares:
+  Snowfall Ares    Valorant Points 1,275
+    Snowfall Ares - Deluxe skin for Ares
+
+Classics:
+  Snowfall Classic    Valorant Points 1,275
+    Snowfall Classic - Deluxe skin for Classic
+
+Judges:
+  Snowfall Judge    Valorant Points 1,275
+    Snowfall Judge - Deluxe skin for Judge
+
+Melees:
+  Snowfall Wand    Valorant Points 2,550
+    Snowfall Wand - Ultra skin for Melee
+
+Phantoms:
+  Snowfall Phantom    Valorant Points 1,275
+    Snowfall Phantom - Deluxe skin for Phantom
+
+============================================================
+
+**TEAM COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5616
+
+Frenzys:
+  Team Ace Frenzy    Valorant Points 1,275
+    Team Ace Frenzy - Deluxe skin for Frenzy
+
+Judges:
+  Team Ace Judge    Valorant Points 1,275
+    Team Ace Judge - Deluxe skin for Judge
+
+Operators:
+  Team Ace Operator    Valorant Points 1,275
+    Team Ace Operator - Deluxe skin for Operator
+
+Phantoms:
+  Team Ace Phantom    Valorant Points 1,275
+    Team Ace Phantom - Deluxe skin for Phantom
+
+Vandals:
+  Team Ace Vandal    Valorant Points 1,275
+    Team Ace Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**TIGRIS COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Melees:
+  Hu Else    Valorant Points 2,550
+    Hu Else - Ultra skin for Melee
+
+Operators:
+  Tigris Operator    Valorant Points 1,275
+    Tigris Operator - Deluxe skin for Operator
+
+Phantoms:
+  Tigris Phantom    Valorant Points 1,275
+    Tigris Phantom - Deluxe skin for Phantom
+
+Shortys:
+  Tigris Shorty    Valorant Points 1,275
+    Tigris Shorty - Deluxe skin for Shorty
+
+Spectres:
+  Tigris Spectre    Valorant Points 1,275
+    Tigris Spectre - Deluxe skin for Spectre
+
+============================================================
+
+**TITANMAIL COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Ares:
+  Titanmail Ares    Valorant Points 1,275
+    Titanmail Ares - Deluxe skin for Ares
+
+Buckys:
+  Titanmail Bucky    Valorant Points 1,275
+    Titanmail Bucky - Deluxe skin for Bucky
+
+Frenzys:
+  Titanmail Frenzy    Valorant Points 1,275
+    Titanmail Frenzy - Deluxe skin for Frenzy
+
+Melees:
+  Titanmail Mace    Valorant Points 2,550
+    Titanmail Mace - Ultra skin for Melee
+
+Vandals:
+  Titanmail Vandal    Valorant Points 1,275
+    Titanmail Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**VALORANT GO! VOL. 2 COLLECTION**
+Total weapons: 1
+
+Melees:
+  Yoru's Stylish Butterfly Comb    Valorant Points 3,550
+    Yoru's Stylish Butterfly Comb - Ultra skin for Melee
+
+============================================================
+
+**WASTELAND COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 4270
+
+Marshals:
+  Wasteland Marshal    Valorant Points Battlepass
+    Wasteland Marshal - Deluxe skin for Marshal
+
+Sheriffs:
+  Wasteland Sheriff    Valorant Points Battlepass
+    Wasteland Sheriff - Deluxe skin for Sheriff
+
+Shortys:
+  Wasteland Shorty    Valorant Points Battlepass
+    Wasteland Shorty - Deluxe skin for Shorty
+
+Spectres:
+  Wasteland Spectre    Valorant Points Battlepass
+    Wasteland Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Wasteland Vandal    Valorant Points Battlepass
+    Wasteland Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**WINTERWUNDERLAND COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Ghosts:
+  Winterwunderland Ghost    Valorant Points 1,275
+    Winterwunderland Ghost - Deluxe skin for Ghost
+
+Marshals:
+  Winterwunderland Marshal    Valorant Points 1,275
+    Winterwunderland Marshal - Deluxe skin for Marshal
+
+Melees:
+  Winterwunderland Candy Cane    Valorant Points 2,550
+    Winterwunderland Candy Cane - Ultra skin for Melee
+
+Phantoms:
+  Winterwunderland Phantom    Valorant Points 1,275
+    Winterwunderland Phantom - Deluxe skin for Phantom
+
+Vandals:
+  Winterwunderland Vandal    Valorant Points 1,275
+    Winterwunderland Vandal - Deluxe skin for Vandal
+
+============================================================
+
+**VALORANT GO! VOL. 3 COLLECTION**
+Total weapons: 5
+/ replace descrpiton for all weapons with Bundle Cost 5950
+
+Ghosts:
+  VALORANT GO! Vol. 3 Ghost    Valorant Points 1,275
+    Bundle Cost 5950
+
+Marshals:
+  VALORANT GO! Vol. 3 Marshal    Valorant Points 1,275
+    Bundle Cost 5950
+
+Phantoms:
+  VALORANT GO! Vol. 3 Phantom    Valorant Points 1,275
+    Bundle Cost 5950
+
+Spectres:
+  VALORANT GO! Vol. 3 Spectre    Valorant Points 1,275
+    Bundle Cost 5950
+
+Melees:
+  VALORANT GO! Vol. 3 Dagger    Valorant Points 2,550
+    Bundle Cost 5950
+
+============================================================

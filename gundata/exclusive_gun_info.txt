@@ -1,0 +1,691 @@
+=== VALORANT EXCLUSIVE COLLECTIONS INFORMATION ===
+/all guns should be exclusive rarity
+**ARAXYS COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Bulldogs:
+  Araxys Bulldog    Valorant Points 2,175
+    Araxys Bulldog - Ultra skin for Bulldog
+
+Guardians:
+  Araxys Guardian    Valorant Points 2,175
+    Araxys Guardian - Ultra skin for Guardian
+
+Melees:
+  Araxys Bio Harvester    Valorant Points 4,350
+    Araxys Bio Harvester - Ultra skin for Melee
+  Araxys Bio-Atomizers    Valorant Points 5,350
+    Araxys Bio-Atomizers - Ultra skin for Melee
+
+Operators:
+  Araxys Operator    Valorant Points 2,175
+    Araxys Operator - Ultra skin for Operator
+
+Outlaws:
+  Araxys Outlaw    Valorant Points 2,175
+    Araxys Outlaw - Ultra skin for Outlaw
+
+Phantoms:
+  Araxys Phantom    Valorant Points 2,175
+    Araxys Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Araxys Sheriff    Valorant Points 2,175
+    Araxys Sheriff - Ultra skin for Sheriff
+
+Shortys:
+  Araxys Shorty    Valorant Points 2,175
+    Araxys Shorty - Ultra skin for Shorty
+
+Vandals:
+  Araxys Vandal    Valorant Points 2,175
+    Araxys Vandal - Ultra skin for Vandal
+
+============================================================
+
+**BLASTX COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Frenzys:
+  BlastX Frenzy    Valorant Points 2,175
+    BlastX Frenzy - Ultra skin for Frenzy
+
+Melees:
+  BlastX Polymer KnifeTech Coated Knife    Valorant Points 4,350
+    BlastX Polymer KnifeTech Coated Knife - Ultra skin for Melee
+
+Odins:
+  BlastX Odin    Valorant Points 2,175
+    BlastX Odin - Ultra skin for Odin
+
+Phantoms:
+  BlastX Phantom    Valorant Points 2,175
+    BlastX Phantom - Ultra skin for Phantom
+
+Spectres:
+  BlastX Spectre    Valorant Points 2,175
+    BlastX Spectre - Ultra skin for Spectre
+
+============================================================
+
+**BUBBLEGUM COLLECTION**
+Total weapons: 5
+/rename colleciton to bubblegum deathwish
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Melees:
+  Bubblegum Deathwish Chainsaw    Valorant Points 4,350
+    Bubblegum Deathwish Chainsaw - Ultra skin for Melee
+
+Operators:
+  Bubblegum Deathwish Operator    Valorant Points 2,175
+    Bubblegum Deathwish Operator - Ultra skin for Operator
+
+Phantoms:
+  Bubblegum Deathwish Phantom    Valorant Points 2,175
+    Bubblegum Deathwish Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Bubblegum Deathwish Sheriff    Valorant Points 2,175
+    Bubblegum Deathwish Sheriff - Ultra skin for Sheriff
+
+Stingers:
+  Bubblegum Deathwish Stinger    Valorant Points 2,175
+    Bubblegum Deathwish Stinger - Ultra skin for Stinger
+
+============================================================
+
+**CYRAX COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Ghosts:
+  CYRAX Ghost    Valorant Points 2,175
+    CYRAX Ghost - Ultra skin for Ghost
+
+Guardians:
+  CYRAX Guardian    Valorant Points 2,175
+    CYRAX Guardian - Ultra skin for Guardian
+
+Melees:
+  CYRAX Fanblade    Valorant Points 5,350
+    CYRAX Fanblade - Ultra skin for Melee
+
+Stingers:
+  CYRAX Stinger    Valorant Points 2,175
+    CYRAX Stinger - Ultra skin for Stinger
+
+Vandals:
+  CYRAX Vandal    Valorant Points 2,175
+    CYRAX Vandal - Ultra skin for Vandal
+
+============================================================
+
+**CHRONOVOID COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Judges:
+  ChronoVoid Judge    Valorant Points 2,175
+    ChronoVoid Judge - Ultra skin for Judge
+
+Melees:
+  Terminus A Quo    Valorant Points 4,350
+    Terminus A Quo - Ultra skin for Melee
+
+Phantoms:
+  ChronoVoid Phantom    Valorant Points 2,175
+    ChronoVoid Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  ChronoVoid Sheriff    Valorant Points 2,175
+    ChronoVoid Sheriff - Ultra skin for Sheriff
+
+Vandals:
+  ChronoVoid Vandal    Valorant Points 2,175
+    ChronoVoid Vandal - Ultra skin for Vandal
+
+============================================================
+
+**DIVERGENCE COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Classics:
+  Divergence Classic    Valorant Points 2,175
+    Divergence Classic - Ultra skin for Classic
+
+Judges:
+  Divergence Judge    Valorant Points 2,175
+    Divergence Judge - Ultra skin for Judge
+
+Melees:
+  Divergence Staff    Valorant Points 4,350
+    Divergence Staff - Ultra skin for Melee
+
+Operators:
+  Divergence Operator    Valorant Points 2,175
+    Divergence Operator - Ultra skin for Operator
+
+Vandals:
+  Divergence Vandal    Valorant Points 2,175
+    Divergence Vandal - Ultra skin for Vandal
+
+============================================================
+
+**DOOMBRINGER COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Judges:
+  Doombringer Judge    Valorant Points 2,175
+    Doombringer Judge - Ultra skin for Judge
+
+Melees:
+  Doombringer Battleaxe    Valorant Points 4,350
+    Doombringer Battleaxe - Ultra skin for Melee
+
+Odins:
+  Doombringer Odin    Valorant Points 2,175
+    Doombringer Odin - Ultra skin for Odin
+
+Phantoms:
+  Doombringer Phantom    Valorant Points 2,175
+    Doombringer Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Doombringer Sheriff    Valorant Points 2,175
+    Doombringer Sheriff - Ultra skin for Sheriff
+
+============================================================
+
+**EX.O COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 9500
+
+Melees:
+  EX.O Edge    Valorant Points 5,350
+    EX.O Edge - Ultra skin for Melee
+
+Outlaws:
+  EX.O Outlaw    Valorant Points 2,375
+    EX.O Outlaw - Ultra skin for Outlaw
+
+Sheriffs:
+  EX.O Sheriff    Valorant Points 2,375
+    EX.O Sheriff - Ultra skin for Sheriff
+
+Spectres:
+  EX.O Spectre    Valorant Points 2,375
+    EX.O Spectre - Ultra skin for Spectre
+
+Vandals:
+  EX.O Vandal    Valorant Points 2,375
+    EX.O Vandal - Ultra skin for Vandal
+
+============================================================
+
+**GLITCHPOP COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Bulldogs:
+  Glitchpop Bulldog    Valorant Points 2,175
+    Glitchpop Bulldog - Ultra skin for Bulldog
+
+Classics:
+  Glitchpop Classic    Valorant Points 2,175
+    Glitchpop Classic - Ultra skin for Classic
+
+Frenzys:
+  Glitchpop Frenzy    Valorant Points 2,175
+    Glitchpop Frenzy - Ultra skin for Frenzy
+
+Judges:
+  Glitchpop Judge    Valorant Points 2,175
+    Glitchpop Judge - Ultra skin for Judge
+
+Melees:
+  Glitchpop Dagger    Valorant Points 4,350
+    Glitchpop Dagger - Ultra skin for Melee
+  Glitchpop Axe    Valorant Points 4,350
+    Glitchpop Axe - Ultra skin for Melee
+
+Odins:
+  Glitchpop Odin    Valorant Points 2,175
+    Glitchpop Odin - Ultra skin for Odin
+
+Operators:
+  Glitchpop Operator    Valorant Points 2,175
+    Glitchpop Operator - Ultra skin for Operator
+
+Phantoms:
+  Glitchpop Phantom    Valorant Points 2,175
+    Glitchpop Phantom - Ultra skin for Phantom
+
+Vandals:
+  Glitchpop Vandal    Valorant Points 2,175
+    Glitchpop Vandal - Ultra skin for Vandal
+
+============================================================
+
+**IMPERIUM COLLECTION**
+Total weapons: 4
+/Blades of Imperium is also in collection
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Judges:
+  Imperium Judge    Valorant Points 2,175
+    Imperium Judge - Ultra skin for Judge
+
+Operators:
+  Imperium Operator    Valorant Points 2,175
+    Imperium Operator - Ultra skin for Operator
+
+Sheriffs:
+  Imperium Sheriff    Valorant Points 2,175
+    Imperium Sheriff - Ultra skin for Sheriff
+
+Vandals:
+  Imperium Vandal    Valorant Points 2,175
+    Imperium Vandal - Ultra skin for Vandal
+
+============================================================
+
+**KURONAMI COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 9500
+
+Marshals:
+  Kuronami Marshal    Valorant Points 2,375
+    Kuronami Marshal - Ultra skin for Marshal
+
+Melees:
+  Kuronami no Yaiba    Valorant Points 5,350
+    Kuronami no Yaiba - Ultra skin for Melee
+
+Sheriffs:
+  Kuronami Sheriff    Valorant Points 2,375
+    Kuronami Sheriff - Ultra skin for Sheriff
+
+Spectres:
+  Kuronami Spectre    Valorant Points 2,375
+    Kuronami Spectre - Ultra skin for Spectre
+
+Vandals:
+  Kuronami Vandal    Valorant Points 2,375
+    Kuronami Vandal - Ultra skin for Vandal
+
+============================================================
+
+**MYSTBLOOM COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Judges:
+  Mystbloom Judge    Valorant Points 2,175
+    Mystbloom Judge - Ultra skin for Judge
+
+Melees:
+  Mystbloom Kunai    Valorant Points 4,350
+    Mystbloom Kunai - Ultra skin for Melee
+
+Operators:
+  Mystbloom Operator    Valorant Points 2,175
+    Mystbloom Operator - Ultra skin for Operator
+
+Phantoms:
+  Mystbloom Phantom    Valorant Points 2,175
+    Mystbloom Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Mystbloom Sheriff    Valorant Points 2,175
+    Mystbloom Sheriff - Ultra skin for Sheriff
+
+============================================================
+
+**NEO COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Marshals:
+  Neo Frontier Marshal    Valorant Points 2,175
+    Neo Frontier Marshal - Ultra skin for Marshal
+
+Melees:
+  Neo Frontier Axe    Valorant Points 4,350
+    Neo Frontier Axe - Ultra skin for Melee
+
+Odins:
+  Neo Frontier Odin    Valorant Points 2,175
+    Neo Frontier Odin - Ultra skin for Odin
+
+Phantoms:
+  Neo Frontier Phantom    Valorant Points 2,175
+    Neo Frontier Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Neo Frontier Sheriff    Valorant Points 2,175
+    Neo Frontier Sheriff - Ultra skin for Sheriff
+
+============================================================
+
+**NOCTURNUM COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Bulldogs:
+  Nocturnum Bulldog    Valorant Points 2,175
+    Nocturnum Bulldog - Ultra skin for Bulldog
+
+Classics:
+  Nocturnum Classic    Valorant Points 2,175
+    Nocturnum Classic - Ultra skin for Classic
+
+Marshals:
+  Nocturnum Marshal    Valorant Points 2,175
+    Nocturnum Marshal - Ultra skin for Marshal
+
+Melees:
+  Nocturnum Scythe    Valorant Points 5,350
+    Nocturnum Scythe - Ultra skin for Melee
+
+Phantoms:
+  Nocturnum Phantom    Valorant Points 2,175
+    Nocturnum Phantom - Ultra skin for Phantom
+
+============================================================
+
+**OVERDRIVE COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Buckys:
+  Overdrive Bucky    Valorant Points 2,175
+    Overdrive Bucky - Ultra skin for Bucky
+
+Melees:
+  Overdrive Blade    Valorant Points 4,350
+    Overdrive Blade - Ultra skin for Melee
+
+Sheriffs:
+  Overdrive Sheriff    Valorant Points 2,175
+    Overdrive Sheriff - Ultra skin for Sheriff
+
+Stingers:
+  Overdrive Stinger    Valorant Points 2,175
+    Overdrive Stinger - Ultra skin for Stinger
+
+Vandals:
+  Overdrive Vandal    Valorant Points 2,175
+    Overdrive Vandal - Ultra skin for Vandal
+
+============================================================
+
+**PRELUDE TO CHAOS COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Bulldogs:
+  Prelude to Chaos Bulldog    Valorant Points 2,175
+    Prelude to Chaos Bulldog - Ultra skin for Bulldog
+
+Melees:
+  Blade of Chaos    Valorant Points 4,350
+    Blade of Chaos - Ultra skin for Melee
+  Flail of Chaos    Valorant Points 4,350
+    Flail of Chaos - Ultra skin for Melee
+
+Operators:
+  Prelude to Chaos Operator    Valorant Points 2,175
+    Prelude to Chaos Operator - Ultra skin for Operator
+
+Phantoms:
+  Prelude to Chaos Phantom    Valorant Points 2,175
+    Prelude to Chaos Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Prelude to Chaos Sheriff    Valorant Points 2,175
+    Prelude to Chaos Sheriff - Ultra skin for Sheriff
+
+Shortys:
+  Prelude to Chaos Shorty    Valorant Points 2,175
+    Prelude to Chaos Shorty - Ultra skin for Shorty
+
+Spectres:
+  Prelude to Chaos Spectre    Valorant Points 2,175
+    Prelude to Chaos Spectre - Ultra skin for Spectre
+
+Stingers:
+  Prelude to Chaos Stinger    Valorant Points 2,175
+    Prelude to Chaos Stinger - Ultra skin for Stinger
+
+Vandals:
+  Prelude to Chaos Vandal    Valorant Points 2,175
+    Prelude to Chaos Vandal - Ultra skin for Vandal
+
+============================================================
+
+**PRIMORDIUM COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Melees:
+  Blades of Primordia    Valorant Points 4,350
+    Blades of Primordia - Ultra skin for Melee
+
+Phantoms:
+  Primordium Phantom    Valorant Points 2,175
+    Primordium Phantom - Ultra skin for Phantom
+
+Shortys:
+  Primordium Shorty    Valorant Points 2,175
+    Primordium Shorty - Ultra skin for Shorty
+
+Spectres:
+  Primordium Spectre    Valorant Points 2,175
+    Primordium Spectre - Ultra skin for Spectre
+
+Vandals:
+  Primordium Vandal    Valorant Points 2,175
+    Primordium Vandal - Ultra skin for Vandal
+
+============================================================
+
+**RGX COLLECTION**
+Total weapons: 13
+/rename colleciton to RGX 11z Pro Collection
+/ rename all guns descrption except sheriff, outlaw and karambit to Bundle Cost 8700
+/ rename sheriff outlaw and karambit description to Bundle Cost 6700
+Classics:
+  RGX 11z Pro Classic    Valorant Points 2,175
+    RGX 11z Pro Classic - Ultra skin for Classic
+
+Frenzys:
+  RGX 11z Pro Frenzy    Valorant Points 2,175
+    RGX 11z Pro Frenzy - Ultra skin for Frenzy
+
+Guardians:
+  RGX 11z Pro Guardian    Valorant Points 2,175
+    RGX 11z Pro Guardian - Ultra skin for Guardian
+
+Melees:
+  RGX 11z Pro Blade    Valorant Points 4,350
+    RGX 11z Pro Blade - Ultra skin for Melee
+  RGX 11z Pro Firefly    Valorant Points 4,350
+    RGX 11z Pro Firefly - Ultra skin for Melee
+  RGX 11z Pro Karambit    Valorant Points 4,350
+    RGX 11z Pro Karambit - Ultra skin for Melee
+
+Operators:
+  RGX 11z Pro Operator    Valorant Points 2,175
+    RGX 11z Pro Operator - Ultra skin for Operator
+
+Outlaws:
+  RGX 11z Pro Outlaw    Valorant Points 2,175
+    RGX 11z Pro Outlaw - Ultra skin for Outlaw
+
+Phantoms:
+  RGX 11z Pro Phantom    Valorant Points 2,175
+    RGX 11z Pro Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  RGX 11z Pro Sheriff    Valorant Points 2,175
+    RGX 11z Pro Sheriff - Ultra skin for Sheriff
+
+Spectres:
+  RGX 11z Pro Spectre    Valorant Points 2,175
+    RGX 11z Pro Spectre - Ultra skin for Spectre
+
+Stingers:
+  RGX 11z Pro Stinger    Valorant Points 2,175
+    RGX 11z Pro Stinger - Ultra skin for Stinger
+
+Vandals:
+  RGX 11z Pro Vandal    Valorant Points 2,175
+    RGX 11z Pro Vandal - Ultra skin for Vandal
+
+============================================================
+
+**RUINATION COLLECTION**
+Total weapons: 4
+/ Broken Blade of the Ruined King also in collection
+/ replace all weapon descpriton to Bundle Cost 8700
+/ Add descrpiton to Melee Broken Blade of the Ruined King " Level 2: Blade of the Ruined King" 
+
+Ghosts:
+  Ruination Ghost    Valorant Points 2,175
+    Ruination Ghost - Ultra skin for Ghost
+
+Guardians:
+  Ruination Guardian    Valorant Points 2,175
+    Ruination Guardian - Ultra skin for Guardian
+
+Phantoms:
+  Ruination Phantom    Valorant Points 2,175
+    Ruination Phantom - Ultra skin for Phantom
+
+Spectres:
+  Ruination Spectre    Valorant Points 2,175
+    Ruination Spectre - Ultra skin for Spectre
+
+============================================================
+
+**SENTINELS COLLECTION**
+Total weapons: 8
+/ rename colleciton to Sentinels of Light Colleciton
+/Relic of the Sentinel and Relic Stone Daggers also in collection\
+/ replace all weapon descpriton to Bundle Cost 8700
+Ares:
+  Sentinels of Light Ares    Valorant Points 2,175
+    Sentinels of Light Ares - Ultra skin for Ares
+
+Odins:
+  Sentinels of Light Odin    Valorant Points 2,175
+    Sentinels of Light Odin - Ultra skin for Odin
+
+Operators:
+  Sentinels of Light Operator    Valorant Points 2,175
+    Sentinels of Light Operator - Ultra skin for Operator
+
+Phantoms:
+  Sentinels of Light Phantom    Valorant Points 2,175
+    Sentinels of Light Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Sentinels of Light Sheriff    Valorant Points 2,175
+    Sentinels of Light Sheriff - Ultra skin for Sheriff
+
+Shortys:
+  Sentinels of Light Shorty    Valorant Points 2,175
+    Sentinels of Light Shorty - Ultra skin for Shorty
+
+Spectres:
+  Sentinels of Light Spectre    Valorant Points 2,175
+    Sentinels of Light Spectre - Ultra skin for Spectre
+
+Vandals:
+  Sentinels of Light Vandal    Valorant Points 2,175
+    Sentinels of Light Vandal - Ultra skin for Vandal
+
+============================================================
+
+**SINGULARITY COLLECTION**
+Total weapons: 8
+/ replace sheriff spectre phantom ares and Singularity knife weapon descpriton to Bundle Cost 8700
+/ replace ghost vandal and butterfly knife weapon descpriton to Bundle Cost 6700
+
+Ares:
+  Singularity Ares    Valorant Points 2,175
+    Singularity Ares - Ultra skin for Ares
+
+Ghosts:
+  Singularity Ghost    Valorant Points 2,475
+    Singularity Ghost - Ultra skin for Ghost
+
+Melees:
+  Singularity Knife    Valorant Points 4,350
+    Singularity Knife - Ultra skin for Melee
+  Singularity Butterfly Knife    Valorant Points 4,350
+    Singularity Butterfly Knife - Ultra skin for Melee
+
+Phantoms:
+  Singularity Phantom    Valorant Points 2,175
+    Singularity Phantom - Ultra skin for Phantom
+
+Sheriffs:
+  Singularity Sheriff    Valorant Points 2,175
+    Singularity Sheriff - Ultra skin for Sheriff
+
+Spectres:
+  Singularity Spectre    Valorant Points 2,175
+    Singularity Spectre - Ultra skin for Spectre
+
+Vandals:
+  Singularity Vandal    Valorant Points 2,475
+    Singularity Vandal - Ultra skin for Vandal
+
+============================================================
+
+**SPECTRUM COLLECTION**
+Total weapons: 4
+/waveform also in collection
+/ replace all weapon descpriton to Bundle Cost 10,700
+
+Bulldogs:
+  Spectrum Bulldog    Valorant Points 2,675
+    Spectrum Bulldog - Ultra skin for Bulldog
+
+Classics:
+  Spectrum Classic    Valorant Points 2,675
+    Spectrum Classic - Ultra skin for Classic
+
+Guardians:
+  Spectrum Guardian    Valorant Points 2,675
+    Spectrum Guardian - Ultra skin for Guardian
+
+Phantoms:
+  Spectrum Phantom    Valorant Points 2,675
+    Spectrum Phantom - Ultra skin for Phantom
+
+============================================================
+
+**SPLASHX COLLECTION**
+Total weapons: 3
+/ replace all weapon descpriton to Bundle Cost 6700
+
+Melees:
+  SplashX Gloves    Valorant Points 4,950
+    SplashX Gloves - Ultra skin for Melee
+
+Operators:
+  SplashX Operator    Valorant Points 2,375
+    SplashX Operator - Ultra skin for Operator
+
+Vandals:
+  SplashX Vandal    Valorant Points 2,375
+    SplashX Vandal - Ultra skin for Vandal
+
+============================================================

@@ -1,0 +1,132 @@
+=== VALORANT ULTRA COLLECTIONS INFORMATION ===
+/ all weapons in this list should be ultra
+**ELDERFLAME COLLECTION**
+Total weapons: 5
+/ rename all weapon descriptions to Bundle Cost 9,900
+Frenzys:
+  Elderflame Frenzy    Valorant Points 2,475
+    Bundle Cost 9900
+
+Judges:
+  Elderflame Judge    Valorant Points 2,475
+    Bundle Cost 9900
+
+Melees:
+  Elderflame Dagger    Valorant Points 4,950
+    Bundle Cost 9900
+
+Operators:
+  Elderflame Operator    Valorant Points 2,475
+    Bundle Cost 9900
+
+Vandals:
+  Elderflame Vandal    Valorant Points 2,475
+    Bundle Cost 9900
+
+============================================================
+
+**EVORI DREAMWINGS COLLECTION**
+Total weapons: 5
+/rename collection to Evori Dreamwings Collection
+/Evori's Spellcaster is part of collection
+/ rename all weapon descriptions to Bundle Cost 9,900
+/ ghost spectre vandal and odin cost should be 2,475
+
+Ghosts:
+  Evori Dreamwings Ghost    Valorant Points 2,475
+    Bundle Cost 9900
+
+Melees:
+  Evori's Spellcaster    Valorant Points 4,950
+    Bundle Cost 9900
+
+Odins:
+  Evori Dreamwings Odin    Valorant Points 2,475
+    Bundle Cost 9900
+
+Spectres:
+  Evori Dreamwings Spectre    Valorant Points 2,475
+    Bundle Cost 9900
+
+Vandals:
+  Evori Dreamwings Vandal    Valorant Points 2,475
+    Bundle Cost 9900
+
+============================================================
+
+**PHASEGUARD COLLECTION**
+Total weapons: 5
+/ rename all weapon descriptions to Bundle Cost 9,900
+
+Bulldogs:
+  Phaseguard Bulldog    Valorant Points 2,475
+    Bundle Cost 9900
+
+Ghosts:
+  Phaseguard Ghost    Valorant Points 2,475
+    Bundle Cost 9900
+
+Melees:
+  Phaseguard Splitter    Valorant Points 5,350
+    Bundle Cost 9900
+
+Outlaws:
+  Phaseguard Outlaw    Valorant Points 2,475
+    Bundle Cost 9900
+
+Vandals:
+  Phaseguard Vandal    Valorant Points 2,475
+    Bundle Cost 9900
+
+============================================================
+
+**PROTOCOL 781-A COLLECTION**
+Total weapons: 5
+/rename collection to Protocol 781-A Collection
+/Personal Administrative Melee Unit part of collection
+/ rename all weapon descriptions to Bundle Cost 9,900
+
+Bulldogs:
+  Protocol 781-A Bulldog    Valorant Points 2,475
+    Bundle Cost 9900
+
+Melees:
+  Personal Administrative Melee Unit    Valorant Points 4,950
+    Bundle Cost 9900
+
+Phantoms:
+  Protocol 781-A Phantom    Valorant Points 2,475
+    Bundle Cost 9900
+
+Sheriffs:
+  Protocol 781-A Sheriff    Valorant Points 2,475
+    Bundle Cost 9900
+
+Spectres:
+  Protocol 781-A Spectre    Valorant Points 2,475
+    Bundle Cost 9900
+
+============================================================
+
+**RADIANT ENTERTAINMENT SYSTEM COLLECTION**
+Total weapons: 4
+/Power Fist part of collection
+/ rename all weapon descriptions to Bundle Cost 11,900
+
+Bulldogs:
+  Radiant Entertainment System Bulldog    Valorant Points 2,975
+    Bundle Cost 9900
+
+Ghosts:
+  Radiant Entertainment System Ghost    Valorant Points 2,975
+    Bundle Cost 9900
+
+Operators:
+  Radiant Entertainment System Operator    Valorant Points 2,975
+    Bundle Cost 9900
+
+Phantoms:
+  Radiant Entertainment System Phantom    Valorant Points 2,975
+    Bundle Cost 9900
+
+============================================================

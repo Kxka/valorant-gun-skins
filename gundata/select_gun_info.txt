@@ -1,0 +1,465 @@
+=== VALORANT PREMIUM COLLECTIONS INFORMATION ===
+/ all guns should be select rarity
+**CONVEX COLLECTION COLLECTION**
+Total weapons: 5
+
+/ replace all weapon description in convex collection as No Additional Information
+Bulldogs:
+  Convex Bulldog    Valorant Points 875
+    Convex Bulldog - Select skin for Bulldog
+
+Judges:
+  Convex Judge    Valorant Points 875
+    Convex Judge - Select skin for Judge
+
+Sheriffs:
+  Convex Sheriff    Valorant Points 875
+    Convex Sheriff - Select skin for Sheriff
+
+Operators:
+  Convex Operator    Valorant Points 875
+    Convex Operator - Select skin for Operator
+
+Spectres:
+  Convex Spectre    Valorant Points 875
+    Convex Spectre - Select skin for Spectre
+
+============================================================
+
+**DAYDREAMS COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in daydreams collection as "Bundle Cost 3500"
+Phantoms:
+  Daydreams Phantom    Valorant Points 875
+    Daydreams Phantom - Select skin for Phantom
+
+Judges:
+  Daydreams Judge    Valorant Points 875
+    Daydreams Judge - Select skin for Judge
+
+Classics:
+  Daydreams Classic    Valorant Points 875
+    Daydreams Classic - Select skin for Classic
+
+Operators:
+  Daydreams Operator    Valorant Points 875
+    Daydreams Operator - Select skin for Operator
+
+Melee:
+  Daydreams Crowbar    Valorant Points 1,750
+    Daydreams Crowbar - Ultra skin for Melee
+
+============================================================
+
+**ENDEAVOUR COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in Endeavour collection as Bundle Cost 2930
+
+Aress:
+  Endeavour Ares    Valorant Points 875
+    Endeavour Ares - Select skin for Ares
+
+Vandals:
+  Endeavour Vandal    Valorant Points 875
+    Endeavour Vandal - Select skin for Vandal
+
+Bulldogs:
+  Endeavour Bulldog    Valorant Points 875
+    Endeavour Bulldog - Select skin for Bulldog
+
+Ghosts:
+  Endeavour Ghost    Valorant Points 875
+    Endeavour Ghost - Select skin for Ghost
+
+Operators:
+  Endeavour Operator    Valorant Points 875
+    Endeavour Operator - Select skin for Operator
+
+============================================================
+
+**FORTUNE'S HAND COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in Fortune's hand collection as Bundle Cost 3875
+
+Odins:
+  Fortune's Hand Odin    Valorant Points 875
+    Fortune's Hand Odin - Select skin for Odin
+
+Phantoms:
+  Fortune's Hand Phantom    Valorant Points 875
+    Fortune's Hand Phantom - Select skin for Phantom
+
+Ghosts:
+  Fortune's Hand Ghost    Valorant Points 875
+    Fortune's Hand Ghost - Select skin for Ghost
+
+Guardians:
+  Fortune's Hand Guardian    Valorant Points 875
+    Fortune's Hand Guardian - Select skin for Guardian
+
+Melee:
+  Fortune's Scepter     Valorant Points 1,750
+    Fortune's Scepter  - Ultra skin for Melee
+
+============================================================
+
+**GALLERIA COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in Galleria  collection as No Additional Information
+
+Phantoms:
+  Galleria Phantom    Valorant Points 875
+    Galleria Phantom - Select skin for Phantom
+
+Buckys:
+  Galleria Bucky    Valorant Points 875
+    Galleria Bucky - Select skin for Bucky
+
+Classics:
+  Galleria Classic    Valorant Points 875
+    Galleria Classic - Select skin for Classic
+
+Guardians:
+  Galleria Guardian    Valorant Points 875
+    Galleria Guardian - Select skin for Guardian
+
+Marshals:
+  Galleria Marshal    Valorant Points 875
+    Galleria Marshal - Select skin for Marshal
+
+============================================================
+
+**INFANTRY COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in  collection as Bundle Cost 2930
+
+Aress:
+  Infantry Ares    Valorant Points 875
+    Infantry Ares - Select skin for Ares
+
+Ghosts:
+  Infantry Ghost    Valorant Points 875
+    Infantry Ghost - Select skin for Ghost
+
+Operators:
+  Infantry Operator    Valorant Points 875
+    Infantry Operator - Select skin for Operator
+
+Guardians:
+  Infantry Guardian    Valorant Points 875
+    Infantry Guardian - Select skin for Guardian
+
+Spectres:
+  Infantry Spectre    Valorant Points 875
+    Infantry Spectre - Select skin for Spectre
+
+============================================================
+
+**INTERGRADE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 3500
+
+Classics:
+  Intergrade Classic    Valorant Points 875
+    Intergrade Classic - Select skin for Classic
+
+Operators:
+  Intergrade Operator    Valorant Points 875
+    Intergrade Operator - Select skin for Operator
+
+Guardians:
+  Intergrade Guardian    Valorant Points 875
+    Intergrade Guardian - Select skin for Guardian
+
+Spectres:
+  Intergrade Spectre    Valorant Points 875
+    Intergrade Spectre - Select skin for Spectre
+
+Melee:
+  Intergrade Blade    Valorant Points 1,750
+    Intergrade Blade - Ultra skin for Melee
+
+============================================================
+
+**LUXE COLLECTION COLLECTION**
+Total weapons: 6
+/ replace all weapon description in  collection as No Additional Information
+
+Vandals:
+  Luxe Vandal    Valorant Points 875
+    Luxe Vandal - Select skin for Vandal
+
+Judges:
+  Luxe Judge    Valorant Points 875
+    Luxe Judge - Select skin for Judge
+
+Ghosts:
+  Luxe Ghost    Valorant Points 875
+    Luxe Ghost - Select skin for Ghost
+
+Operators:
+  Luxe Operator    Valorant Points 875
+    Luxe Operator - Select skin for Operator
+
+Spectres:
+  Luxe Spectre    Valorant Points 875
+    Luxe Spectre - Select skin for Spectre
+
+Melee:
+  Luxe Knife    Valorant Points 1,750
+    Luxe Knife - Ultra skin for Melee
+
+============================================================
+
+**PRISM II COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in Fortune's hand collection as Bundle Cost 3875
+
+Vandals:
+  Prism II Vandal    Valorant Points 875
+    Prism II Vandal - Select skin for Vandal
+
+Buckys:
+  Prism II Bucky    Valorant Points 875
+    Prism II Bucky - Select skin for Bucky
+
+Sheriffs:
+  Prism II Sheriff    Valorant Points 875
+    Prism II Sheriff - Select skin for Sheriff
+
+Shortys:
+  Prism II Shorty    Valorant Points 875
+    Prism II Shorty - Select skin for Shorty
+
+Stingers:
+  Prism II Stinger    Valorant Points 875
+    Prism II Stinger - Select skin for Stinger
+
+============================================================
+
+**REVERIE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 3500
+
+Phantoms:
+  Reverie Phantom    Valorant Points 875
+    Reverie Phantom - Select skin for Phantom
+
+Classics:
+  Reverie Classic    Valorant Points 875
+    Reverie Classic - Select skin for Classic
+
+Guardians:
+  Reverie Guardian    Valorant Points 875
+    Reverie Guardian - Select skin for Guardian
+
+Marshals:
+  Reverie Marshal    Valorant Points 875
+    Reverie Marshal - Select skin for Marshal
+
+Melee:
+  Reverie Sword    Valorant Points 1,750
+    Reverie Sword - Ultra skin for Melee
+
+============================================================
+
+**RUPTURE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 2935
+
+Bulldogs:
+  Rupture Bulldog    Valorant Points 875
+    Rupture Bulldog - Select skin for Bulldog
+
+Judges:
+  Rupture Judge    Valorant Points 875
+    Rupture Judge - Select skin for Judge
+
+Ghosts:
+  Rupture Ghost    Valorant Points 875
+    Rupture Ghost - Select skin for Ghost
+
+Marshals:
+  Rupture Marshal    Valorant Points 875
+    Rupture Marshal - Select skin for Marshal
+
+Spectres:
+  Rupture Spectre    Valorant Points 875
+    Rupture Spectre - Select skin for Spectre
+
+============================================================
+
+**RUSH COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as No Additional Information
+
+Aress:
+  Rush Ares    Valorant Points 875
+    Rush Ares - Select skin for Ares
+
+Bulldogs:
+  Rush Bulldog    Valorant Points 875
+    Rush Bulldog - Select skin for Bulldog
+
+Phantoms:
+  Rush Phantom    Valorant Points 875
+    Rush Phantom - Select skin for Phantom
+
+Judges:
+  Rush Judge    Valorant Points 875
+    Rush Judge - Select skin for Judge
+
+Frenzys:
+  Rush Frenzy    Valorant Points 875
+    Rush Frenzy - Select skin for Frenzy
+
+============================================================
+
+**SENSATION COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 2930
+
+Odins:
+  Sensation Odin    Valorant Points 875
+    Sensation Odin - Select skin for Odin
+
+Vandals:
+  Sensation Vandal    Valorant Points 875
+    Sensation Vandal - Select skin for Vandal
+
+Judges:
+  Sensation Judge    Valorant Points 875
+    Sensation Judge - Select skin for Judge
+
+Frenzys:
+  Sensation Frenzy    Valorant Points 875
+    Sensation Frenzy - Select skin for Frenzy
+
+Stingers:
+  Sensation Stinger    Valorant Points 875
+    Sensation Stinger - Select skin for Stinger
+
+============================================================
+
+**SMITE COLLECTION COLLECTION**
+Total weapons: 10
+/ replace Smite Class, Smite judge, smite phantom, smite odin, smite knife with descpriton Bundle Cost 3500, do not reaplce all in collection
+
+Odins:
+  Smite Odin    Valorant Points 875
+    Smite Odin - Select skin for Odin
+
+Vandals:
+  Smite Vandal    Valorant Points 875
+    Smite Vandal - Select skin for Vandal
+
+Phantoms:
+  Smite Phantom    Valorant Points 875
+    Smite Phantom - Select skin for Phantom
+
+Judges:
+  Smite Judge    Valorant Points 875
+    Smite Judge - Select skin for Judge
+
+Buckys:
+  Smite Bucky    Valorant Points 875
+    Smite Bucky - Select skin for Bucky
+
+Classics:
+  Smite Classic    Valorant Points 875
+    Smite Classic - Select skin for Classic
+
+Ghosts:
+  Smite Ghost    Valorant Points 875
+    Smite Ghost - Select skin for Ghost
+
+Outlaws:
+  Smite Outlaw    Valorant Points 875
+    Smite Outlaw - Select skin for Outlaw
+
+Melee:
+  Smite Knife    Valorant Points 1,750
+    Smite Knife - Ultra skin for Melee
+  Smite Hammer    Valorant Points 1,750
+    Smite Hammer - Ultra skin for Melee
+
+============================================================
+
+**STORM MAW COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 3500
+
+Vandals:
+  Storm Maw Vandal    Valorant Points 875
+    Storm Maw Vandal - Select skin for Vandal
+
+Judges:
+  Storm Maw Judge    Valorant Points 875
+    Storm Maw Judge - Select skin for Judge
+
+Classics:
+  Storm Maw Classic    Valorant Points 875
+    Storm Maw Classic - Select skin for Classic
+
+Stingers:
+  Storm Maw Stinger    Valorant Points 875
+    Storm Maw Stinger - Select skin for Stinger
+
+Melee:
+  Storm Maw Axe    Valorant Points 1,750
+    Storm Maw Axe - Ultra skin for Melee
+
+============================================================
+
+**SWITCHBACK COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 3500
+
+Phantoms:
+  Switchback Phantom    Valorant Points 875
+    Switchback Phantom - Select skin for Phantom
+
+Classics:
+  Switchback Classic    Valorant Points 875
+    Switchback Classic - Select skin for Classic
+
+Marshals:
+  Switchback Marshal    Valorant Points 875
+    Switchback Marshal - Select skin for Marshal
+
+Stingers:
+  Switchback Stinger    Valorant Points 875
+    Switchback Stinger - Select skin for Stinger
+
+Melee:
+  Switchback Ascender    Valorant Points 1,750
+    Switchback Ascender - Ultra skin for Melee
+
+============================================================
+
+**WONDERSTALLION COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in collection as Bundle Cost 4440
+
+Vandals:
+  Wonderstallion Vandal    Valorant Points 875
+    Wonderstallion Vandal - Select skin for Vandal
+
+Frenzys:
+  Wonderstallion Frenzy    Valorant Points 875
+    Wonderstallion Frenzy - Select skin for Frenzy
+
+Guardians:
+  Wonderstallion Guardian    Valorant Points 875
+    Wonderstallion Guardian - Select skin for Guardian
+
+Spectres:
+  Wonderstallion Spectre    Valorant Points 875
+    Wonderstallion Spectre - Select skin for Spectre
+
+Melee:
+  Wonderstallion Hammer    Valorant Points 3,550
+    Wonderstallion Hammer - Ultra skin for Melee
+
+============================================================
+

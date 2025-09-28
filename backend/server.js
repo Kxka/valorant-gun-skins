@@ -40,8 +40,8 @@ app.get('/api/skins', async (req, res) => {
     }
 
     if (collection) {
-      filteredSkins = filteredSkins.filter(skin => 
-        skin.collection.toLowerCase().includes(collection.toLowerCase())
+      filteredSkins = filteredSkins.filter(skin =>
+        skin.collection.toLowerCase() === collection.toLowerCase()
       );
     }
 

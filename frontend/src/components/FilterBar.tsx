@@ -42,7 +42,7 @@ const FilterBar: React.FC<FilterBarProps> = ({
       const allSkins = await skinApi.getAllSkins();
       
       // Extract unique rarities and sort by tier order (increasing rarity)
-      const rarityOrder = ['Select', 'Deluxe', 'Premium', 'Ultra', 'Exclusive'];
+      const rarityOrder = ['Select', 'Deluxe', 'Premium', 'Exclusive', 'Ultra'];
       const uniqueRarities = Array.from(new Set(allSkins.map(skin => skin.rarity)));
       const rarities = uniqueRarities.sort((a, b) => {
         const indexA = rarityOrder.indexOf(a);
@@ -135,7 +135,7 @@ const FilterBar: React.FC<FilterBarProps> = ({
             <option value="">All Collections</option>
             {availableCollections.map((collection) => (
               <option key={collection} value={collection}>
-                {collection.replace(' Collection', '')}
+                {collection.replace(/ COLLECTION$/i, '').replace(/ Collection$/i, '')}
               </option>
             ))}
           </select>

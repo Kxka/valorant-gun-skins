@@ -229,6 +229,8 @@
 @media (max-width: 768px) {
   .filter-bar {
     padding: 0.5rem;
+    position: static;
+    top: auto;
   }
 
   .filter-row {

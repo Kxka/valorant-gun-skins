@@ -14,9 +14,9 @@ const SkinModal: React.FC<SkinModalProps> = ({ skin, isOpen, onClose }) => {
   const getRarityColor = (rarity: string): string => {
     switch (rarity.toLowerCase()) {
       case 'select': return '#4a90e2';      // Official blue
-      case 'deluxe': return '#27d545';      // Official green
-      case 'premium': return '#d946ef';     // Official pink/magenta
-      case 'exclusive': return '#ff8a00';   // Official orange
+      case 'deluxe': return '#00a085';      // Brighter teal green
+      case 'premium': return '#d666a1';     // Brighter purple/magenta
+      case 'exclusive': return '#ff6b00';   // More orange (less yellow)
       case 'ultra': return '#ffd700';       // Official gold/yellow
       default: return '#ffffff';
     }

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { Skin } from '../types';
 import { skinApi } from '../api';
 import SkinCard from './SkinCard';
@@ -20,7 +20,6 @@ interface GalleryProps {
 
 const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
   const [skins, setSkins] = useState<Skin[]>([]);
-  const [filteredSkins, setFilteredSkins] = useState<Skin[]>([]);
   const [selectedSkin, setSelectedSkin] = useState<Skin | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [loading, setLoading] = useState(true);
@@ -40,9 +39,9 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
     }
   };
 
-  const applyFilters = useCallback(() => {
+  const filteredSkins = useMemo(() => {
     if (skins.length === 0) {
-      return;
+      return [];
     }
     
     let filtered = [...skins];
@@ -83,8 +82,8 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
     }
 
     if (filters.collection) {
-      filtered = filtered.filter(skin => 
-        skin.collection.toLowerCase().includes(filters.collection.toLowerCase())
+      filtered = filtered.filter(skin =>
+        skin.collection.toLowerCase() === filters.collection.toLowerCase()
       );
     }
 
@@ -180,26 +179,22 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
     // Sort by cost (highest to lowest) by default
     filtered.sort((a, b) => b.cost - a.cost);
     
-    setFilteredSkins(filtered);
+    return filtered;
   }, [skins, filters]);
 
   useEffect(() => {
     fetchSkins();
   }, []);
 
-  useEffect(() => {
-    applyFilters();
-  }, [applyFilters]);
-
-  const handleSkinClick = (skin: Skin) => {
+  const handleSkinClick = useCallback((skin: Skin) => {
     setSelectedSkin(skin);
     setIsModalOpen(true);
-  };
+  }, []);
 
-  const handleCloseModal = () => {
+  const handleCloseModal = useCallback(() => {
     setIsModalOpen(false);
     setSelectedSkin(null);
-  };
+  }, []);
 
   // handleFilterChange is now passed as a prop from App.tsx
 

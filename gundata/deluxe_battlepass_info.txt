@@ -1,0 +1,782 @@
+=== VALORANT DELUXE BATTLEPASS SKINS INFORMATION ===
+/ all guns should be deluxe rarity
+
+**.SYS COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in .SYS collection as "Obtained in Battlepass"
+
+Weapon 1:
+  .SYS Weapon 1    Battlepass
+    .SYS Weapon 1 - Deluxe skin
+
+Weapon 2:
+  .SYS Weapon 2    Battlepass
+    .SYS Weapon 2 - Deluxe skin
+
+Weapon 3:
+  .SYS Weapon 3    Battlepass
+    .SYS Weapon 3 - Deluxe skin
+
+Weapon 4:
+  .SYS Weapon 4    Battlepass
+    .SYS Weapon 4 - Deluxe skin
+
+Weapon 5:
+  .SYS Weapon 5    Battlepass
+    .SYS Weapon 5 - Deluxe skin
+
+============================================================
+
+**ATLAS // CMD COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in ATLAS // CMD collection as "Obtained in Battlepass"
+
+Spectres:
+  ATLAS // CMD Spectre    Battlepass
+    ATLAS // CMD Spectre - Deluxe skin for Spectre
+
+Vandals:
+  ATLAS // CMD Vandal    Battlepass
+    ATLAS // CMD Vandal - Deluxe skin for Vandal
+
+Outlaws:
+  ATLAS // CMD Outlaw    Battlepass
+    ATLAS // CMD Outlaw - Deluxe skin for Outlaw
+
+Melee:
+  ATLAS // CMD Baton    Battlepass
+    ATLAS // CMD Baton - Deluxe skin for Melee
+
+Classics:
+  ATLAS // CMD Classic    Battlepass
+    ATLAS // CMD Classic - Deluxe skin for Classic
+
+============================================================
+
+**CMD COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in CMD collection as "Obtained in Battlepass"
+
+Weapon 1:
+  CMD Weapon 1    Battlepass
+    CMD Weapon 1 - Deluxe skin
+
+Weapon 2:
+  CMD Weapon 2    Battlepass
+    CMD Weapon 2 - Deluxe skin
+
+Weapon 3:
+  CMD Weapon 3    Battlepass
+    CMD Weapon 3 - Deluxe skin
+
+Weapon 4:
+  CMD Weapon 4    Battlepass
+    CMD Weapon 4 - Deluxe skin
+
+Weapon 5:
+  CMD Weapon 5    Battlepass
+    CMD Weapon 5 - Deluxe skin
+
+============================================================
+
+**ARTISAN COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in ARTISAN collection as "Obtained in Battlepass"
+
+Marshals:
+  Artisan Marshal    Battlepass
+    Artisan Marshal - Deluxe skin for Marshal
+
+Phantoms:
+  Artisan Phantom    Battlepass
+    Artisan Phantom - Deluxe skin for Phantom
+
+Buckys:
+  Artisan Bucky    Battlepass
+    Artisan Bucky - Deluxe skin for Bucky
+
+Melee:
+  Artisan Foil    Battlepass
+    Artisan Foil - Deluxe skin for Melee
+
+Ghosts:
+  Artisan Ghost    Battlepass
+    Artisan Ghost - Deluxe skin for Ghost
+
+============================================================
+
+**BOUND COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in BOUND collection as "Obtained in Battlepass"
+
+Weapon 1:
+  Bound Weapon 1    Battlepass
+    Bound Weapon 1 - Deluxe skin
+
+Weapon 2:
+  Bound Weapon 2    Battlepass
+    Bound Weapon 2 - Deluxe skin
+
+Weapon 3:
+  Bound Weapon 3    Battlepass
+    Bound Weapon 3 - Deluxe skin
+
+Weapon 4:
+  Bound Weapon 4    Battlepass
+    Bound Weapon 4 - Deluxe skin
+
+Weapon 5:
+  Bound Weapon 5    Battlepass
+    Bound Weapon 5 - Deluxe skin
+
+============================================================
+
+**BUBBLE POP COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in BUBBLE POP collection as "Obtained in Battlepass"
+
+Weapon 1:
+  Bubble Pop Weapon 1    Battlepass
+    Bubble Pop Weapon 1 - Deluxe skin
+
+Weapon 2:
+  Bubble Pop Weapon 2    Battlepass
+    Bubble Pop Weapon 2 - Deluxe skin
+
+Weapon 3:
+  Bubble Pop Weapon 3    Battlepass
+    Bubble Pop Weapon 3 - Deluxe skin
+
+Weapon 4:
+  Bubble Pop Weapon 4    Battlepass
+    Bubble Pop Weapon 4 - Deluxe skin
+
+Weapon 5:
+  Bubble Pop Weapon 5    Battlepass
+    Bubble Pop Weapon 5 - Deluxe skin
+
+============================================================
+
+**BYTESHIFT COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in BYTESHIFT collection as "Obtained in Battlepass"
+
+Judges:
+  Byteshift Judge    Battlepass
+    Byteshift Judge - Deluxe skin for Judge
+
+Vandals:
+  Byteshift Vandal    Battlepass
+    Byteshift Vandal - Deluxe skin for Vandal
+
+Outlaws:
+  Byteshift Outlaw    Battlepass
+    Byteshift Outlaw - Deluxe skin for Outlaw
+
+Melee:
+  Byteshift Knife    Battlepass
+    Byteshift Knife - Deluxe skin for Melee
+
+Ghosts:
+  Byteshift Ghost    Battlepass
+    Byteshift Ghost - Deluxe skin for Ghost
+
+============================================================
+
+**CAVALIER COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in CAVALIER collection as "Obtained in Battlepass"
+
+Stingers:
+  Cavalier Stinger    Battlepass
+    Cavalier Stinger - Deluxe skin for Stinger
+
+Ghosts:
+  Cavalier Ghost    Battlepass
+    Cavalier Ghost - Deluxe skin for Ghost
+
+Vandals:
+  Cavalier Vandal    Battlepass
+    Cavalier Vandal - Deluxe skin for Vandal
+
+Buckys:
+  Cavalier Bucky    Battlepass
+    Cavalier Bucky - Deluxe skin for Bucky
+
+Operators:
+  Cavalier Operator    Battlepass
+    Cavalier Operator - Deluxe skin for Operator
+
+============================================================
+
+**COMET COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in COMET collection as "Obtained in Battlepass"
+
+Spectres:
+  Comet Spectre    Battlepass
+    Comet Spectre - Deluxe skin for Spectre
+
+Odins:
+  Comet Odin    Battlepass
+    Comet Odin - Deluxe skin for Odin
+
+Vandals:
+  Comet Vandal    Battlepass
+    Comet Vandal - Deluxe skin for Vandal
+
+Melee:
+  Comet Sword    Battlepass
+    Comet Sword - Deluxe skin for Melee
+
+Ghosts:
+  Comet Ghost    Battlepass
+    Comet Ghost - Deluxe skin for Ghost
+
+============================================================
+
+**COMPOSITE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in COMPOSITE collection as "Obtained in Battlepass"
+
+Sheriffs:
+  Composite Sheriff    Battlepass
+    Composite Sheriff - Deluxe skin for Sheriff
+
+Stingers:
+  Composite Stinger    Battlepass
+    Composite Stinger - Deluxe skin for Stinger
+
+Marshals:
+  Composite Marshal    Battlepass
+    Composite Marshal - Deluxe skin for Marshal
+
+Phantoms:
+  Composite Phantom    Battlepass
+    Composite Phantom - Deluxe skin for Phantom
+
+Melee:
+  Composite Knife    Battlepass
+    Composite Knife - Deluxe skin for Melee
+
+============================================================
+
+**GENESIS COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in GENESIS collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Genesis Bulldog    Battlepass
+    Genesis Bulldog - Deluxe skin for Bulldog
+
+Shortys:
+  Genesis Shorty    Battlepass
+    Genesis Shorty - Deluxe skin for Shorty
+
+Operators:
+  Genesis Operator    Battlepass
+    Genesis Operator - Deluxe skin for Operator
+
+Buckys:
+  Genesis Bucky    Battlepass
+    Genesis Bucky - Deluxe skin for Bucky
+
+Melee:
+  Genesis Arc    Battlepass
+    Genesis Arc - Deluxe skin for Melee
+
+============================================================
+
+**GUARDRAIL COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in GUARDRAIL collection as "Obtained in Battlepass"
+
+Shortys:
+  Guardrail Shorty    Battlepass
+    Guardrail Shorty - Deluxe skin for Shorty
+
+Freenzys:
+  Guardrail Frenzy    Battlepass
+    Guardrail Frenzy - Deluxe skin for Frenzy
+
+Guardians:
+  Guardrail Guardian    Battlepass
+    Guardrail Guardian - Deluxe skin for Guardian
+
+Vandals:
+  Guardrail Vandal    Battlepass
+    Guardrail Vandal - Deluxe skin for Vandal
+
+Melee:
+  Guardrail Hammer    Battlepass
+    Guardrail Hammer - Deluxe skin for Melee
+
+============================================================
+
+**HIEROSCAPE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in HIEROSCAPE collection as "Obtained in Battlepass"
+
+Freenzys:
+  Hieroscape Frenzy    Battlepass
+    Hieroscape Frenzy - Deluxe skin for Frenzy
+
+Aress:
+  Hieroscape Ares    Battlepass
+    Hieroscape Ares - Deluxe skin for Ares
+
+Phantoms:
+  Hieroscape Phantom    Battlepass
+    Hieroscape Phantom - Deluxe skin for Phantom
+
+Bulldogs:
+  Hieroscape Bulldog    Battlepass
+    Hieroscape Bulldog - Deluxe skin for Bulldog
+
+Melee:
+  Hieroscape Blades    Battlepass
+    Hieroscape Blades - Deluxe skin for Melee
+
+============================================================
+
+**HIVEMIND COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in HIVEMIND collection as "Obtained in Battlepass"
+
+Aress:
+  Hivemind Ares    Battlepass
+    Hivemind Ares - Deluxe skin for Ares
+
+Spectres:
+  Hivemind Spectre    Battlepass
+    Hivemind Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Hivemind Vandal    Battlepass
+    Hivemind Vandal - Deluxe skin for Vandal
+
+Melee:
+  Hivemind Sword    Battlepass
+    Hivemind Sword - Deluxe skin for Melee
+
+Shortys:
+  Hivemind Shorty    Battlepass
+    Hivemind Shorty - Deluxe skin for Shorty
+
+============================================================
+
+**INFINITY COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in INFINITY collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Infinity Bulldog    Battlepass
+    Infinity Bulldog - Deluxe skin for Bulldog
+
+Spectres:
+  Infinity Spectre    Battlepass
+    Infinity Spectre - Deluxe skin for Spectre
+
+Guardians:
+  Infinity Guardian    Battlepass
+    Infinity Guardian - Deluxe skin for Guardian
+
+Phantoms:
+  Infinity Phantom    Battlepass
+    Infinity Phantom - Deluxe skin for Phantom
+
+Classics:
+  Infinity Classic    Battlepass
+    Infinity Classic - Deluxe skin for Classic
+
+============================================================
+
+**INTERHELM COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in INTERHELM collection as "Obtained in Battlepass"
+
+Judges:
+  Interhelm Judge    Battlepass
+    Interhelm Judge - Deluxe skin for Judge
+
+Phantoms:
+  Interhelm Phantom    Battlepass
+    Interhelm Phantom - Deluxe skin for Phantom
+
+Marshals:
+  Interhelm Marshal    Battlepass
+    Interhelm Marshal - Deluxe skin for Marshal
+
+Melee:
+  Interhelm Sword    Battlepass
+    Interhelm Sword - Deluxe skin for Melee
+
+Classics:
+  Interhelm Classic    Battlepass
+    Interhelm Classic - Deluxe skin for Classic
+
+============================================================
+
+**IRIDIAN THORN COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in IRIDIAN THORN collection as "Obtained in Battlepass"
+
+Judges:
+  Iridian Thorn Judge    Battlepass
+    Iridian Thorn Judge - Deluxe skin for Judge
+
+Sheriffs:
+  Iridian Thorn Sheriff    Battlepass
+    Iridian Thorn Sheriff - Deluxe skin for Sheriff
+
+Buckys:
+  Iridian Thorn Bucky    Battlepass
+    Iridian Thorn Bucky - Deluxe skin for Bucky
+
+Operators:
+  Iridian Thorn Operator    Battlepass
+    Iridian Thorn Operator - Deluxe skin for Operator
+
+Melee:
+  Iridian Thorn Blade    Battlepass
+    Iridian Thorn Blade - Deluxe skin for Melee
+
+============================================================
+
+**K/TAC COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in K/TAC collection as "Obtained in Battlepass"
+
+Sheriffs:
+  K/TAC Sheriff    Battlepass
+    K/TAC Sheriff - Deluxe skin for Sheriff
+
+Bulldogs:
+  K/TAC Bulldog    Battlepass
+    K/TAC Bulldog - Deluxe skin for Bulldog
+
+Vandals:
+  K/TAC Vandal    Battlepass
+    K/TAC Vandal - Deluxe skin for Vandal
+
+Operators:
+  K/TAC Operator    Battlepass
+    K/TAC Operator - Deluxe skin for Operator
+
+Melee:
+  K/TAC Blade    Battlepass
+    K/TAC Blade - Deluxe skin for Melee
+
+============================================================
+
+**KINGDOM COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in KINGDOM collection as "Obtained in Battlepass"
+
+Buckys:
+  Kingdom Bucky    Battlepass
+    Kingdom Bucky - Deluxe skin for Bucky
+
+Spectres:
+  Kingdom Spectre    Battlepass
+    Kingdom Spectre - Deluxe skin for Spectre
+
+Phantoms:
+  Kingdom Phantom    Battlepass
+    Kingdom Phantom - Deluxe skin for Phantom
+
+Melee:
+  Kingdom Knife    Battlepass
+    Kingdom Knife - Deluxe skin for Melee
+
+Classics:
+  Kingdom Classic    Battlepass
+    Kingdom Classic - Deluxe skin for Classic
+
+============================================================
+
+**LORE COLLECTION COLLECTION**
+Total weapons: 1
+/ replace all weapon description in LORE collection as "Obtained in Battlepass"
+
+Phantoms:
+  RDVR Phantom    Battlepass
+    Obtained in Battlepass
+    Custom Deadlock Skin
+
+============================================================
+
+**LYCAN'S BANE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in LYCAN'S BANE collection as "Obtained in Battlepass"
+
+Ghosts:
+  Lycan's Bane Ghost    Battlepass
+    Lycan's Bane Ghost - Deluxe skin for Ghost
+
+Stingers:
+  Lycan's Bane Stinger    Battlepass
+    Lycan's Bane Stinger - Deluxe skin for Stinger
+
+Vandals:
+  Lycan's Bane Vandal    Battlepass
+    Lycan's Bane Vandal - Deluxe skin for Vandal
+
+Odins:
+  Lycan's Bane Odin    Battlepass
+    Lycan's Bane Odin - Deluxe skin for Odin
+
+============================================================
+
+**OVERLAY COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in OVERLAY collection as "Obtained in Battlepass"
+
+Stingers:
+  Overlay Stinger    Battlepass
+    Overlay Stinger - Deluxe skin for Stinger
+
+Outlaws:
+  Overlay Outlaw    Battlepass
+    Overlay Outlaw - Deluxe skin for Outlaw
+
+Phantoms:
+  Overlay Phantom    Battlepass
+    Overlay Phantom - Deluxe skin for Phantom
+
+Melee:
+  Overlay Dagger    Battlepass
+    Overlay Dagger - Deluxe skin for Melee
+
+Sheriffs:
+  Overlay Sheriff    Battlepass
+    Overlay Sheriff - Deluxe skin for Sheriff
+
+============================================================
+
+**PIEDRA DEL SOL COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in PIEDRA DEL SOL collection as "Obtained in Battlepass"
+
+Ghosts:
+  Piedra del Sol Ghost    Battlepass
+    Piedra del Sol Ghost - Deluxe skin for Ghost
+
+Buckys:
+  Piedra del Sol Bucky    Battlepass
+    Piedra del Sol Bucky - Deluxe skin for Bucky
+
+Phantoms:
+  Piedra del Sol Phantom    Battlepass
+    Piedra del Sol Phantom - Deluxe skin for Phantom
+
+Judges:
+  Piedra del Sol Judge    Battlepass
+    Piedra del Sol Judge - Deluxe skin for Judge
+
+Melee:
+  Obsidiana    Battlepass
+    Obsidiana - Deluxe skin for Melee
+
+============================================================
+
+**RUIN COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in RUIN collection as "Obtained in Battlepass"
+
+Marshals:
+  Ruin Marshal    Battlepass
+    Ruin Marshal - Deluxe skin for Marshal
+
+Shortys:
+  Ruin Shorty    Battlepass
+    Ruin Shorty - Deluxe skin for Shorty
+
+Guardians:
+  Ruin Guardian    Battlepass
+    Ruin Guardian - Deluxe skin for Guardian
+
+Vandals:
+  Ruin Vandal    Battlepass
+    Ruin Vandal - Deluxe skin for Vandal
+
+Melee:
+  Ruin Dagger    Battlepass
+    Ruin Dagger - Deluxe skin for Melee
+
+============================================================
+
+**SANDSWEPT COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in SANDSWEPT collection as "Obtained in Battlepass"
+
+Marshals:
+  Sandswept Marshal    Battlepass
+    Sandswept Marshal - Deluxe skin for Marshal
+
+Spectres:
+  Sandswept Spectre    Battlepass
+    Sandswept Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Sandswept Vandal    Battlepass
+    Sandswept Vandal - Deluxe skin for Vandal
+
+Melee:
+  Sandswept Dagger    Battlepass
+    Sandswept Dagger - Deluxe skin for Melee
+
+Sheriffs:
+  Sandswept Sheriff    Battlepass
+    Sandswept Sheriff - Deluxe skin for Sheriff
+
+============================================================
+
+**SHELLSPIRE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in SHELLSPIRE collection as "Obtained in Battlepass"
+
+Freenzys:
+  Shellspire Frenzy    Battlepass
+    Shellspire Frenzy - Deluxe skin for Frenzy
+
+Spectres:
+  Shellspire Spectre    Battlepass
+    Shellspire Spectre - Deluxe skin for Spectre
+
+Guardians:
+  Shellspire Guardian    Battlepass
+    Shellspire Guardian - Deluxe skin for Guardian
+
+Phantoms:
+  Shellspire Phantom    Battlepass
+    Shellspire Phantom - Deluxe skin for Phantom
+
+Melee:
+  Shellspire Sword    Battlepass
+    Shellspire Sword - Deluxe skin for Melee
+
+============================================================
+
+**SOLAREX COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in SOLAREX collection as "Obtained in Battlepass"
+
+Odins:
+  Solarex Odin    Battlepass
+    Solarex Odin - Deluxe skin for Odin
+
+Phantoms:
+  Solarex Phantom    Battlepass
+    Solarex Phantom - Deluxe skin for Phantom
+
+Spectres:
+  Solarex Spectre    Battlepass
+    Solarex Spectre - Deluxe skin for Spectre
+
+Melee:
+  Solarex Relic    Battlepass
+    Solarex Relic - Deluxe skin for Melee
+
+Sheriffs:
+  Solarex Sheriff    Battlepass
+    Solarex Sheriff - Deluxe skin for Sheriff
+
+============================================================
+
+**SONGSTEEL COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in SONGSTEEL collection as "Obtained in Battlepass"
+
+============================================================
+
+**TORQUE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in TORQUE collection as "Obtained in Battlepass"
+
+============================================================
+
+**TASK FORCE 809 COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in TASK FORCE 809 collection as "Obtained in Battlepass"
+
+============================================================
+
+**TETHERED REALMS COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in TETHERED REALMS collection as "Obtained in Battlepass"
+
+============================================================
+
+**TILDE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in TILDE collection as "Obtained in Battlepass"
+
+============================================================
+
+**TRANSITION COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in TRANSITION collection as "Obtained in Battlepass"
+
+============================================================
+
+**VELOCITY COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in VELOCITY collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Velocity Bulldog    Battlepass
+    Velocity Bulldog - Deluxe skin for Bulldog
+
+Phantoms:
+  Velocity Phantom    Battlepass
+    Velocity Phantom - Deluxe skin for Phantom
+
+Spectres:
+  Velocity Spectre    Battlepass
+    Velocity Spectre - Deluxe skin for Spectre
+
+Melee:
+  Velocity Karambit    Battlepass
+    Velocity Karambit - Deluxe skin for Melee
+
+Shortys:
+  Velocity Shorty    Battlepass
+    Velocity Shorty - Deluxe skin for Shorty
+
+============================================================
+
+**VENTURI COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in VENTURI collection as "Obtained in Battlepass"
+
+Freenzys:
+  Venturi Frenzy    Battlepass
+    Venturi Frenzy - Deluxe skin for Frenzy
+
+Marshals:
+  Venturi Marshal    Battlepass
+    Venturi Marshal - Deluxe skin for Marshal
+
+Spectres:
+  Venturi Spectre    Battlepass
+    Venturi Spectre - Deluxe skin for Spectre
+
+Vandals:
+  Venturi Vandal    Battlepass
+    Venturi Vandal - Deluxe skin for Vandal
+
+Melee:
+  Venturi Knife    Battlepass
+    Venturi Knife - Deluxe skin for Melee
+
+============================================================
+
+**WASTELAND COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in WASTELAND collection as "Obtained in Battlepass"
+
+============================================================
+
+Total collections processed: 35
+Total weapons: 170

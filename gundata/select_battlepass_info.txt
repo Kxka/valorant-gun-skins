@@ -1,0 +1,1439 @@
+=== VALORANT SELECT BATTLEPASS SKINS INFORMATION ===
+/ all guns should be select rarity
+
+**.EXE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in .EXE collection as "Obtained in Battlepass"
+
+Odins:
+  .EXE Odin    Battlepass
+    .EXE Odin - Select skin for Odin
+
+Vandals:
+  .EXE Vandal    Battlepass
+    .EXE Vandal - Select skin for Vandal
+
+Judges:
+  .EXE Judge    Battlepass
+    .EXE Judge - Select skin for Judge
+
+Ghosts:
+  .EXE Ghost    Battlepass
+    .EXE Ghost - Select skin for Ghost
+
+============================================================
+
+**9 LIVES COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in 9 LIVES collection as "Obtained in Battlepass"
+
+Aress:
+  9 Lives Ares    Battlepass
+    9 Lives Ares - Select skin for Ares
+
+Phantoms:
+  9 Lives Phantom    Battlepass
+    9 Lives Phantom - Select skin for Phantom
+
+Classics:
+  9 Lives Classic    Battlepass
+    9 Lives Classic - Select skin for Classic
+
+Guardians:
+  9 Lives Guardian    Battlepass
+    9 Lives Guardian - Select skin for Guardian
+
+============================================================
+
+**AERO COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in AERO collection as "Obtained in Battlepass"
+
+Phantoms:
+  Aero Phantom    Battlepass
+    Aero Phantom - Select skin for Phantom
+
+Frenzys:
+  Aero Frenzy    Battlepass
+    Aero Frenzy - Select skin for Frenzy
+
+Guardians:
+  Aero Guardian    Battlepass
+    Aero Guardian - Select skin for Guardian
+
+Spectres:
+  Aero Spectre    Battlepass
+    Aero Spectre - Select skin for Spectre
+
+============================================================
+
+**AEROSOL COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in AEROSOL collection as "Obtained in Battlepass"
+
+Odins:
+  Aerosol Odin    Battlepass
+    Aerosol Odin - Select skin for Odin
+
+Buckys:
+  Aerosol Bucky    Battlepass
+    Aerosol Bucky - Select skin for Bucky
+
+Shortys:
+  Aerosol Shorty    Battlepass
+    Aerosol Shorty - Select skin for Shorty
+
+Operators:
+  Aerosol Operator    Battlepass
+    Aerosol Operator - Select skin for Operator
+
+============================================================
+
+**AQUATICA COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in AQUATICA collection as "Obtained in Battlepass"
+
+Aress:
+  Aquatica Ares    Battlepass
+    Aquatica Ares - Select skin for Ares
+
+Shortys:
+  Aquatica Shorty    Battlepass
+    Aquatica Shorty - Select skin for Shorty
+
+Stingers:
+  Aquatica Stinger    Battlepass
+    Aquatica Stinger - Select skin for Stinger
+
+Marshals:
+  Aquatica Marshal    Battlepass
+    Aquatica Marshal - Select skin for Marshal
+
+============================================================
+
+**BELAFLAIRE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in BELAFLAIRE collection as "Obtained in Battlepass"
+
+Vandals:
+  Belaflaire Vandal    Battlepass
+    Belaflaire Vandal - Select skin for Vandal
+
+Buckys:
+  Belaflaire Bucky    Battlepass
+    Belaflaire Bucky - Select skin for Bucky
+
+Ghosts:
+  Belaflaire Ghost    Battlepass
+    Belaflaire Ghost - Select skin for Ghost
+
+Spectres:
+  Belaflaire Spectre    Battlepass
+    Belaflaire Spectre - Select skin for Spectre
+
+============================================================
+
+**BLUSH COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in BLUSH collection as "Obtained in Battlepass"
+
+Frenzys:
+  Blush Frenzy    Battlepass
+    Blush Frenzy - Select skin for Frenzy
+
+Operators:
+  Blush Operator    Battlepass
+    Blush Operator - Select skin for Operator
+
+Guardians:
+  Blush Guardian    Battlepass
+    Blush Guardian - Select skin for Guardian
+
+Spectres:
+  Blush Spectre    Battlepass
+    Blush Spectre - Select skin for Spectre
+
+============================================================
+
+**BULLETBOX COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in BULLETBOX collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Bulletbox Bulldog    Battlepass
+    Bulletbox Bulldog - Select skin for Bulldog
+
+Buckys:
+  Bulletbox Bucky    Battlepass
+    Bulletbox Bucky - Select skin for Bucky
+
+Frenzys:
+  Bulletbox Frenzy    Battlepass
+    Bulletbox Frenzy - Select skin for Frenzy
+
+Guardians:
+  Bulletbox Guardian    Battlepass
+    Bulletbox Guardian - Select skin for Guardian
+
+============================================================
+
+**BUMBLE BRIGADE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in BUMBLE BRIGADE collection as "Obtained in Battlepass"
+
+Aress:
+  Bumble Brigade Ares    Battlepass
+    Bumble Brigade Ares - Select skin for Ares
+
+Judges:
+  Bumble Brigade Judge    Battlepass
+    Bumble Brigade Judge - Select skin for Judge
+
+Bulldogs:
+  Bumble Brigade Bulldog    Battlepass
+    Bumble Brigade Bulldog - Select skin for Bulldog
+
+Ghosts:
+  Bumble Brigade Ghost    Battlepass
+    Bumble Brigade Ghost - Select skin for Ghost
+
+============================================================
+
+**CELESTIA COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in CELESTIA collection as "Obtained in Battlepass"
+
+Ghosts:
+  Celestia Ghost    Battlepass
+    Celestia Ghost - Select skin for Ghost
+
+Operators:
+  Celestia Operator    Battlepass
+    Celestia Operator - Select skin for Operator
+
+Spectres:
+  Celestia Spectre    Battlepass
+    Celestia Spectre - Select skin for Spectre
+
+Stingers:
+  Celestia Stinger    Battlepass
+    Celestia Stinger - Select skin for Stinger
+
+============================================================
+
+**CLOUDWEAVER COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in CLOUDWEAVER collection as "Obtained in Battlepass"
+
+Sheriffs:
+  Cloudweaver Sheriff    Battlepass
+    Cloudweaver Sheriff - Select skin for Sheriff
+
+Shortys:
+  Cloudweaver Shorty    Battlepass
+    Cloudweaver Shorty - Select skin for Shorty
+
+Stingers:
+  Cloudweaver Stinger    Battlepass
+    Cloudweaver Stinger - Select skin for Stinger
+
+Phantoms:
+  Cloudweaver Phantom    Battlepass
+    Cloudweaver Phantom - Select skin for Phantom
+
+============================================================
+
+**COALITION: COBRA COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in COALITION: COBRA collection as "Obtained in Battlepass"
+
+Odins:
+  Coalition: Cobra Odin    Battlepass
+    Coalition: Cobra Odin - Select skin for Odin
+
+Judges:
+  Coalition: Cobra Judge    Battlepass
+    Coalition: Cobra Judge - Select skin for Judge
+
+Marshals:
+  Coalition: Cobra Marshal    Battlepass
+    Coalition: Cobra Marshal - Select skin for Marshal
+
+Freenzys:
+  Coalition: Cobra Frenzy    Battlepass
+    Coalition: Cobra Frenzy - Select skin for Frenzy
+
+============================================================
+
+**CONVERGENCE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in CONVERGENCE collection as "Obtained in Battlepass"
+
+Phantoms:
+  Convergence Phantom    Battlepass
+    Convergence Phantom - Select skin for Phantom
+
+Frenzys:
+  Convergence Frenzy    Battlepass
+    Convergence Frenzy - Select skin for Frenzy
+
+Marshals:
+  Convergence Marshal    Battlepass
+    Convergence Marshal - Select skin for Marshal
+
+Stingers:
+  Convergence Stinger    Battlepass
+    Convergence Stinger - Select skin for Stinger
+
+============================================================
+
+**COUTURE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in COUTURE collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Couture Bulldog    Battlepass
+    Couture Bulldog - Select skin for Bulldog
+
+Frenzys:
+  Couture Frenzy    Battlepass
+    Couture Frenzy - Select skin for Frenzy
+
+Marshals:
+  Couture Marshal    Battlepass
+    Couture Marshal - Select skin for Marshal
+
+Stingers:
+  Couture Stinger    Battlepass
+    Couture Stinger - Select skin for Stinger
+
+============================================================
+
+**DEPTHS COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in DEPTHS collection as "Obtained in Battlepass"
+
+Vandals:
+  Depths Vandal    Battlepass
+    Depths Vandal - Select skin for Vandal
+
+Bulldogs:
+  Depths Bulldog    Battlepass
+    Depths Bulldog - Select skin for Bulldog
+
+Ghosts:
+  Depths Ghost    Battlepass
+    Depths Ghost - Select skin for Ghost
+
+Stingers:
+  Depths Stinger    Battlepass
+    Depths Stinger - Select skin for Stinger
+
+============================================================
+
+**DIGIHEX COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in DIGIHEX collection as "Obtained in Battlepass"
+
+Aress:
+  Digihex Ares    Battlepass
+    Digihex Ares - Select skin for Ares
+
+Bulldogs:
+  Digihex Bulldog    Battlepass
+    Digihex Bulldog - Select skin for Bulldog
+
+Judges:
+  Digihex Judge    Battlepass
+    Digihex Judge - Select skin for Judge
+
+Ghosts:
+  Digihex Ghost    Battlepass
+    Digihex Ghost - Select skin for Ghost
+
+============================================================
+
+**DIVINE SWINE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in DIVINE SWINE collection as "Obtained in Battlepass"
+
+Aress:
+  Divine Swine Ares    Battlepass
+    Divine Swine Ares - Select skin for Ares
+
+Judges:
+  Divine Swine Judge    Battlepass
+    Divine Swine Judge - Select skin for Judge
+
+Marshals:
+  Divine Swine Marshal    Battlepass
+    Divine Swine Marshal - Select skin for Marshal
+
+Freenzys:
+  Divine Swine Frenzy    Battlepass
+    Divine Swine Frenzy - Select skin for Frenzy
+
+============================================================
+
+**DOOM WING COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in DOOM WING collection as "Obtained in Battlepass"
+
+Odins:
+  Doom Wing Odin    Battlepass
+    Doom Wing Odin - Select skin for Odin
+
+Phantoms:
+  Doom Wing Phantom    Battlepass
+    Doom Wing Phantom - Select skin for Phantom
+
+Shortys:
+  Doom Wing Shorty    Battlepass
+    Doom Wing Shorty - Select skin for Shorty
+
+Marshals:
+  Doom Wing Marshal    Battlepass
+    Doom Wing Marshal - Select skin for Marshal
+
+============================================================
+
+**FIBER OPTIC COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in FIBER OPTIC collection as "Obtained in Battlepass"
+
+Classics:
+  Fiber Optic Classic    Battlepass
+    Fiber Optic Classic - Select skin for Classic
+
+Spectres:
+  Fiber Optic Spectre    Battlepass
+    Fiber Optic Spectre - Select skin for Spectre
+
+Marshals:
+  Fiber Optic Marshal    Battlepass
+    Fiber Optic Marshal - Select skin for Marshal
+
+Ghosts:
+  Fiber Optic Ghost    Battlepass
+    Fiber Optic Ghost - Select skin for Ghost
+
+============================================================
+
+**FREEHAND COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in FREEHAND collection as "Obtained in Battlepass"
+
+Odins:
+  Freehand Odin    Battlepass
+    Freehand Odin - Select skin for Odin
+
+Ghosts:
+  Freehand Ghost    Battlepass
+    Freehand Ghost - Select skin for Ghost
+
+Marshals:
+  Freehand Marshal    Battlepass
+    Freehand Marshal - Select skin for Marshal
+
+Spectres:
+  Freehand Spectre    Battlepass
+    Freehand Spectre - Select skin for Spectre
+
+============================================================
+
+**FREQUENCY COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in FREQUENCY collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Frequency Bulldog    Battlepass
+    Frequency Bulldog - Select skin for Bulldog
+
+Buckys:
+  Frequency Bucky    Battlepass
+    Frequency Bucky - Select skin for Bucky
+
+Ghosts:
+  Frequency Ghost    Battlepass
+    Frequency Ghost - Select skin for Ghost
+
+Operators:
+  Frequency Operator    Battlepass
+    Frequency Operator - Select skin for Operator
+
+============================================================
+
+**GOLDWING COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in GOLDWING collection as "Obtained in Battlepass"
+
+Aress:
+  Goldwing Ares    Battlepass
+    Goldwing Ares - Select skin for Ares
+
+Judges:
+  Goldwing Judge    Battlepass
+    Goldwing Judge - Select skin for Judge
+
+Classics:
+  Goldwing Classic    Battlepass
+    Goldwing Classic - Select skin for Classic
+
+Ghosts:
+  Goldwing Ghost    Battlepass
+    Goldwing Ghost - Select skin for Ghost
+
+============================================================
+
+**GRIDCRASH COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in GRIDCRASH collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Gridcrash Bulldog    Battlepass
+    Gridcrash Bulldog - Select skin for Bulldog
+
+Judges:
+  Gridcrash Judge    Battlepass
+    Gridcrash Judge - Select skin for Judge
+
+Ghosts:
+  Gridcrash Ghost    Battlepass
+    Gridcrash Ghost - Select skin for Ghost
+
+Stingers:
+  Gridcrash Stinger    Battlepass
+    Gridcrash Stinger - Select skin for Stinger
+
+============================================================
+
+**HALOFORM COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in HALOFORM collection as "Obtained in Battlepass"
+
+Aress:
+  Haloform Ares    Battlepass
+    Haloform Ares - Select skin for Ares
+
+Frenzys:
+  Haloform Frenzy    Battlepass
+    Haloform Frenzy - Select skin for Frenzy
+
+Operators:
+  Haloform Operator    Battlepass
+    Haloform Operator - Select skin for Operator
+
+Guardians:
+  Haloform Guardian    Battlepass
+    Haloform Guardian - Select skin for Guardian
+
+============================================================
+
+**HUE SHIFT COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in HUE SHIFT collection as "Obtained in Battlepass"
+
+Shortys:
+  Hue Shift Shorty    Battlepass
+    Hue Shift Shorty - Select skin for Shorty
+
+Bulldogs:
+  Hue Shift Bulldog    Battlepass
+    Hue Shift Bulldog - Select skin for Bulldog
+
+Phantoms:
+  Hue Shift Phantom    Battlepass
+    Hue Shift Phantom - Select skin for Phantom
+
+Spectres:
+  Hue Shift Spectre    Battlepass
+    Hue Shift Spectre - Select skin for Spectre
+
+============================================================
+
+**HYDRODIP COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in HYDRODIP collection as "Obtained in Battlepass"
+
+Judges:
+  Hydrodip Judge    Battlepass
+    Hydrodip Judge - Select skin for Judge
+
+Buckys:
+  Hydrodip Bucky    Battlepass
+    Hydrodip Bucky - Select skin for Bucky
+
+Frenzys:
+  Hydrodip Frenzy    Battlepass
+    Hydrodip Frenzy - Select skin for Frenzy
+
+Guardians:
+  Hydrodip Guardian    Battlepass
+    Hydrodip Guardian - Select skin for Guardian
+
+============================================================
+
+**IMMORTALIZED COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in IMMORTALIZED collection as "Obtained in Battlepass"
+
+Vandals:
+  Immortalized Vandal    Battlepass
+    Immortalized Vandal - Select skin for Vandal
+
+Sheriffs:
+  Immortalized Sheriff    Battlepass
+    Immortalized Sheriff - Select skin for Sheriff
+
+Guardians:
+  Immortalized Guardian    Battlepass
+    Immortalized Guardian - Select skin for Guardian
+
+Stingers:
+  Immortalized Stinger    Battlepass
+    Immortalized Stinger - Select skin for Stinger
+
+============================================================
+
+**JIGSAW COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in JIGSAW collection as "Obtained in Battlepass"
+
+Aress:
+  Jigsaw Ares    Battlepass
+    Jigsaw Ares - Select skin for Ares
+
+Judges:
+  Jigsaw Judge    Battlepass
+    Jigsaw Judge - Select skin for Judge
+
+Ghosts:
+  Jigsaw Ghost    Battlepass
+    Jigsaw Ghost - Select skin for Ghost
+
+Guardians:
+  Jigsaw Guardian    Battlepass
+    Jigsaw Guardian - Select skin for Guardian
+
+============================================================
+
+**LIBRETTO COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in LIBRETTO collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Libretto Bulldog    Battlepass
+    Libretto Bulldog - Select skin for Bulldog
+
+Ghosts:
+  Libretto Ghost    Battlepass
+    Libretto Ghost - Select skin for Ghost
+
+Operators:
+  Libretto Operator    Battlepass
+    Libretto Operator - Select skin for Operator
+
+Stingers:
+  Libretto Stinger    Battlepass
+    Libretto Stinger - Select skin for Stinger
+
+============================================================
+
+**LIGHTWAVE COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in LIGHTWAVE collection as "Obtained in Battlepass"
+
+Odins:
+  Lightwave Odin    Battlepass
+    Lightwave Odin - Select skin for Odin
+
+Phantoms:
+  Lightwave Phantom    Battlepass
+    Lightwave Phantom - Select skin for Phantom
+
+Buckys:
+  Lightwave Bucky    Battlepass
+    Lightwave Bucky - Select skin for Bucky
+
+Frenzys:
+  Lightwave Frenzy    Battlepass
+    Lightwave Frenzy - Select skin for Frenzy
+
+Sheriffs:
+  Lightwave Sheriff    Battlepass
+    Lightwave Sheriff - Select skin for Sheriff
+
+============================================================
+
+**MONARCH COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in MONARCH collection as "Obtained in Battlepass"
+
+Buckys:
+  Monarch Bucky    Battlepass
+    Monarch Bucky - Select skin for Bucky
+
+Frenzys:
+  Monarch Frenzy    Battlepass
+    Monarch Frenzy - Select skin for Frenzy
+
+Shortys:
+  Monarch Shorty    Battlepass
+    Monarch Shorty - Select skin for Shorty
+
+Marshals:
+  Monarch Marshal    Battlepass
+    Monarch Marshal - Select skin for Marshal
+
+============================================================
+
+**MONSTROCITY COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in MONSTROCITY collection as "Obtained in Battlepass"
+
+Aress:
+  Monstrocity Ares    Battlepass
+    Monstrocity Ares - Select skin for Ares
+
+Vandals:
+  Monstrocity Vandal    Battlepass
+    Monstrocity Vandal - Select skin for Vandal
+
+Sheriffs:
+  Monstrocity Sheriff    Battlepass
+    Monstrocity Sheriff - Select skin for Sheriff
+
+Spectres:
+  Monstrocity Spectre    Battlepass
+    Monstrocity Spectre - Select skin for Spectre
+
+============================================================
+
+**MOON SCOUT COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in MOON SCOUT collection as "Obtained in Battlepass"
+
+Sheriffs:
+  Moon Scout Sheriff    Battlepass
+    Moon Scout Sheriff - Select skin for Sheriff
+
+Buckys:
+  Moon Scout Bucky    Battlepass
+    Moon Scout Bucky - Select skin for Bucky
+
+Outlaws:
+  Moon Scout Outlaw    Battlepass
+    Moon Scout Outlaw - Select skin for Outlaw
+
+Guardians:
+  Moon Scout Guardian    Battlepass
+    Moon Scout Guardian - Select skin for Guardian
+
+============================================================
+
+**MOONDASH COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in MOONDASH collection as "Obtained in Battlepass"
+
+Frenzys:
+  Moondash Frenzy    Battlepass
+    Moondash Frenzy - Select skin for Frenzy
+
+Guardians:
+  Moondash Guardian    Battlepass
+    Moondash Guardian - Select skin for Guardian
+
+Marshals:
+  Moondash Marshal    Battlepass
+    Moondash Marshal - Select skin for Marshal
+
+Stingers:
+  Moondash Stinger    Battlepass
+    Moondash Stinger - Select skin for Stinger
+
+============================================================
+
+**NANOBREAK COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in NANOBREAK collection as "Obtained in Battlepass"
+
+Odins:
+  Nanobreak Odin    Battlepass
+    Nanobreak Odin - Select skin for Odin
+
+Phantoms:
+  Nanobreak Phantom    Battlepass
+    Nanobreak Phantom - Select skin for Phantom
+
+Judges:
+  Nanobreak Judge    Battlepass
+    Nanobreak Judge - Select skin for Judge
+
+Sheriffs:
+  Nanobreak Sheriff    Battlepass
+    Nanobreak Sheriff - Select skin for Sheriff
+
+============================================================
+
+**NITRO COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in NITRO collection as "Obtained in Battlepass"
+
+Odins:
+  Nitro Odin    Battlepass
+    Nitro Odin - Select skin for Odin
+
+Vandals:
+  Nitro Vandal    Battlepass
+    Nitro Vandal - Select skin for Vandal
+
+Operators:
+  Nitro Operator    Battlepass
+    Nitro Operator - Select skin for Operator
+
+Guardians:
+  Nitro Guardian    Battlepass
+    Nitro Guardian - Select skin for Guardian
+
+============================================================
+
+**OUTPOST COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in OUTPOST collection as "Obtained in Battlepass"
+
+Aress:
+  Outpost Ares    Battlepass
+    Outpost Ares - Select skin for Ares
+
+Judges:
+  Outpost Judge    Battlepass
+    Outpost Judge - Select skin for Judge
+
+Ghosts:
+  Outpost Ghost    Battlepass
+    Outpost Ghost - Select skin for Ghost
+
+Melee:
+  Outpost Melee    Battlepass
+    Outpost Melee - Select skin for Melee
+
+============================================================
+
+**POLYFOX COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in POLYFOX collection as "Obtained in Battlepass"
+
+Bulldogs:
+  POLYfox Bulldog    Battlepass
+    POLYfox Bulldog - Select skin for Bulldog
+
+Judges:
+  POLYfox Judge    Battlepass
+    POLYfox Judge - Select skin for Judge
+
+Sheriffs:
+  POLYfox Sheriff    Battlepass
+    POLYfox Sheriff - Select skin for Sheriff
+
+Guardians:
+  POLYfox Guardian    Battlepass
+    POLYfox Guardian - Select skin for Guardian
+
+============================================================
+
+**POLYFROG COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in POLYFROG collection as "Obtained in Battlepass"
+
+Aress:
+  POLYfrog Ares    Battlepass
+    POLYfrog Ares - Select skin for Ares
+
+Sheriffs:
+  POLYfrog Sheriff    Battlepass
+    POLYfrog Sheriff - Select skin for Sheriff
+
+Marshals:
+  POLYfrog Marshal    Battlepass
+    POLYfrog Marshal - Select skin for Marshal
+
+Spectres:
+  POLYfrog Spectre    Battlepass
+    POLYfrog Spectre - Select skin for Spectre
+
+============================================================
+
+**PANORAMIC COLLECTION COLLECTION**
+Total weapons: 3
+/ replace all weapon description in PANORAMIC collection as "Obtained in Battlepass"
+
+Buckys:
+  Panoramic Bucky    Battlepass
+    Panoramic Bucky - Select skin for Bucky
+
+Classics:
+  Panoramic Classic    Battlepass
+    Panoramic Classic - Select skin for Classic
+
+Guardians:
+  Panoramic Guardian    Battlepass
+    Panoramic Guardian - Select skin for Guardian
+
+============================================================
+
+**PERCH COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in PERCH collection as "Obtained in Battlepass"
+
+Phantoms:
+  Perch Phantom    Battlepass
+    Perch Phantom - Select skin for Phantom
+
+Bulldogs:
+  Perch Bulldog    Battlepass
+    Perch Bulldog - Select skin for Bulldog
+
+Shortys:
+  Perch Shorty    Battlepass
+    Perch Shorty - Select skin for Shorty
+
+Marshals:
+  Perch Marshal    Battlepass
+    Perch Marshal - Select skin for Marshal
+
+============================================================
+
+**PREMIERE COLLISION COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in PREMIERE COLLISION collection as "Obtained in Battlepass"
+
+Classics:
+  Premiere Collision Classic    Battlepass
+    Premiere Collision Classic - Select skin for Classic
+
+Marshals:
+  Premiere Collision Marshal    Battlepass
+    Premiere Collision Marshal - Select skin for Marshal
+
+Aress:
+  Premiere Collision Ares    Battlepass
+    Premiere Collision Ares - Select skin for Ares
+
+Bulldogs:
+  Premiere Collision Bulldog    Battlepass
+    Premiere Collision Bulldog - Select skin for Bulldog
+
+============================================================
+
+**PRISM III COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in PRISM III collection as "Obtained in Battlepass"
+
+Odins:
+  Prism III Odin    Battlepass
+    Prism III Odin - Select skin for Odin
+
+Judges:
+  Prism III Judge    Battlepass
+    Prism III Judge - Select skin for Judge
+
+Classics:
+  Prism III Classic    Battlepass
+    Prism III Classic - Select skin for Classic
+
+Melee:
+  Prism III Axe    Battlepass
+    Prism III Axe - Select skin for Melee
+
+============================================================
+
+**RED ALERT COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in RED ALERT collection as "Obtained in Battlepass"
+
+Buckys:
+  Red Alert Bucky    Battlepass
+    Red Alert Bucky - Select skin for Bucky
+
+Stingers:
+  Red Alert Stinger    Battlepass
+    Red Alert Stinger - Select skin for Stinger
+
+Classics:
+  Red Alert Classic    Battlepass
+    Red Alert Classic - Select skin for Classic
+
+Operators:
+  Red Alert Operator    Battlepass
+    Red Alert Operator - Select skin for Operator
+
+============================================================
+
+**REFRACTRIX COLLECTION COLLECTION**
+Total weapons: 3
+/ replace all weapon description in REFRACTRIX collection as "Obtained in Battlepass"
+
+Classics:
+  Refractrix Classic    Battlepass
+    Refractrix Classic - Select skin for Classic
+
+Guardians:
+  Refractrix Guardian    Battlepass
+    Refractrix Guardian - Select skin for Guardian
+
+Stingers:
+  Refractrix Stinger    Battlepass
+    Refractrix Stinger - Select skin for Stinger
+
+============================================================
+
+**RETROWAVE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in RETROWAVE collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Retrowave Bulldog    Battlepass
+    Retrowave Bulldog - Select skin for Bulldog
+
+Buckys:
+  Retrowave Bucky    Battlepass
+    Retrowave Bucky - Select skin for Bucky
+
+Sheriffs:
+  Retrowave Sheriff    Battlepass
+    Retrowave Sheriff - Select skin for Sheriff
+
+Operators:
+  Retrowave Operator    Battlepass
+    Retrowave Operator - Select skin for Operator
+
+============================================================
+
+**RUNE STONE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in RUNE STONE collection as "Obtained in Battlepass"
+
+Marshals:
+  Rune Stone Marshal    Battlepass
+    Rune Stone Marshal - Select skin for Marshal
+
+Bulldogs:
+  Rune Stone Bulldog    Battlepass
+    Rune Stone Bulldog - Select skin for Bulldog
+
+Shortys:
+  Rune Stone Shorty    Battlepass
+    Rune Stone Shorty - Select skin for Shorty
+
+Odins:
+  Rune Stone Odin    Battlepass
+    Rune Stone Odin - Select skin for Odin
+
+============================================================
+
+**SCHEMA COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SCHEMA collection as "Obtained in Battlepass"
+
+Odins:
+  Schema Odin    Battlepass
+    Schema Odin - Select skin for Odin
+
+Vandals:
+  Schema Vandal    Battlepass
+    Schema Vandal - Select skin for Vandal
+
+Sheriffs:
+  Schema Sheriff    Battlepass
+    Schema Sheriff - Select skin for Sheriff
+
+Stingers:
+  Schema Stinger    Battlepass
+    Schema Stinger - Select skin for Stinger
+
+============================================================
+
+**SERENITY COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SERENITY collection as "Obtained in Battlepass"
+
+Phantoms:
+  Serenity Phantom    Battlepass
+    Serenity Phantom - Select skin for Phantom
+
+Judges:
+  Serenity Judge    Battlepass
+    Serenity Judge - Select skin for Judge
+
+Ghosts:
+  Serenity Ghost    Battlepass
+    Serenity Ghost - Select skin for Ghost
+
+Spectres:
+  Serenity Spectre    Battlepass
+    Serenity Spectre - Select skin for Spectre
+
+============================================================
+
+**SHIMMER COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SHIMMER collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Shimmer Bulldog    Battlepass
+    Shimmer Bulldog - Select skin for Bulldog
+
+Judges:
+  Shimmer Judge    Battlepass
+    Shimmer Judge - Select skin for Judge
+
+Classics:
+  Shimmer Classic    Battlepass
+    Shimmer Classic - Select skin for Classic
+
+Stingers:
+  Shimmer Stinger    Battlepass
+    Shimmer Stinger - Select skin for Stinger
+
+============================================================
+
+**SIGNATURE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SIGNATURE collection as "Obtained in Battlepass"
+
+Sheriffs:
+  Signature Sheriff    Battlepass
+    Signature Sheriff - Select skin for Sheriff
+
+Guardians:
+  Signature Guardian    Battlepass
+    Signature Guardian - Select skin for Guardian
+
+Marshals:
+  Signature Marshal    Battlepass
+    Signature Marshal - Select skin for Marshal
+
+Stingers:
+  Signature Stinger    Battlepass
+    Signature Stinger - Select skin for Stinger
+
+============================================================
+
+**SILHOUETTE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SILHOUETTE collection as "Obtained in Battlepass"
+
+Aress:
+  Silhouette Ares    Battlepass
+    Silhouette Ares - Select skin for Ares
+
+Judges:
+  Silhouette Judge    Battlepass
+    Silhouette Judge - Select skin for Judge
+
+Frenzys:
+  Silhouette Frenzy    Battlepass
+    Silhouette Frenzy - Select skin for Frenzy
+
+Guardians:
+  Silhouette Guardian    Battlepass
+    Silhouette Guardian - Select skin for Guardian
+
+============================================================
+
+**SOLAREX COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in SOLAREX collection as "Obtained in Battlepass"
+
+Odins:
+  Solarex Odin    Battlepass
+    Solarex Odin - Select skin for Odin
+
+Phantoms:
+  Solarex Phantom    Battlepass
+    Solarex Phantom - Select skin for Phantom
+
+Spectres:
+  Solarex Spectre    Battlepass
+    Solarex Spectre - Select skin for Spectre
+
+Melee:
+  Solarex Relic    Battlepass
+    Solarex Relic - Select skin for Melee
+
+Sheriffs:
+  Solarex Sheriff    Battlepass
+    Solarex Sheriff - Select skin for Sheriff
+
+============================================================
+
+**SPACE PIERCER COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SPACE PIERCER collection as "Obtained in Battlepass"
+
+Aress:
+  Space Piercer Ares    Battlepass
+    Space Piercer Ares - Select skin for Ares
+
+Judges:
+  Space Piercer Judge    Battlepass
+    Space Piercer Judge - Select skin for Judge
+
+Guardians:
+  Space Piercer Guardian    Battlepass
+    Space Piercer Guardian - Select skin for Guardian
+
+Sheriffs:
+  Space Piercer Sheriff    Battlepass
+    Space Piercer Sheriff - Select skin for Sheriff
+
+============================================================
+
+**SPELLBOUND COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SPELLBOUND collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Spellbound Bulldog    Battlepass
+    Spellbound Bulldog - Select skin for Bulldog
+
+Buckys:
+  Spellbound Bucky    Battlepass
+    Spellbound Bucky - Select skin for Bucky
+
+Frenzys:
+  Spellbound Frenzy    Battlepass
+    Spellbound Frenzy - Select skin for Frenzy
+
+Marshals:
+  Spellbound Marshal    Battlepass
+    Spellbound Marshal - Select skin for Marshal
+
+============================================================
+
+**SPITFIRE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SPITFIRE collection as "Obtained in Battlepass"
+
+Aress:
+  Spitfire Ares    Battlepass
+    Spitfire Ares - Select skin for Ares
+
+Ghosts:
+  Spitfire Ghost    Battlepass
+    Spitfire Ghost - Select skin for Ghost
+
+Operators:
+  Spitfire Operator    Battlepass
+    Spitfire Operator - Select skin for Operator
+
+Guardians:
+  Spitfire Guardian    Battlepass
+    Spitfire Guardian - Select skin for Guardian
+
+============================================================
+
+**STARLIT ODYSSEY COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in STARLIT ODYSSEY collection as "Obtained in Battlepass"
+
+Guardians:
+  Starlit Odyssey Guardian    Battlepass
+    Starlit Odyssey Guardian - Select skin for Guardian
+
+Vandals:
+  Starlit Odyssey Vandal    Battlepass
+    Starlit Odyssey Vandal - Select skin for Vandal
+
+Spectres:
+  Starlit Odyssey Spectre    Battlepass
+    Starlit Odyssey Spectre - Select skin for Spectre
+
+Ghosts:
+  Starlit Odyssey Ghost    Battlepass
+    Starlit Odyssey Ghost - Select skin for Ghost
+
+============================================================
+
+**STRIKER COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in STRIKER collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Striker Bulldog    Battlepass
+    Striker Bulldog - Select skin for Bulldog
+
+Classics:
+  Striker Classic    Battlepass
+    Striker Classic - Select skin for Classic
+
+Operators:
+  Striker Operator    Battlepass
+    Striker Operator - Select skin for Operator
+
+Spectres:
+  Striker Spectre    Battlepass
+    Striker Spectre - Select skin for Spectre
+
+Melee:
+  Striker Knife    Battlepass
+    Striker Knife - Select skin for Melee
+
+============================================================
+
+**SURGE COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in SURGE collection as "Obtained in Battlepass"
+
+Buckys:
+  Surge Bucky    Battlepass
+    Surge Bucky - Select skin for Bucky
+
+Classics:
+  Surge Classic    Battlepass
+    Surge Classic - Select skin for Classic
+
+Sheriffs:
+  Surge Sheriff    Battlepass
+    Surge Sheriff - Select skin for Sheriff
+
+Stingers:
+  Surge Stinger    Battlepass
+    Surge Stinger - Select skin for Stinger
+
+============================================================
+
+**TACTI-SERIES COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in TACTI-SERIES collection as "Obtained in Battlepass"
+
+Frenzys:
+  Tacti-Series Frenzy    Battlepass
+    Tacti-Series Frenzy - Select skin for Frenzy
+
+Classics:
+  Tacti-Series Classic    Battlepass
+    Tacti-Series Classic - Select skin for Classic
+
+Guardians:
+  Tacti-Series Guardian    Battlepass
+    Tacti-Series Guardian - Select skin for Guardian
+
+Marshals:
+  Tacti-Series Marshal    Battlepass
+    Tacti-Series Marshal - Select skin for Marshal
+
+============================================================
+
+**TACTI-TREAT COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in TACTI-TREAT collection as "Obtained in Battlepass"
+
+Judges:
+  Tacti-Treat Judge    Battlepass
+    Tacti-Treat Judge - Select skin for Judge
+
+Ghosts:
+  Tacti-Treat Ghost    Battlepass
+    Tacti-Treat Ghost - Select skin for Ghost
+
+Operators:
+  Tacti-Treat Operator    Battlepass
+    Tacti-Treat Operator - Select skin for Operator
+
+Guardians:
+  Tacti-Treat Guardian    Battlepass
+    Tacti-Treat Guardian - Select skin for Guardian
+
+============================================================
+
+**TACTIPLAY COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in TACTIPLAY collection as "Obtained in Battlepass"
+
+Odins:
+  Tactiplay Odin    Battlepass
+    Tactiplay Odin - Select skin for Odin
+
+Phantoms:
+  Tactiplay Phantom    Battlepass
+    Tactiplay Phantom - Select skin for Phantom
+
+Bulldogs:
+  Tactiplay Bulldog    Battlepass
+    Tactiplay Bulldog - Select skin for Bulldog
+
+Stingers:
+  Tactiplay Stinger    Battlepass
+    Tactiplay Stinger - Select skin for Stinger
+
+============================================================
+
+**TOPOTEK COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in TOPOTEK collection as "Obtained in Battlepass"
+
+Odins:
+  Topotek Odin    Battlepass
+    Topotek Odin - Select skin for Odin
+
+Phantoms:
+  Topotek Phantom    Battlepass
+    Topotek Phantom - Select skin for Phantom
+
+Buckys:
+  Topotek Bucky    Battlepass
+    Topotek Bucky - Select skin for Bucky
+
+Ghosts:
+  Topotek Ghost    Battlepass
+    Topotek Ghost - Select skin for Ghost
+
+============================================================
+
+**VARNISH COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in VARNISH collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Varnish Bulldog    Battlepass
+    Varnish Bulldog - Select skin for Bulldog
+
+Judges:
+  Varnish Judge    Battlepass
+    Varnish Judge - Select skin for Judge
+
+Sheriffs:
+  Varnish Sheriff    Battlepass
+    Varnish Sheriff - Select skin for Sheriff
+
+Stingers:
+  Varnish Stinger    Battlepass
+    Varnish Stinger - Select skin for Stinger
+
+============================================================
+
+**YOONSEUL COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in YOONSEUL collection as "Obtained in Battlepass"
+
+Aress:
+  Yoonseul Ares    Battlepass
+    Yoonseul Ares - Select skin for Ares
+
+Classics:
+  Yoonseul Classic    Battlepass
+    Yoonseul Classic - Select skin for Classic
+
+Guardians:
+  Yoonseul Guardian    Battlepass
+    Yoonseul Guardian - Select skin for Guardian
+
+Spectres:
+  Yoonseul Spectre    Battlepass
+    Yoonseul Spectre - Select skin for Spectre
+
+============================================================
+
+Total collections processed: 65
+Total weapons: 263

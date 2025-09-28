@@ -1,0 +1,971 @@
+=== VALORANT PREMIUM COLLECTIONS INFORMATION ===
+/ all guns should be premium
+**AEMONDIR COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+Buckys:
+  Aemondir Bucky    Valorant Points 1,775
+    Aemondir Bucky - Premium skin for Bucky
+
+Bulldogs:
+  Aemondir Bulldog    Valorant Points 1,775
+    Aemondir Bulldog - Premium skin for Bulldog
+
+Melees:
+  Blade of Aemondir    Valorant Points 3,550
+    Blade of Aemondir - Ultra skin for Melee
+
+Sheriffs:
+  Aemondir Sheriff    Valorant Points 1,775
+    Aemondir Sheriff - Premium skin for Sheriff
+
+Vandals:
+  Aemondir Vandal    Valorant Points 1,775
+    Aemondir Vandal - Premium skin for Vandal
+
+============================================================
+
+**BLACK.MARKET COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+Bulldogs:
+  Black.Market Bulldog    Valorant Points 1,775
+    Black.Market Bulldog - Premium skin for Bulldog
+
+Classics:
+  Black.Market Classic    Valorant Points 1,775
+    Black.Market Classic - Premium skin for Classic
+
+Marshals:
+  Black.Market Marshal    Valorant Points 1,775
+    Black.Market Marshal - Premium skin for Marshal
+
+Melees:
+  Black.Market Butterfly Knife    Valorant Points 3,550
+    Black.Market Butterfly Knife - Ultra skin for Melee
+
+Vandals:
+  Black.Market Vandal    Valorant Points 1,775
+    Black.Market Vandal - Premium skin for Vandal
+
+============================================================
+
+**BOLT COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Frenzys:
+  Bolt Frenzy    Valorant Points 1,775
+    Bolt Frenzy - Premium skin for Frenzy
+
+Melees:
+  Bolt Knife    Valorant Points 4,350
+    Bolt Knife - Ultra skin for Melee
+
+Outlaws:
+  Bolt Outlaw    Valorant Points 1,775
+    Bolt Outlaw - Premium skin for Outlaw
+
+Phantoms:
+  Bolt Phantom    Valorant Points 1,775
+    Bolt Phantom - Premium skin for Phantom
+
+Spectres:
+  Bolt Spectre    Valorant Points 1,775
+    Bolt Spectre - Premium skin for Spectre
+
+============================================================
+
+**CELESTIAL COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ares:
+  Celestial Ares    Valorant Points 1,775
+    Celestial Ares - Premium skin for Ares
+
+Frenzys:
+  Celestial Frenzy    Valorant Points 1,775
+    Celestial Frenzy - Premium skin for Frenzy
+
+Judges:
+  Celestial Judge    Valorant Points 1,775
+    Celestial Judge - Premium skin for Judge
+
+Melees:
+  Celestial Fan    Valorant Points 3,550
+    Celestial Fan - Ultra skin for Melee
+
+Phantoms:
+  Celestial Phantom    Valorant Points 1,775
+    Celestial Phantom - Premium skin for Phantom
+
+============================================================
+
+**CRIMSONBEAST COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Judges:
+  Crimsonbeast Judge    Valorant Points 1,775
+    Crimsonbeast Judge - Premium skin for Judge
+
+Marshals:
+  Crimsonbeast Marshal    Valorant Points 1,775
+    Crimsonbeast Marshal - Premium skin for Marshal
+
+Melees:
+  Crimsonbeast Hammer    Valorant Points 3,550
+    Crimsonbeast Hammer - Ultra skin for Melee
+
+Sheriffs:
+  Crimsonbeast Sheriff    Valorant Points 1,775
+    Crimsonbeast Sheriff - Premium skin for Sheriff
+
+Vandals:
+  Crimsonbeast Vandal    Valorant Points 1,775
+    Crimsonbeast Vandal - Premium skin for Vandal
+
+============================================================
+
+**CRYOSTASIS COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Bulldogs:
+  Cryostasis Bulldog    Valorant Points 1,775
+    Cryostasis Bulldog - Premium skin for Bulldog
+
+Classics:
+  Cryostasis Classic    Valorant Points 1,775
+    Cryostasis Classic - Premium skin for Classic
+
+Melees:
+  Cryostasis Impact Drill    Valorant Points 3,550
+    Cryostasis Impact Drill - Ultra skin for Melee
+
+Operators:
+  Cryostasis Operator    Valorant Points 1,775
+    Cryostasis Operator - Premium skin for Operator
+
+Vandals:
+  Cryostasis Vandal    Valorant Points 1,775
+    Cryostasis Vandal - Premium skin for Vandal
+
+============================================================
+
+**DOODLE COLLECTION**
+Total weapons: 5
+/ rename collection to Doodle Buds Collection
+/ replace all weapon descpriton to Bundle Cost 6992
+
+Ares:
+  Doodle Buds Ares    Valorant Points 1,775
+    Doodle Buds Ares - Premium skin for Ares
+
+Marshals:
+  Doodle Buds Marshal    Valorant Points 1,775
+    Doodle Buds Marshal - Premium skin for Marshal
+
+Phantoms:
+  Doodle Buds Phantom    Valorant Points 1,775
+    Doodle Buds Phantom - Premium skin for Phantom
+
+Shortys:
+  Doodle Buds Shorty    Valorant Points 1,775
+    Doodle Buds Shorty - Premium skin for Shorty
+
+Stingers:
+  Doodle Buds Stinger    Valorant Points 1,775
+    Doodle Buds Stinger - Premium skin for Stinger
+
+============================================================
+
+**EGO COLLECTION**
+Total weapons: 6
+/ replace all weapon except outlaw descpriton to Bundle Cost 7100
+/ replace outlaw descpriton to Part of Throwback Pack: Outlaw Collection
+
+
+Ghosts:
+  Ego Ghost    Valorant Points 1,775
+    Ego Ghost - Premium skin for Ghost
+
+Guardians:
+  Ego Guardian    Valorant Points 1,775
+    Ego Guardian - Premium skin for Guardian
+
+Melees:
+  Ego Knife    Valorant Points 3,550
+    Ego Knife - Ultra skin for Melee
+
+Outlaws:
+  Ego Outlaw    Valorant Points 1,775
+    Ego Outlaw - Premium skin for Outlaw
+
+Stingers:
+  Ego Stinger    Valorant Points 1,775
+    Ego Stinger - Premium skin for Stinger
+
+Vandals:
+  Ego Vandal    Valorant Points 1,775
+    Ego Vandal - Premium skin for Vandal
+
+============================================================
+
+**FORSAKEN COLLECTION**
+Total weapons: 5
+/ replace all weapon except outlaw descpriton to Bundle Cost 7100
+
+Classics:
+  Forsaken Classic    Valorant Points 1,775
+    Forsaken Classic - Premium skin for Classic
+
+Melees:
+  Forsaken Ritual Blade    Valorant Points 3,550
+    Forsaken Ritual Blade - Ultra skin for Melee
+
+Operators:
+  Forsaken Operator    Valorant Points 1,775
+    Forsaken Operator - Premium skin for Operator
+
+Spectres:
+  Forsaken Spectre    Valorant Points 1,775
+    Forsaken Spectre - Premium skin for Spectre
+
+Vandals:
+  Forsaken Vandal    Valorant Points 1,775
+    Forsaken Vandal - Premium skin for Vandal
+
+============================================================
+
+**GAIA'S COLLECTION**
+Total weapons: 10
+/replace colleciton name to Gaia's Vengeance Collection
+/ replace all weapon except outlaw descpriton to Bundle Cost 7100
+
+Ares:
+  Gaia's Vengeance Ares    Valorant Points 1,775
+    Gaia's Vengeance Ares - Premium skin for Ares
+
+Buckys:
+  Gaia's Vengeance Bucky    Valorant Points 1,775
+    Gaia's Vengeance Bucky - Premium skin for Bucky
+
+Ghosts:
+  Gaia's Vengeance Ghost    Valorant Points 1,775
+    Gaia's Vengeance Ghost - Premium skin for Ghost
+
+Guardians:
+  Gaia's Vengeance Guardian    Valorant Points 1,775
+    Gaia's Vengeance Guardian - Premium skin for Guardian
+
+Marshals:
+  Gaia's Vengeance Marshal    Valorant Points 1,775
+    Gaia's Vengeance Marshal - Premium skin for Marshal
+
+Melees:
+  Gaia's Wrath    Valorant Points 3,550
+    Gaia's Wrath - Ultra skin for Melee
+  Gaia's Fury    Valorant Points 3,550
+    Gaia's Fury - Ultra skin for Melee
+
+Phantoms:
+  Gaia's Vengeance Phantom    Valorant Points 1,775
+    Gaia's Vengeance Phantom - Premium skin for Phantom
+
+Shortys:
+  Gaia's Vengeance Shorty    Valorant Points 1,775
+    Gaia's Vengeance Shorty - Premium skin for Shorty
+
+Vandals:
+  Gaia's Vengeance Vandal    Valorant Points 1,775
+    Gaia's Vengeance Vandal - Premium skin for Vandal
+
+============================================================
+
+**GRAVITATIONAL URANIUM NEUROBLASTER COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Buckys:
+  Gravitational Uranium Neuroblaster Bucky    Valorant Points 1,775
+    Gravitational Uranium Neuroblaster Bucky - Premium skin for Bucky
+
+Classics:
+  Gravitational Uranium Neuroblaster Classic    Valorant Points 1,775
+    Gravitational Uranium Neuroblaster Classic - Premium skin for Classic
+
+Melees:
+  Gravitational Uranium Neuroblaster Baton    Valorant Points 3,550
+    Gravitational Uranium Neuroblaster Baton - Ultra skin for Melee
+
+Operators:
+  Gravitational Uranium Neuroblaster Operator    Valorant Points 1,775
+    Gravitational Uranium Neuroblaster Operator - Premium skin for Operator
+
+Spectres:
+  Gravitational Uranium Neuroblaster Spectre    Valorant Points 1,775
+    Gravitational Uranium Neuroblaster Spectre - Premium skin for Spectre
+
+============================================================
+
+**HELIX COLLECTION**
+Total weapons: 3
+/ replace all weapon descpriton to Bundle Cost 6940
+
+Melees:
+  Helix Daggers    Valorant Points 4,350
+    Helix Daggers - Ultra skin for Melee
+
+Phantoms:
+  Helix Phantom    Valorant Points 1,775
+    Helix Phantom - Premium skin for Phantom
+
+Spectres:
+  Helix Spectre    Valorant Points 1,775
+    Helix Spectre - Premium skin for Spectre
+
+============================================================
+
+**ION COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ares:
+  Ion Ares    Valorant Points 1,775
+    Ion Ares - Premium skin for Ares
+
+Buckys:
+  Ion Bucky    Valorant Points 1,775
+    Ion Bucky - Premium skin for Bucky
+
+Frenzys:
+  Ion Frenzy    Valorant Points 1,775
+    Ion Frenzy - Premium skin for Frenzy
+
+Melees:
+  Ion Energy Sword    Valorant Points 3,550
+    Ion Energy Sword - Ultra skin for Melee
+  Ion Karambit    Valorant Points 4,350
+    Ion Karambit - Ultra skin for Melee
+
+Operators:
+  Ion Operator    Valorant Points 1,775
+    Ion Operator - Premium skin for Operator
+
+Phantoms:
+  Ion Phantom    Valorant Points 1,775
+    Ion Phantom - Premium skin for Phantom
+
+Sheriffs:
+  Ion Sheriff    Valorant Points 1,775
+    Ion Sheriff - Premium skin for Sheriff
+
+Spectres:
+  Ion Spectre    Valorant Points 1,775
+    Ion Spectre - Premium skin for Spectre
+
+Vandals:
+  Ion Vandal    Valorant Points 1,775
+    Ion Vandal - Premium skin for Vandal
+
+============================================================
+
+**MAGEPUNK COLLECTION**
+Total weapons: 13
+/ replace all weapon descpriton except phantom, vandal and Sparkswitch to Bundle Cost 7100
+/ replace  weapon descpriton of  phantom, vandal and Sparkswitch to Bundle Cost 6127
+
+Ares:
+  Magepunk Ares    Valorant Points 1,775
+    Magepunk Ares - Premium skin for Ares
+
+Buckys:
+  Magepunk Bucky    Valorant Points 1,775
+    Magepunk Bucky - Premium skin for Bucky
+
+Ghosts:
+  Magepunk Ghost    Valorant Points 1,775
+    Magepunk Ghost - Premium skin for Ghost
+
+Guardians:
+  Magepunk Guardian    Valorant Points 1,775
+    Magepunk Guardian - Premium skin for Guardian
+
+Marshals:
+  Magepunk Marshal    Valorant Points 1,775
+    Magepunk Marshal - Premium skin for Marshal
+
+Melees:
+  Magepunk Electroblade    Valorant Points 3,550
+    Magepunk Electroblade - Ultra skin for Melee
+  Magepunk Shock Gauntlet    Valorant Points 3,550
+    Magepunk Shock Gauntlet - Ultra skin for Melee
+  Magepunk Sparkswitch    Valorant Points 4,350
+    Magepunk Sparkswitch - Ultra skin for Melee
+
+Operators:
+  Magepunk Operator    Valorant Points 1,775
+    Magepunk Operator - Premium skin for Operator
+
+Phantoms:
+  Magepunk Phantom    Valorant Points 1,775
+    Magepunk Phantom - Premium skin for Phantom
+
+Sheriffs:
+  Magepunk Sheriff    Valorant Points 1,775
+    Magepunk Sheriff - Premium skin for Sheriff
+
+Spectres:
+  Magepunk Spectre    Valorant Points 1,775
+    Magepunk Spectre - Premium skin for Spectre
+
+Vandals:
+  Magepunk Vandal    Valorant Points 1,775
+    Magepunk Vandal - Premium skin for Vandal
+
+============================================================
+
+**NEBULA COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ares:
+  Nebula Ares    Valorant Points 1,775
+    Nebula Ares - Premium skin for Ares
+
+Guardians:
+  Nebula Guardian    Valorant Points 1,775
+    Nebula Guardian - Premium skin for Guardian
+
+Melees:
+  Nebula Knife    Valorant Points 3,550
+    Nebula Knife - Ultra skin for Melee
+
+Phantoms:
+  Nebula Phantom    Valorant Points 1,775
+    Nebula Phantom - Premium skin for Phantom
+
+Sheriffs:
+  Nebula Sheriff    Valorant Points 1,775
+    Nebula Sheriff - Premium skin for Sheriff
+
+============================================================
+
+**NEPTUNE COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Bulldogs:
+  Neptune Bulldog    Valorant Points 1,775
+    Neptune Bulldog - Premium skin for Bulldog
+
+Classics:
+  Neptune Classic    Valorant Points 1,775
+    Neptune Classic - Premium skin for Classic
+
+Guardians:
+  Neptune Guardian    Valorant Points 1,775
+    Neptune Guardian - Premium skin for Guardian
+
+Melees:
+  Neptune Anchor    Valorant Points 3,550
+    Neptune Anchor - Ultra skin for Melee
+  Neptune Hook    Valorant Points 3,550
+    Neptune Hook - Ultra skin for Melee
+
+Odins:
+  Neptune Odin    Valorant Points 1,775
+    Neptune Odin - Premium skin for Odin
+
+Phantoms:
+  Neptune Phantom    Valorant Points 1,775
+    Neptune Phantom - Premium skin for Phantom
+
+Shortys:
+  Neptune Shorty    Valorant Points 1,775
+    Neptune Shorty - Premium skin for Shorty
+
+Spectres:
+  Neptune Spectre    Valorant Points 1,775
+    Neptune Spectre - Premium skin for Spectre
+
+Vandals:
+  Neptune Vandal    Valorant Points 1,775
+    Neptune Vandal - Premium skin for Vandal
+
+============================================================
+
+**ONI COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ares:
+  Oni Ares    Valorant Points 1,775
+    Oni Ares - Premium skin for Ares
+
+Buckys:
+  Oni Bucky    Valorant Points 1,775
+    Oni Bucky - Premium skin for Bucky
+
+Bulldogs:
+  Oni Bulldog    Valorant Points 1,775
+    Oni Bulldog - Premium skin for Bulldog
+
+Frenzys:
+  Oni Frenzy    Valorant Points 1,775
+    Oni Frenzy - Premium skin for Frenzy
+
+Guardians:
+  Oni Guardian    Valorant Points 1,775
+    Oni Guardian - Premium skin for Guardian
+
+Melees:
+  Oni Claw    Valorant Points 3,550
+    Oni Claw - Ultra skin for Melee
+  Onimaru Kunitsuna    Valorant Points 5,350
+    Onimaru Kunitsuna - Ultra skin for Melee
+
+Phantoms:
+  Oni Phantom    Valorant Points 1,775
+    Oni Phantom - Premium skin for Phantom
+
+Shortys:
+  Oni Shorty    Valorant Points 1,775
+    Oni Shorty - Premium skin for Shorty
+
+Vandals:
+  Oni Vandal    Valorant Points 1,775
+    Oni Vandal - Premium skin for Vandal
+
+============================================================
+
+**ORIGIN COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Buckys:
+  Origin Bucky    Valorant Points 1,775
+    Origin Bucky - Premium skin for Bucky
+
+Frenzys:
+  Origin Frenzy    Valorant Points 1,775
+    Origin Frenzy - Premium skin for Frenzy
+
+Melees:
+  Origin Crescent Blade    Valorant Points 3,550
+    Origin Crescent Blade - Ultra skin for Melee
+
+Operators:
+  Origin Operator    Valorant Points 1,775
+    Origin Operator - Premium skin for Operator
+
+Vandals:
+  Origin Vandal    Valorant Points 1,775
+    Origin Vandal - Premium skin for Vandal
+
+============================================================
+
+**PRIME COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Classics:
+  Prime Classic    Valorant Points 1,775
+    Prime Classic - Premium skin for Classic
+
+Guardians:
+  Prime Guardian    Valorant Points 1,775
+    Prime Guardian - Premium skin for Guardian
+
+Melees:
+  Prime Axe    Valorant Points 3,550
+    Prime Axe - Ultra skin for Melee
+
+Spectres:
+  Prime Spectre    Valorant Points 1,775
+    Prime Spectre - Premium skin for Spectre
+
+Vandals:
+  Prime Vandal    Valorant Points 1,775
+    Prime Vandal - Premium skin for Vandal
+
+============================================================
+
+**PRIME//2.0 COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Buckys:
+  Prime//2.0 Bucky    Valorant Points 1,775
+    Prime//2.0 Bucky - Premium skin for Bucky
+
+Frenzys:
+  Prime//2.0 Frenzy    Valorant Points 1,775
+    Prime//2.0 Frenzy - Premium skin for Frenzy
+
+Melees:
+  Prime//2.0 Karambit    Valorant Points 3,550
+    Prime//2.0 Karambit - Ultra skin for Melee
+
+Odins:
+  Prime//2.0 Odin    Valorant Points 1,775
+    Prime//2.0 Odin - Premium skin for Odin
+
+Phantoms:
+  Prime//2.0 Phantom    Valorant Points 1,775
+    Prime//2.0 Phantom - Premium skin for Phantom
+
+============================================================
+
+**RADIANT CRISIS 001 COLLECTION**
+Total weapons: 9
+/ replace all weapon descpriton to Bundle Cost 7100
+/ only Radiant Crisis 001 Classic	Radiant Crisis 001 Spectre	VRadiant Crisis 001 Bucky	Radiant Crisis 001 PhantomRadiant Crisis 001 Baseball Bat are part of bundle
+Buckys:
+  Radiant Crisis 001 Bucky    Valorant Points 1,775
+    Radiant Crisis 001 Bucky - Premium skin for Bucky
+
+Bulldogs:
+  Radiant Entertainment System Bulldog    Valorant Points 2,975
+    Radiant Entertainment System Bulldog - Exclusive skin for Bulldog
+
+Classics:
+  Radiant Crisis 001 Classic    Valorant Points 1,775
+    Radiant Crisis 001 Classic - Premium skin for Classic
+
+Ghosts:
+  Radiant Entertainment System Ghost    Valorant Points 2,975
+    Radiant Entertainment System Ghost - Exclusive skin for Ghost
+
+Melees:
+  Radiant Crisis 001 Baseball Bat    Valorant Points 3,550
+    Radiant Crisis 001 Baseball Bat - Ultra skin for Melee
+
+Operators:
+  Radiant Entertainment System Operator    Valorant Points 2,975
+    Radiant Entertainment System Operator - Exclusive skin for Operator
+
+Phantoms:
+  Radiant Entertainment System Phantom    Valorant Points 2,975
+    Radiant Entertainment System Phantom - Exclusive skin for Phantom
+  Radiant Crisis 001 Phantom    Valorant Points 1,775
+    Radiant Crisis 001 Phantom - Premium skin for Phantom
+
+Spectres:
+  Radiant Crisis 001 Spectre    Valorant Points 1,775
+    Radiant Crisis 001 Spectre - Premium skin for Spectre
+
+============================================================
+
+**REAVER COLLECTION**
+Total weapons: 10
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ghosts:
+  Reaver Ghost    Valorant Points 1,775
+    Reaver Ghost - Premium skin for Ghost
+
+Guardians:
+  Reaver Guardian    Valorant Points 1,775
+    Reaver Guardian - Premium skin for Guardian
+
+Melees:
+  Reaver Knife    Valorant Points 3,550
+    Reaver Knife - Ultra skin for Melee
+  Reaver Karambit    Valorant Points 4,350
+    Reaver Karambit - Ultra skin for Melee
+
+Odins:
+  Reaver Odin    Valorant Points 1,775
+    Reaver Odin - Premium skin for Odin
+
+Operators:
+  Reaver Operator    Valorant Points 1,775
+    Reaver Operator - Premium skin for Operator
+
+Phantoms:
+  Reaver Phantom    Valorant Points 1,775
+    Reaver Phantom - Premium skin for Phantom
+
+Sheriffs:
+  Reaver Sheriff    Valorant Points 1,775
+    Reaver Sheriff - Premium skin for Sheriff
+
+Spectres:
+  Reaver Spectre    Valorant Points 1,775
+    Reaver Spectre - Premium skin for Spectre
+
+Vandals:
+  Reaver Vandal    Valorant Points 1,775
+    Reaver Vandal - Premium skin for Vandal
+
+============================================================
+
+**RECON COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ghosts:
+  Recon Ghost    Valorant Points 1,775
+    Recon Ghost - Premium skin for Ghost
+
+Guardians:
+  Recon Guardian    Valorant Points 1,775
+    Recon Guardian - Premium skin for Guardian
+
+Melees:
+  Recon Balisong    Valorant Points 3,550
+    Recon Balisong - Ultra skin for Melee
+
+Phantoms:
+  Recon Phantom    Valorant Points 1,775
+    Recon Phantom - Premium skin for Phantom
+
+Spectres:
+  Recon Spectre    Valorant Points 1,775
+    Recon Spectre - Premium skin for Spectre
+
+============================================================
+
+**SOULSTRIFE COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ghosts:
+  Soulstrife Ghost    Valorant Points 1,775
+    Soulstrife Ghost - Premium skin for Ghost
+
+Guardians:
+  Soulstrife Guardian    Valorant Points 1,775
+    Soulstrife Guardian - Premium skin for Guardian
+
+Melees:
+  Soulstrife Scythe    Valorant Points 3,550
+    Soulstrife Scythe - Ultra skin for Melee
+
+Phantoms:
+  Soulstrife Phantom    Valorant Points 1,775
+    Soulstrife Phantom - Premium skin for Phantom
+
+Spectres:
+  Soulstrife Spectre    Valorant Points 1,775
+    Soulstrife Spectre - Premium skin for Spectre
+
+============================================================
+
+**SOVEREIGN COLLECTION**
+Total weapons: 9
+/ replace all weapon descpriton to Bundle Cost 7100
+/ Eternal Soverign is also part of collection
+Frenzys:
+  Sovereign Frenzy    Valorant Points 1,775
+    Sovereign Frenzy - Premium skin for Frenzy
+
+Ghosts:
+  Sovereign Ghost    Valorant Points 1,775
+    Sovereign Ghost - Premium skin for Ghost
+
+Guardians:
+  Sovereign Guardian    Valorant Points 1,775
+    Sovereign Guardian - Premium skin for Guardian
+
+Judges:
+  Sovereign Judge    Valorant Points 1,775
+    Sovereign Judge - Premium skin for Judge
+
+Marshals:
+  Sovereign Marshal    Valorant Points 1,775
+    Sovereign Marshal - Premium skin for Marshal
+
+Melees:
+  Sovereign Sword    Valorant Points 3,550
+    Sovereign Sword - Ultra skin for Melee
+
+Odins:
+  Sovereign Odin    Valorant Points 1,775
+    Sovereign Odin - Premium skin for Odin
+
+Phantoms:
+  Sovereign Phantom    Valorant Points 1,775
+    Sovereign Phantom - Premium skin for Phantom
+
+Stingers:
+  Sovereign Stinger    Valorant Points 1,775
+    Sovereign Stinger - Premium skin for Stinger
+
+============================================================
+
+**SPLINE COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Classics:
+  Spline Classic    Valorant Points 1,775
+    Spline Classic - Premium skin for Classic
+
+Melees:
+  Spline Dagger    Valorant Points 3,550
+    Spline Dagger - Ultra skin for Melee
+
+Operators:
+  Spline Operator    Valorant Points 1,775
+    Spline Operator - Premium skin for Operator
+
+Phantoms:
+  Spline Phantom    Valorant Points 1,775
+    Spline Phantom - Premium skin for Phantom
+
+Spectres:
+  Spline Spectre    Valorant Points 1,775
+    Spline Spectre - Premium skin for Spectre
+
+============================================================
+
+**TETHERED REALMS COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+/ Add descrpiton to Melee Prosperity " Level 2: Prosperity & Demise" 
+
+Ghosts:
+  Tethered Realms Ghost    Valorant Points Battlepass
+    Tethered Realms Ghost - Premium skin for Ghost
+
+Guardians:
+  Tethered Realms Guardian    Valorant Points Battlepass
+    Tethered Realms Guardian - Premium skin for Guardian
+
+Melees:
+  Prosperity    Valorant Points 3,550
+    Prosperity - Ultra skin for Melee
+
+Operators:
+  Tethered Realms Operator    Valorant Points Battlepass
+    Tethered Realms Operator - Premium skin for Operator
+
+Vandals:
+  Tethered Realms Vandal    Valorant Points Battlepass
+    Tethered Realms Vandal - Premium skin for Vandal
+
+============================================================
+
+**UNDERCITY COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+/  Add description to Melee Hack " Level 2: Hack & Slash"
+Bulldogs:
+  Undercity Bulldog    Valorant Points 1,775
+    Undercity Bulldog - Premium skin for Bulldog
+
+Classics:
+  Undercity Classic    Valorant Points 1,775
+    Undercity Classic - Premium skin for Classic
+
+Judges:
+  Undercity Judge    Valorant Points 1,775
+    Undercity Judge - Premium skin for Judge
+
+Melees:
+  Hack    Valorant Points 3,550
+    Hack - Ultra skin for Melee
+
+Phantoms:
+  Undercity Phantom    Valorant Points 1,775
+    Undercity Phantom - Premium skin for Phantom
+
+============================================================
+/ add VALORANT GO! Vol. 1 Collection with VALORANT GO! Vol. 1 Ghost	Valorant Points 1,775	—	—
+	VALORANT GO! Vol. 1 Spectre	Valorant Points 1,775	Give Back
+	VALORANT GO! Vol. 1 Guardian	Valorant Points 1,775	—
+	VALORANT GO! Vol. 1 Phantom	Valorant Points 1,775
+	Melee:
+VALORANT GO! Vol. 1 Knife
+/ give descrption to all weapons Bundle Cost 8855
+
+
+**VALORANT GO! VOL. 2 COLLECTION**
+Total weapons: 1
+/ give descrption to all weapons Bundle Cost 8855
+/VALORANT GO! Vol. 2 Classic	Valorant Points 1,775	—
+	VALORANT GO! Vol. 2 Vandal	Valorant Points 1,775
+	VALORANT GO! Vol. 2 Operator	Valorant Points 1,775
+	VALORANT GO! Vol. 2 Ares	Valorant Points 1,775
+	Melee:
+Yoru's Stylish Butterfly Comb part of collection
+
+Melees:
+  Yoru's Stylish Butterfly Comb    Valorant Points 3,550
+    Yoru's Stylish Butterfly Comb - Ultra skin for Melee
+
+============================================================
+
+**VALIANT HERO COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Ares:
+  Valiant Hero Ares    Valorant Points 1,775
+    Valiant Hero Ares - Premium skin for Ares
+
+Ghosts:
+  Valiant Hero Ghost    Valorant Points 1,775
+    Valiant Hero Ghost - Premium skin for Ghost
+
+Melees:
+  Ruyi Staff    Valorant Points 4,350
+    Ruyi Staff - Ultra skin for Melee
+
+Operators:
+  Valiant Hero Operator    Valorant Points 1,775
+    Valiant Hero Operator - Premium skin for Operator
+
+Vandals:
+  Valiant Hero Vandal    Valorant Points 1,775
+    Valiant Hero Vandal - Premium skin for Vandal
+
+============================================================
+
+**XERØFANG COLLECTION**
+Total weapons: 3
+/ replace all weapon descpriton to Bundle Cost 6355
+
+Ghosts:
+  XERØFANG Ghost    Valorant Points 1,775
+    XERØFANG Ghost - Premium skin for Ghost
+
+Melees:
+  XERØFANG Knife    Valorant Points 4,350
+    XERØFANG Knife - Ultra skin for Melee
+
+Vandals:
+  XERØFANG Vandal     Valorant Points 1,775
+    XERØFANG Vandal  - Premium skin for Vandal
+
+============================================================
+
+**XENOHUNTER COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 7100
+
+Buckys:
+  Xenohunter Bucky    Valorant Points 1,775
+    Xenohunter Bucky - Premium skin for Bucky
+
+Frenzys:
+  Xenohunter Frenzy    Valorant Points 1,775
+    Xenohunter Frenzy - Premium skin for Frenzy
+
+Melees:
+  Xenohunter Knife    Valorant Points 3,550
+    Xenohunter Knife - Ultra skin for Melee
+
+Odins:
+  Xenohunter Odin    Valorant Points 1,775
+    Xenohunter Odin - Premium skin for Odin
+
+Phantoms:
+  Xenohunter Phantom    Valorant Points 1,775
+    Xenohunter Phantom - Premium skin for Phantom
+
+============================================================

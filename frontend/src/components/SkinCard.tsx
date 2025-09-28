@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Skin } from '../types';
 import './SkinCard.css';
 
@@ -7,13 +7,15 @@ interface SkinCardProps {
   onClick: () => void;
 }
 
-const SkinCard: React.FC<SkinCardProps> = ({ skin, onClick }) => {
+const SkinCard: React.FC<SkinCardProps> = React.memo(({ skin, onClick }) => {
+  const [imageLoaded, setImageLoaded] = useState(false);
+  const [imageError, setImageError] = useState(false);
   const getRarityColor = (rarity: string): string => {
     switch (rarity.toLowerCase()) {
       case 'select': return '#4a90e2';      // Official blue
-      case 'deluxe': return '#27d545';      // Official green
-      case 'premium': return '#d946ef';     // Official pink/magenta
-      case 'exclusive': return '#ff8a00';   // Official orange
+      case 'deluxe': return '#00a085';      // Brighter teal green
+      case 'premium': return '#d666a1';     // Brighter purple/magenta
+      case 'exclusive': return '#ff6b00';   // More orange (less yellow)
       case 'ultra': return '#ffd700';       // Official gold/yellow
       default: return '#ffffff';
     }
@@ -22,14 +24,23 @@ const SkinCard: React.FC<SkinCardProps> = ({ skin, onClick }) => {
   return (
     <div className="skin-card" onClick={onClick}>
       <div className="skin-card-image-container">
+        {!imageLoaded && !imageError && (
+          <div className="image-placeholder">
+            <div className="skeleton-loader"></div>
+          </div>
+        )}
         <img 
           src={skin.thumbnailUrl} 
           alt={skin.name}
-          className="skin-card-image"
+          className={`skin-card-image ${imageLoaded ? 'loaded' : 'loading'}`}
+          loading="lazy"
+          onLoad={() => setImageLoaded(true)}
           onError={(e) => {
             const target = e.target as HTMLImageElement;
+            setImageError(true);
             if (target.src !== window.location.origin + '/placeholder-weapon.png') {
               target.src = '/placeholder-weapon.png';
+              setImageError(false);
             }
           }}
         />
@@ -107,6 +118,6 @@ const SkinCard: React.FC<SkinCardProps> = ({ skin, onClick }) => {
       </div>
     </div>
   );
-};
+});
 
 export default SkinCard;

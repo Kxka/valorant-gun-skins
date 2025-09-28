@@ -140,19 +140,10 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
           return agentSkinMappings.hasOwnProperty(skin.name);
         }
 
-        // Battlepass search - exactly like agent search
+        // Battlepass search - check cost field directly
         if ('battlepass'.includes(searchTerm) && searchTerm.length >= 2) {
-          // Check if skin collection contains any battlepass collection name
-          const battlepassCollections = [
-            'kingdom', 'luxe', 'artisan', 'wasteland', 'cavalier', 'tethered', 
-            'gridcrash', 'convex', 'ruin', 'nebula', 'ruination', 'moon', 
-            'hieroscape', 'celestia', 'refractrix', 'doom', 'byteshift', 
-            'perch', 'atlas', 'space', 'interhelm', 'haloform', 'belaflaire'
-          ];
-          
-          return battlepassCollections.some(bp => 
-            skin.collection.toLowerCase().includes(bp)
-          );
+          // Check if cost is "Battlepass"
+          return typeof skin.cost === 'string' && (skin.cost as string).toLowerCase() === 'battlepass';
         }
 
         // Hidden tags search (if they exist)

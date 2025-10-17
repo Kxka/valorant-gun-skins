@@ -181,6 +181,32 @@ Stingers:
 
 ============================================================
 
+**DOLMIR'S REVENGE COLLECTION**
+Total weapons: 5
+/ replace all weapon descpriton to Bundle Cost 8700
+
+Classics:
+  Dolmir's Revenge Classic    Valorant Points 2,175
+    Dolmir's Revenge Classic - Premium skin for Classic
+
+Guardians:
+  Dolmir's Revenge Guardian    Valorant Points 2,175
+    Dolmir's Revenge Guardian - Premium skin for Guardian
+
+Melees:
+  Dolmir's Judgement    Valorant Points 4,350
+    Dolmir's Judgement - Ultra skin for Melee
+
+Odins:
+  Dolmir's Revenge Odin    Valorant Points 2,175
+    Dolmir's Revenge Odin - Premium skin for Odin
+
+Vandals:
+  Dolmir's Revenge Vandal    Valorant Points 2,175
+    Dolmir's Revenge Vandal - Premium skin for Vandal
+
+============================================================
+
 **EGO COLLECTION**
 Total weapons: 6
 / replace all weapon except outlaw descpriton to Bundle Cost 7100

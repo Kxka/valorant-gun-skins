@@ -694,12 +694,32 @@ Melees:
 ============================================================
 
 **WASTELAND COLLECTION**
-Total weapons: 5
-/ replace descrpiton for all weapons with Bundle Cost 4270
+Total weapons: 10
+/ replace descrpiton for all weapons with Bundle Cost 5100
+
+Buckys:
+  Wasteland Bucky    Valorant Points 1,275
+    Wasteland Bucky - Deluxe skin for Bucky
+
+Bulldogs:
+  Wasteland Bulldog    Valorant Points 1,275
+    Wasteland Bulldog - Deluxe skin for Bulldog
 
 Marshals:
   Wasteland Marshal    Valorant Points Battlepass
     Wasteland Marshal - Deluxe skin for Marshal
+
+Melees:
+  Wasteland Crowbar    Valorant Points 2,550
+    Wasteland Crowbar - Deluxe skin for Melee
+
+Outlaws:
+  Wasteland Outlaw    Valorant Points 1,275
+    Wasteland Outlaw - Deluxe skin for Outlaw
+
+Phantoms:
+  Wasteland Phantom    Valorant Points 1,275
+    Wasteland Phantom - Deluxe skin for Phantom
 
 Sheriffs:
   Wasteland Sheriff    Valorant Points Battlepass

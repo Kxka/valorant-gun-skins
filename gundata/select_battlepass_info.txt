@@ -507,6 +507,54 @@ Stingers:
 
 ============================================================
 
+**HEARTBREAKER COLLECTION COLLECTION**
+Total weapons: 4
+/ replace all weapon description in HEARTBREAKER collection as "Obtained in Battlepass"
+
+Bulldogs:
+  Heartbreaker Bulldog    Battlepass
+    Heartbreaker Bulldog - Select skin for Bulldog
+
+Odins:
+  Heartbreaker Odin    Battlepass
+    Heartbreaker Odin - Select skin for Odin
+
+Sheriffs:
+  Heartbreaker Sheriff    Battlepass
+    Heartbreaker Sheriff - Select skin for Sheriff
+
+Operators:
+  Heartbreaker Operator    Battlepass
+    Heartbreaker Operator - Select skin for Operator
+
+============================================================
+
+**HEARTSEEKER COLLECTION COLLECTION**
+Total weapons: 5
+/ replace all weapon description in HEARTSEEKER collection as "Obtained in Battlepass"
+
+Shortys:
+  Heartseeker Shorty    Battlepass
+    Heartseeker Shorty - Select skin for Shorty
+
+Stingers:
+  Heartseeker Stinger    Battlepass
+    Heartseeker Stinger - Select skin for Stinger
+
+Outlaws:
+  Heartseeker Outlaw    Battlepass
+    Heartseeker Outlaw - Select skin for Outlaw
+
+Guardians:
+  Heartseeker Guardian    Battlepass
+    Heartseeker Guardian - Select skin for Guardian
+
+Phantoms:
+  Heartseeker Phantom    Battlepass
+    Heartseeker Phantom - Select skin for Phantom
+
+============================================================
+
 **HALOFORM COLLECTION COLLECTION**
 Total weapons: 4
 / replace all weapon description in HALOFORM collection as "Obtained in Battlepass"

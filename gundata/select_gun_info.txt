@@ -77,6 +77,16 @@ Operators:
 
 ============================================================
 
+**AGENT CONTRACT COLLECTION COLLECTION**
+Total weapons: 1
+/ replace all weapon description in Agent Contract collection as "Unlocked through agent tiers"
+
+Sheriffs:
+  Enforcer Sheriff    Valorant Points Veto
+    Enforcer Sheriff - Select skin for Sheriff
+
+============================================================
+
 **FORTUNE'S HAND COLLECTION COLLECTION**
 Total weapons: 5
 / replace all weapon description in Fortune's hand collection as Bundle Cost 3875

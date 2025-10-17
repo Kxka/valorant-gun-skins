@@ -313,6 +313,24 @@ Melee:
 
 ============================================================
 
+**HEARTSTOPPER COLLECTION COLLECTION**
+Total weapons: 3
+/ replace all weapon description in HEARTSTOPPER collection as "Obtained in Battlepass"
+
+Vandals:
+  Heartstopper Vandal    Battlepass
+    Heartstopper Vandal - Deluxe skin for Vandal
+
+Ghosts:
+  Heartstopper Ghost    Battlepass
+    Heartstopper Ghost - Deluxe skin for Ghost
+
+Melee:
+  Heart Splitter    Battlepass
+    Heart Splitter - Deluxe skin for Melee
+
+============================================================
+
 **HIEROSCAPE COLLECTION COLLECTION**
 Total weapons: 5
 / replace all weapon description in HIEROSCAPE collection as "Obtained in Battlepass"

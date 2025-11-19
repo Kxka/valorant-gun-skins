@@ -29126,5 +29126,337 @@
     ],
     "description": "Unlocked through agent tiers",
     "hiddenTags": []
+  },
+  {
+    "id": "2ef9ee97-4735-e7d9-069f-fb80541468b5",
+    "name": "ORA by OneTap Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/296d373f-4838-5712-d8d4-eaaf5cfabe79/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/296d373f-4838-5712-d8d4-eaaf5cfabe79/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Vandal Level 2\n(Sound Effects)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Vandal Level 3\n(Animation)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Vandal Level 4\n(Finisher)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Vandal Level 5\n(Song Shuffle)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 9900",
+    "hiddenTags": []
+  },
+  {
+    "id": "7581e975-418f-fe4f-e3b0-08a3000e9a8d",
+    "name": "ORA by OneTap Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/75ab3a8e-471c-00c7-5e38-37ad5e1bff6a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/75ab3a8e-471c-00c7-5e38-37ad5e1bff6a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Phantom Level 2\n(Sound Effects)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Phantom Level 3\n(Animation)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Phantom Level 4\n(Finisher)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Phantom Level 5\n(Song Shuffle)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 9900",
+    "hiddenTags": []
+  },
+  {
+    "id": "a452fcd9-4fe6-dc8c-6459-b2ad13ef89ff",
+    "name": "ORA by OneTap Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5b9779b4-48cc-e53c-4043-3681c7067ddb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5b9779b4-48cc-e53c-4043-3681c7067ddb/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Sheriff",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Sheriff Level 2\n(Sound Effects)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Sheriff Level 3\n(Animation)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Sheriff Level 4\n(Finisher)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Sheriff Level 5\n(Song Shuffle)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 9900",
+    "hiddenTags": []
+  },
+  {
+    "id": "94e98f1f-4a49-ef5f-b995-cf84750194b6",
+    "name": "ORA by OneTap Operator",
+    "weaponType": "Operator",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5dfc59c5-4faf-d120-b7cf-4da129e4f8af/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5dfc59c5-4faf-d120-b7cf-4da129e4f8af/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Operator",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Operator Level 2\n(Sound Effects)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Operator Level 3\n(Animation)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Operator Level 4\n(Finisher)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Operator Level 5\n(Song Shuffle)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 9900",
+    "hiddenTags": []
+  },
+  {
+    "id": "6fb14e4e-41df-de2d-98bc-fcb68d27db48",
+    "name": "ORA by OneTap Knife",
+    "weaponType": "Melee",
+    "rarity": "Ultra",
+    "cost": 4950,
+    "collection": "ORA by OneTap",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8cdc879e-4959-87e6-414d-7e924bbb566b/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8cdc879e-4959-87e6-414d-7e924bbb566b/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Knife",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Knife Level 2\n(Animation)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "ORA by OneTap Knife Level 3\n(Song Shuffle)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 9900",
+    "hiddenTags": []
+  },
+  {
+    "id": "a72c55b6-4cad-3db4-bcc3-5faece01b0ef",
+    "name": "Nanomight Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7f75a90c-414d-fbc6-9bbc-8cb310943b3d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7f75a90c-414d-fbc6-9bbc-8cb310943b3d/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Phantom\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Phantom\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Phantom\n(Variant 3 Pink)",
+        "color": "#FF69B4"
+      }
+    ],
+    "description": "Bundle Cost 5100",
+    "hiddenTags": []
+  },
+  {
+    "id": "c8b1923b-4cda-a532-7616-4b9a9a2cfe15",
+    "name": "Nanomight Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/99e0735a-42f5-f234-322a-b5b94c749a07/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/99e0735a-42f5-f234-322a-b5b94c749a07/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Frenzy",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Frenzy\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Frenzy\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Frenzy\n(Variant 3 Pink)",
+        "color": "#FF69B4"
+      }
+    ],
+    "description": "Bundle Cost 5100",
+    "hiddenTags": []
+  },
+  {
+    "id": "ef889a32-4951-ae40-44fe-40a4da210060",
+    "name": "Nanomight Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/18252494-4654-9c9f-6086-a3b623fc0a9f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/18252494-4654-9c9f-6086-a3b623fc0a9f/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Guardian\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Guardian\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Guardian\n(Variant 3 Pink)",
+        "color": "#FF69B4"
+      }
+    ],
+    "description": "Bundle Cost 5100",
+    "hiddenTags": []
+  },
+  {
+    "id": "eee0304d-45f1-6c08-1a53-4e850f594f51",
+    "name": "Nanomight Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0df1e30e-4e75-929d-fb95-f1ad28daf985/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0df1e30e-4e75-929d-fb95-f1ad28daf985/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Stinger",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Stinger\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Stinger\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Stinger\n(Variant 3 Pink)",
+        "color": "#FF69B4"
+      }
+    ],
+    "description": "Bundle Cost 5100",
+    "hiddenTags": []
+  },
+  {
+    "id": "f1d98ecd-4d68-30af-8908-edafabcf18ab",
+    "name": "Nanomight Knuckles",
+    "weaponType": "Melee",
+    "rarity": "Deluxe",
+    "cost": 2550,
+    "collection": "Nanomight",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a440f428-45ba-5579-cbe4-d2afebc25f08/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a440f428-45ba-5579-cbe4-d2afebc25f08/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Knuckles",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Knuckles\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Knuckles\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Knuckles\n(Variant 3 Pink)",
+        "color": "#FF69B4"
+      }
+    ],
+    "description": "Bundle Cost 5100",
+    "hiddenTags": []
   }
 ]

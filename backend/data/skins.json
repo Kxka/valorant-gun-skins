@@ -29458,5 +29458,165 @@
     ],
     "description": "Bundle Cost 5100",
     "hiddenTags": []
+  },
+  {
+    "id": "82511942465b560076d7778159d01bf4",
+    "name": "Mystbloom Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/89dbe2d2-4d10-6935-3118-01ac8524ee97/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/89dbe2d2-4d10-6935-3118-01ac8524ee97/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Ghost",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Ghost Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Ghost Level 4\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Ghost Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "4fc362144492ef57f8fb4cab81863545",
+    "name": "Mystbloom Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/087f02e8-4676-b272-2a16-f6bdd3612a45/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/087f02e8-4676-b272-2a16-f6bdd3612a45/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Vandal Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Vandal Level 4\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Vandal Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "1a097db147787049b62e6fa071ad7193",
+    "name": "Mystbloom Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6b6a6645-4f5c-c9fc-b20c-33a025b21ecb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6b6a6645-4f5c-c9fc-b20c-33a025b21ecb/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Outlaw",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Outlaw Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Outlaw Level 4\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Outlaw Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "c976f29d4a833a4029078dadbb7c5940",
+    "name": "Mystbloom Ares",
+    "weaponType": "Ares",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6efc009b-4373-8b90-00c6-87b343cac093/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6efc009b-4373-8b90-00c6-87b343cac093/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Ares",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Ares Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Ares Level 4\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Ares Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "a0d4ac37416bae62aa3648803714e25f",
+    "name": "Mystbloom Fanblade",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/81931c67-4c80-6dbb-7832-759d5b193b25/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/81931c67-4c80-6dbb-7832-759d5b193b25/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Fanblade",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Fanblade Level 2\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Fanblade Level 2\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Fanblade Level 2\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
   }
 ]

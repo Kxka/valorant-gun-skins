@@ -29618,5 +29618,381 @@
     ],
     "description": "Bundle Cost 8700",
     "hiddenTags": []
+  },
+  {
+    "id": "a9d11586488ac93ec3cc1ca5d9b6faa9",
+    "name": "Ayakashi Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Ayakashi Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7486c55a-4f30-9228-96a7-53844b0d7a33/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7486c55a-4f30-9228-96a7-53844b0d7a33/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Ayakashi Ghost",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Ayakashi Ghost Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Ayakashi Ghost Level 4\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Ayakashi Ghost Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Bundle Cost 7160",
+    "hiddenTags": []
+  },
+  {
+    "id": "c1b96274434652a465f4ec957d217922",
+    "name": "Ayakashi Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Ayakashi Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/58b05ae6-4126-2be4-84c1-1e9d63409091/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/58b05ae6-4126-2be4-84c1-1e9d63409091/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Ayakashi Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Ayakashi Phantom Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Ayakashi Phantom Level 4\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Ayakashi Phantom Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Bundle Cost 7160",
+    "hiddenTags": []
+  },
+  {
+    "id": "987e847d47d26ab323690497b6c39a7e",
+    "name": "Kogitsune",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 5350,
+    "collection": "Ayakashi Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/73bd2862-42bf-3ab2-5546-0e93c6ab74b3/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/73bd2862-42bf-3ab2-5546-0e93c6ab74b3/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Kogitsune",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Kogitsune Level 2\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Kogitsune Level 2\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Kogitsune Level 2\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Bundle Cost 7160",
+    "hiddenTags": []
+  },
+  {
+    "id": "6ca0d0724fb0fa690c766cbc2d9eeab3",
+    "name": "Stormborne Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/39b6299e-4f81-5902-467f-79adf6e47122/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/39b6299e-4f81-5902-467f-79adf6e47122/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "66e8e5e643cec8d5470ba5b0d69ed47d",
+    "name": "Stormborne Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4e4baff1-4cc9-13e1-8cb5-da9b9ba3073d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4e4baff1-4cc9-13e1-8cb5-da9b9ba3073d/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Guardian",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "bc0478c84b7ab6f6eb1e95bab0485435",
+    "name": "Stormborne Bucky",
+    "weaponType": "Bucky",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1b8cbf78-45cd-3140-6064-688def115317/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1b8cbf78-45cd-3140-6064-688def115317/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Bucky",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "c319c2304d988d9905bc7d8c02146570",
+    "name": "Stormborne Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4a005ab5-4d13-54a8-da10-41a66ec4b446/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4a005ab5-4d13-54a8-da10-41a66ec4b446/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "93cd08364da1e8c9b1db0ea9d0eed269",
+    "name": "Superset Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Superset Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7bd25a14-4f21-d4d2-cad2-75843e4edab2/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7bd25a14-4f21-d4d2-cad2-75843e4edab2/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Superset Marshal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "960fa9ae4f429601c722a797a90ec122",
+    "name": "Superset Classic",
+    "weaponType": "Classic",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Superset Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/38bccd91-481b-7efa-2d03-168111f44299/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/38bccd91-481b-7efa-2d03-168111f44299/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Superset Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "c9c999ae4bc4df1c328dad93c0d81368",
+    "name": "Superset Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Superset Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/64241e28-4242-c309-a84a-008b97dd5b25/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/64241e28-4242-c309-a84a-008b97dd5b25/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Superset Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "f31e4763458a961cf958ad8ea4973021",
+    "name": "Montage Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a32c7595-4f91-5253-9bf9-77b72b116d29/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a32c7595-4f91-5253-9bf9-77b72b116d29/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Spectre",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Spectre\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Spectre\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "af9b3af74ae62e0738196da4bc9d50b9",
+    "name": "Montage Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6349ea5e-40de-bd8f-6657-34af1f0183f8/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6349ea5e-40de-bd8f-6657-34af1f0183f8/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Phantom\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Phantom\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "de06622c4bf3d9af219111bf1c55ca54",
+    "name": "Montage Ares",
+    "weaponType": "Ares",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3d54e034-4d0b-948e-17dc-998d96960bcc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3d54e034-4d0b-948e-17dc-998d96960bcc/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Ares",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Ares\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Ares\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "0a5304664d70b221c056659a535a128b",
+    "name": "Montage Axe",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/50cf41a3-40e8-af02-2c11-eb935a7a9b72/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/50cf41a3-40e8-af02-2c11-eb935a7a9b72/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Axe",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Axe\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Axe\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
+  },
+  {
+    "id": "66823deb48b3dc1b81a169b59b9e4b0f",
+    "name": "Montage Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/77baf127-4834-1e6b-0e22-7aad3e2f531e/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/77baf127-4834-1e6b-0e22-7aad3e2f531e/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Frenzy",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Frenzy\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Frenzy\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Obtained in Battlepass",
+    "hiddenTags": ["battlepass"]
   }
 ]

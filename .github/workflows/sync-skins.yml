@@ -1,0 +1,46 @@
+name: Daily Skin Sync
+
+on:
+  schedule:
+    # Run daily at 18:00 UTC (around when Riot rotates store)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Install backend dependencies
+        run: cd backend && npm ci
+
+      - name: Run skin sync
+        run: cd backend && node scripts/syncNewSkins.js
+        timeout-minutes: 5
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet backend/data/skins.json && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push new skins
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backend/data/skins.json backend/data/metadata.json
+          git commit -m "chore: auto-sync new skins $(date -u +%Y-%m-%d)"
+          git push

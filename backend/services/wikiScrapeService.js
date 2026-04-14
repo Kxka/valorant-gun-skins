@@ -57,6 +57,9 @@ class WikiScrapeService {
 
       const wikitext = response.data.parse.wikitext['*'];
       const prices = this.parsePrices(wikitext);
+      if (prices) {
+        prices._bundleCost = this.parseBundleCost(wikitext);
+      }
       this.cache.set(collectionName, prices);
       return prices;
     } catch (error) {
@@ -122,6 +125,19 @@ class WikiScrapeService {
     }
 
     return Object.keys(prices).length > 0 ? prices : null;
+  }
+
+  /**
+   * Extract bundle cost from wikitext.
+   * Looks for |type= lines containing {{VP|X,XXX}} in the infobox.
+   */
+  parseBundleCost(wikitext) {
+    // Match the bundle cost pattern: |type=*{{VP|X,XXX}} or similar
+    const match = wikitext.match(/\|type\s*=\s*\*?\s*\{\{VP\|([0-9,]+)\}\}/);
+    if (match) {
+      return match[1].replace(/,/g, '');
+    }
+    return null;
   }
 
   /**

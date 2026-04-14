@@ -8,7 +8,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ onWeaponFilter }) => {
   const weaponCategories = {
     rifles: ['Vandal', 'Phantom', 'Guardian', 'Bulldog'],
-    sidearms: ['Sheriff', 'Ghost', 'Classic', 'Frenzy', 'Shorty'],
+    sidearms: ['Sheriff', 'Ghost', 'Classic', 'Frenzy', 'Shorty', 'Bandit'],
     snipers: ['Operator', 'Marshal', 'Outlaw'],
     shotguns: ['Bucky', 'Judge'],
     machineguns: ['Odin', 'Ares', 'Spectre', 'Stinger']

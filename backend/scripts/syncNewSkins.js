@@ -110,7 +110,7 @@ async function determinePrice(skinName, collection, rarity, weaponType, wikiCach
 /**
  * Build a skin object matching the existing skins.json schema.
  */
-function buildSkinObject(skin, weapon, rarity, weaponType, collection, priceResult) {
+function buildSkinObject(skin, weapon, rarity, weaponType, collection, priceResult, bundleCost) {
   const colorVariants = skin.chromas ? skin.chromas.map(chroma => ({
     name: chroma.displayName,
     color: valorantApiService.extractColorFromChroma(chroma) || '#ffffff'
@@ -133,7 +133,7 @@ function buildSkinObject(skin, weapon, rarity, weaponType, collection, priceResu
     hasColorVariants: colorVariants.length > 1,
     hasAnimations: skin.levels && skin.levels.length > 1,
     colorVariants,
-    description: `${skin.displayName} - ${rarity} skin for ${weapon.displayName}`,
+    description: getDescription(skin.displayName, priceResult, collection, bundleCost),
     hiddenTags
   };
 
@@ -142,6 +142,15 @@ function buildSkinObject(skin, weapon, rarity, weaponType, collection, priceResu
   }
 
   return obj;
+}
+
+function getDescription(skinName, priceResult, collection, bundleCost) {
+  if (priceResult.cost === 'Battlepass') return 'Obtained in Battlepass';
+  if (priceResult.cost === 'Contract Reward') return 'Agent Contract Reward';
+  if (priceResult.cost === 'Limited') return 'Limited Time Only';
+  if (collection.startsWith('VCT x ') || collection.includes('Team Capsules')) return 'VCT Team Capsule';
+  if (bundleCost) return `Bundle Cost ${bundleCost}`;
+  return skinName;
 }
 
 function getBestThumbnail(skin) {
@@ -208,7 +217,15 @@ async function main() {
       console.log(`NEW: ${skin.displayName} (${weaponType}, ${rarity}, ${collection})`);
 
       const priceResult = await determinePrice(skin.displayName, collection, rarity, weaponType, wikiCache);
-      const skinObj = buildSkinObject(skin, weapon, rarity, weaponType, collection, priceResult);
+
+      // Get bundle cost from wiki cache if available
+      let bundleCost = null;
+      const wikiPrices = wikiCache.get(collection);
+      if (wikiPrices && wikiPrices._bundleCost) {
+        bundleCost = wikiPrices._bundleCost;
+      }
+
+      const skinObj = buildSkinObject(skin, weapon, rarity, weaponType, collection, priceResult, bundleCost);
       newSkins.push(skinObj);
     }
   }

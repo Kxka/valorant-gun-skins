@@ -3,9 +3,8 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /admin/
+Disallow: /static/js/
+Disallow: /static/css/
 
 # Sitemap
 Sitemap: https://valorantskinz.com/sitemap.xml
-
-# Crawl-delay for respectful crawling
-Crawl-delay: 1

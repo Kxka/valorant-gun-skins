@@ -134,7 +134,9 @@ class ValorantApiService {
       'Steel Resolve Classic': 'Vyse',
       'Hard Bargain Shorty': 'Tejo',
       'Death Wish Sheriff': 'Yoru',
-      'Kaleidoscope Frenzy': 'Waylay'
+      'Kaleidoscope Frenzy': 'Waylay',
+      'Headbanger Classic': 'Miks',
+      'Enforcer Sheriff': 'Veto'
     };
 
     // Check if this skin matches any agent contract skin

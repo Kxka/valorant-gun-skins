@@ -88,7 +88,7 @@
     "name": "Rune Stone Odin",
     "weaponType": "Odin",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Rune Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/bf2fea95-4b73-05e3-9956-b8828a0f2edf/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/bf2fea95-4b73-05e3-9956-b8828a0f2edf/fullrender.png",
@@ -100,7 +100,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Rune Stone Odin - Select skin for Odin",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -132,7 +132,7 @@
         "color": "#FFFF00"
       }
     ],
-    "description": "Comet Odin",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -152,7 +152,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Doom Wing Odin - Select skin for Odin",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -832,7 +832,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Space Piercer Ares - Select skin for Ares",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -1068,7 +1068,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hivemind Ares",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -1140,7 +1140,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hieroscape Ares",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -1342,7 +1342,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 7100",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -1616,7 +1616,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Premiere Collision Ares - Select skin for Ares",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -2172,7 +2172,7 @@
         "color": "#FFFF00"
       }
     ],
-    "description": "Comet Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -2212,7 +2212,7 @@
     "name": "Starlit Odyssey Vandal",
     "weaponType": "Vandal",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Starlit Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0f85e1e8-4f6e-1a01-210a-b1948c05f8ea/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0f85e1e8-4f6e-1a01-210a-b1948c05f8ea/fullrender.png",
@@ -2236,7 +2236,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Starlit Odyssey Vandal - Select skin for Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -2488,7 +2488,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hivemind Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -2572,7 +2572,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Ruin Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -2806,7 +2806,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Bubble Pop Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -2826,7 +2826,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Guardrail Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -2886,7 +2886,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "K/TAC Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -3518,7 +3518,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Transition Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -3584,7 +3584,7 @@
         "color": "#FFA500"
       }
     ],
-    "description": "Torque Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -3796,7 +3796,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Sandswept Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -4262,7 +4262,7 @@
     "name": "Rune Stone Bulldog",
     "weaponType": "Bulldog",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Rune Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c4508633-4701-a745-251d-0bb0884f14ef/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c4508633-4701-a745-251d-0bb0884f14ef/fullrender.png",
@@ -4274,7 +4274,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Rune Stone Bulldog - Select skin for Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -4586,7 +4586,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hieroscape Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -4700,7 +4700,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "K/TAC Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -4874,7 +4874,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Genesis Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -4954,7 +4954,7 @@
     "name": "Hue Shift Bulldog",
     "weaponType": "Bulldog",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Hue Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7a5c47c8-4e83-917d-b0bf-dda86932d6ea/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7a5c47c8-4e83-917d-b0bf-dda86932d6ea/fullrender.png",
@@ -4966,7 +4966,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hue Shift Bulldog - Select skin for Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5038,7 +5038,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Premiere Collision Bulldog - Select skin for Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5090,7 +5090,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Transition Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5122,7 +5122,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Infinity Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5174,7 +5174,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Tilde Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5354,7 +5354,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Task Force 809 Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5634,7 +5634,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Composite Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5718,7 +5718,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Overlay Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -5872,7 +5872,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Doom Wing Phantom - Select skin for Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -6256,7 +6256,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Interhelm Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -6414,7 +6414,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hieroscape Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -6688,7 +6688,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 7100",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -6980,7 +6980,7 @@
     "name": "Hue Shift Phantom",
     "weaponType": "Phantom",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Hue Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3948f41b-4239-40b6-5a04-6ba0202a0ce0/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3948f41b-4239-40b6-5a04-6ba0202a0ce0/fullrender.png",
@@ -6992,7 +6992,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hue Shift Phantom - Select skin for Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -7194,7 +7194,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Shellspire Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -7406,7 +7406,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Infinity Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -7622,7 +7622,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Space Piercer Judge - Select skin for Judge",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -8002,7 +8002,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Interhelm Judge - Deluxe skin for Judge",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -8172,7 +8172,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Bubble Pop Judge - Deluxe skin for Judge",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -8348,7 +8348,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Iridian Thorn Judge - Deluxe skin for Judge",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -8368,7 +8368,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 7100",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -8746,7 +8746,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Tilde Judge - Deluxe skin for Judge",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -9022,7 +9022,7 @@
     "name": "Red Alert Bucky",
     "weaponType": "Bucky",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Red Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/17f8e996-4440-2011-da74-1dac76f5671a/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/17f8e996-4440-2011-da74-1dac76f5671a/fullrender.png",
@@ -9034,7 +9034,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Red Alert Bucky - Select skin for Bucky",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -9106,7 +9106,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Moon Scout Bucky - Select skin for Bucky",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -9366,7 +9366,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Iridian Thorn Bucky - Deluxe skin for Bucky",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -9470,7 +9470,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Genesis Bucky - Deluxe skin for Bucky",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -9764,7 +9764,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Task Force 809 Frenzy - Deluxe skin for Frenzy",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -9784,7 +9784,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Kaleidoscope Frenzy - Select skin for Frenzy",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "waylay"
     ]
@@ -9890,7 +9890,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "RagnaRocker Frenzy - Select skin for Frenzy",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "breach"
     ]
@@ -10128,7 +10128,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Swooping Frenzy - Select skin for Frenzy",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "skye"
     ]
@@ -10150,7 +10150,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hieroscape Frenzy - Deluxe skin for Frenzy",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -10264,7 +10264,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Guardrail Frenzy - Deluxe skin for Frenzy",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -10352,7 +10352,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 7100",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -10698,7 +10698,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Shellspire Frenzy - Deluxe skin for Frenzy",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -10770,7 +10770,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Live Wire Frenzy - Select skin for Frenzy",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "neon"
     ]
@@ -10930,7 +10930,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Resolution Classic - Select skin for Classic",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "deadlock"
     ]
@@ -10952,7 +10952,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Steel Resolve Classic - Select skin for Classic",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "vyse"
     ]
@@ -11188,7 +11188,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Pistolinha Classic - Select skin for Classic",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "raze"
     ]
@@ -11282,7 +11282,7 @@
     "name": "Red Alert Classic",
     "weaponType": "Classic",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Red Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/900becab-4e59-38d1-c668-449a236142cc/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/900becab-4e59-38d1-c668-449a236142cc/fullrender.png",
@@ -11294,7 +11294,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Red Alert Classic - Select skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -11366,7 +11366,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Finesse Classic - Select skin for Classic",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "chamber"
     ]
@@ -11420,7 +11420,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Songsteel Classic - Deluxe skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -11476,7 +11476,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Interhelm Classic - Deluxe skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -11530,7 +11530,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "FIRE/arm Classic - Select skin for Classic",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "kay/o"
     ]
@@ -11628,7 +11628,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Bubble Pop Classic - Deluxe skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -11970,7 +11970,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Premiere Collision Classic - Select skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -12074,7 +12074,7 @@
         "color": "#FFA500"
       }
     ],
-    "description": "Torque Classic - Deluxe skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -12126,7 +12126,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Infinity Classic - Deluxe skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -12188,7 +12188,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Final Chamber Classic - Select skin for Classic",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "sage"
     ]
@@ -12210,7 +12210,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x 100T Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12230,7 +12230,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x AG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12250,7 +12250,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x BBL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12270,7 +12270,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x BLD Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12290,7 +12290,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x BLG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12310,7 +12310,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x C9 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12330,7 +12330,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x DFM Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12350,7 +12350,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x DRG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12370,7 +12370,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x DRX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12390,7 +12390,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x EDG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12410,7 +12410,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x EG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12430,7 +12430,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x FNC Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12450,7 +12450,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x FPX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12470,7 +12470,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x FUR Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12490,7 +12490,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x FUT Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12510,7 +12510,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x G2 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12530,7 +12530,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x GEN Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12550,7 +12550,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x GE Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12570,7 +12570,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x GX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12590,7 +12590,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x JDG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12610,7 +12610,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x KC Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12630,7 +12630,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x KOI Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12650,7 +12650,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x KRÜ Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12670,7 +12670,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x LEV Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12690,7 +12690,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x LOUD Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12710,7 +12710,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x M8 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12730,7 +12730,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x MIBR Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12750,7 +12750,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x NAVI Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12770,7 +12770,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x NOVA Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12790,7 +12790,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x NRG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12810,7 +12810,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x PRX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12830,7 +12830,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x RRQ Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12850,7 +12850,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x SEN Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12870,7 +12870,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x T1 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12890,7 +12890,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TE Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12910,7 +12910,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TEC Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12930,7 +12930,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TH Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12950,7 +12950,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12970,7 +12970,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TLN Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -12990,7 +12990,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TS Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13010,7 +13010,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x TYL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13030,7 +13030,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x VIT Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13050,7 +13050,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x WOL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13070,7 +13070,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT x ZETA Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13090,7 +13090,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x 100T Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13110,7 +13110,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x 2G Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13130,7 +13130,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x AG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13150,7 +13150,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x APK Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13170,7 +13170,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x BBL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13190,7 +13190,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x BLG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13210,7 +13210,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x BOOM Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13230,7 +13230,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x C9 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13250,7 +13250,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x DFM Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13270,7 +13270,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x DRG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13290,7 +13290,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x DRX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13310,7 +13310,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x EDG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13330,7 +13330,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x EG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13350,7 +13350,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x FNC Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13370,7 +13370,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x FPX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13390,7 +13390,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x FUR Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13410,7 +13410,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x FUT Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13430,7 +13430,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x G2 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13450,7 +13450,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x GEN Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13470,7 +13470,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x GE Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13490,7 +13490,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x GX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13510,7 +13510,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x JDG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13530,7 +13530,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x KC Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13550,7 +13550,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x KOI Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13570,7 +13570,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x KRÜ Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13590,7 +13590,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x LEV Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13610,7 +13610,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x LOUD Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13630,7 +13630,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x M8 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13650,7 +13650,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x MIBR Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13670,7 +13670,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x NAVI Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13690,7 +13690,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x NOVA Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13710,7 +13710,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x NRG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13730,7 +13730,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x NS Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13750,7 +13750,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x PRX Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13770,7 +13770,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x RRQ Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13790,7 +13790,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x SEN Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13810,7 +13810,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x T1 Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13830,7 +13830,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TE Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13850,7 +13850,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TEC Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13870,7 +13870,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TH Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13890,7 +13890,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13910,7 +13910,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TLN Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13930,7 +13930,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TS Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13950,7 +13950,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x TYL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13970,7 +13970,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x VIT Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -13990,7 +13990,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x WOL Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -14010,7 +14010,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x XLG Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -14030,7 +14030,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT25 x ZETA Classic - Ultra skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": []
   },
   {
@@ -14070,7 +14070,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Flutter Ghost - Select skin for Ghost",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "clove"
     ]
@@ -14390,7 +14390,7 @@
         "color": "#FFFF00"
       }
     ],
-    "description": "Comet Ghost - Deluxe skin for Ghost",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -14430,7 +14430,7 @@
     "name": "Starlit Odyssey Ghost",
     "weaponType": "Ghost",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Starlit Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4e362535-4f11-253e-c9ef-93a1e5f46f60/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4e362535-4f11-253e-c9ef-93a1e5f46f60/fullrender.png",
@@ -14454,7 +14454,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Starlit Odyssey Ghost - Select skin for Ghost",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -14566,7 +14566,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hush Ghost - Select skin for Ghost",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "cypher"
     ]
@@ -15060,7 +15060,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Eclipse Ghost - Select skin for Ghost",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "astra"
     ]
@@ -15494,7 +15494,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Vendetta Ghost - Select skin for Ghost",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "reyna"
     ]
@@ -15536,7 +15536,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Soul Silencer Ghost - Select skin for Ghost",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "omen"
     ]
@@ -15558,7 +15558,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wayfarer Sheriff - Select skin for Sheriff",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "harbor"
     ]
@@ -15580,7 +15580,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Mythmaker Sheriff - Select skin for Sheriff",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "iso"
     ]
@@ -15686,7 +15686,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Space Piercer Sheriff - Select skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -15760,7 +15760,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Composite Sheriff - Deluxe skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -15792,7 +15792,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Overlay Sheriff - Deluxe skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -16016,7 +16016,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Moon Scout Sheriff - Select skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -16174,7 +16174,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Protektor Sheriff - Select skin for Sheriff",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "sova"
     ]
@@ -16248,7 +16248,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "K/TAC Sheriff - Deluxe skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -16332,7 +16332,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Iridian Thorn Sheriff - Deluxe skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -16704,7 +16704,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Peacekeeper Sheriff - Select skin for Sheriff",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "brimstone"
     ]
@@ -16842,7 +16842,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Sandswept Sheriff - Deluxe skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -16958,7 +16958,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Game Over Sheriff - Select skin for Sheriff",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "jett"
     ]
@@ -17000,7 +17000,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Death Wish Sheriff - Select skin for Sheriff",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "yoru"
     ]
@@ -17054,7 +17054,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hard Bargain Shorty - Select skin for Shorty",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "tejo"
     ]
@@ -17076,7 +17076,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Sidekick Shorty - Select skin for Shorty",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "gekko"
     ]
@@ -17186,7 +17186,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Karabasan Shorty - Select skin for Shorty",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "fade"
     ]
@@ -17196,7 +17196,7 @@
     "name": "Rune Stone Shorty",
     "weaponType": "Shorty",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Rune Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9c81a88b-47d1-0813-1534-088e9e9678d6/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9c81a88b-47d1-0813-1534-088e9e9678d6/fullrender.png",
@@ -17208,7 +17208,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Rune Stone Shorty - Select skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -17228,7 +17228,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Doom Wing Shorty - Select skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -17330,7 +17330,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hivemind Shorty - Deluxe skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -17382,7 +17382,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Ruin Shorty - Deluxe skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -17456,7 +17456,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Guardrail Shorty - Deluxe skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -17516,7 +17516,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wunderkind Shorty - Select skin for Shorty",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "killjoy"
     ]
@@ -17572,7 +17572,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Genesis Shorty - Deluxe skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -17624,7 +17624,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Snakebite Shorty - Select skin for Shorty",
+    "description": "Agent Contract Reward",
     "hiddenTags": [
       "viper"
     ]
@@ -17634,7 +17634,7 @@
     "name": "Hue Shift Shorty",
     "weaponType": "Shorty",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Hue Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/73db26ce-42da-5971-7d83-8ba0fb998612/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/73db26ce-42da-5971-7d83-8ba0fb998612/fullrender.png",
@@ -17646,7 +17646,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hue Shift Shorty - Select skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -17710,7 +17710,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Transition Shorty - Deluxe skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -17762,7 +17762,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Tilde Shorty - Deluxe skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -18206,7 +18206,7 @@
     "name": "Red Alert Operator",
     "weaponType": "Operator",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Red Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b0b63cb6-449f-6249-9388-b0b993eb1cc2/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b0b63cb6-449f-6249-9388-b0b993eb1cc2/fullrender.png",
@@ -18218,7 +18218,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Red Alert Operator - Select skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -18554,7 +18554,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "K/TAC Operator - Deluxe skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -18638,7 +18638,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Iridian Thorn Operator - Deluxe skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -18816,7 +18816,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Genesis Operator - Deluxe skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -18972,7 +18972,7 @@
         "color": "#FFA500"
       }
     ],
-    "description": "Torque Operator - Deluxe skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -19132,7 +19132,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Tilde Operator - Deluxe skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -19312,7 +19312,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Space Piercer Guardian - Select skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -19534,7 +19534,7 @@
     "name": "Starlit Odyssey Guardian",
     "weaponType": "Guardian",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Starlit Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f239edb5-467a-d4f2-c78d-5f81ce8162c1/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f239edb5-467a-d4f2-c78d-5f81ce8162c1/fullrender.png",
@@ -19558,7 +19558,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Starlit Odyssey Guardian - Select skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -19660,7 +19660,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Songsteel Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -19680,7 +19680,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Moon Scout Guardian - Select skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -19722,7 +19722,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Ruin Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -19840,7 +19840,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Bubble Pop Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -19860,7 +19860,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Guardrail Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -20256,7 +20256,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Shellspire Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -20406,7 +20406,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Infinity Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -20744,7 +20744,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Overlay Outlaw - Deluxe skin for Outlaw",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -20796,7 +20796,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Moon Scout Outlaw - Select skin for Outlaw",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -21032,7 +21032,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Task Force 809 Marshal - Deluxe skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -21136,7 +21136,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Composite Marshal - Deluxe skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -21144,7 +21144,7 @@
     "name": "Rune Stone Marshal",
     "weaponType": "Marshal",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Rune Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/dfb8b619-49c8-745e-e6ba-62a9339daf86/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/dfb8b619-49c8-745e-e6ba-62a9339daf86/fullrender.png",
@@ -21156,7 +21156,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Rune Stone Marshal - Select skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -21208,7 +21208,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Doom Wing Marshal - Select skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -21258,7 +21258,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Songsteel Marshal - Deluxe skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -21330,7 +21330,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Interhelm Marshal - Deluxe skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -21352,7 +21352,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Ruin Marshal - Deluxe skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -21852,7 +21852,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Premiere Collision Marshal - Select skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -21996,7 +21996,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Sandswept Marshal - Deluxe skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -22078,7 +22078,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Task Force 809 Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -22378,7 +22378,7 @@
         "color": "#FFFF00"
       }
     ],
-    "description": "Comet Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -22406,7 +22406,7 @@
     "name": "Starlit Odyssey Spectre",
     "weaponType": "Spectre",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Starlit Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/57df5949-46ab-5458-2cbc-66b519a495ad/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/57df5949-46ab-5458-2cbc-66b519a495ad/fullrender.png",
@@ -22430,7 +22430,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Starlit Odyssey Spectre - Select skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -22542,7 +22542,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hivemind Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23162,7 +23162,7 @@
     "name": "Hue Shift Spectre",
     "weaponType": "Spectre",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Hue Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/66a8d891-4c73-c199-57ce-0090b25cc925/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/66a8d891-4c73-c199-57ce-0090b25cc925/fullrender.png",
@@ -23174,7 +23174,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hue Shift Spectre - Select skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23382,7 +23382,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Shellspire Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23414,7 +23414,7 @@
         "color": "#FFA500"
       }
     ],
-    "description": "Torque Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23542,7 +23542,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Infinity Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23666,7 +23666,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Sandswept Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23964,7 +23964,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Composite Stinger - Deluxe skin for Stinger",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -23996,7 +23996,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Overlay Stinger - Deluxe skin for Stinger",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -24024,7 +24024,7 @@
     "name": "Red Alert Stinger",
     "weaponType": "Stinger",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Red Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c4c8da8f-468b-f71b-c61e-779c2e256e92/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c4c8da8f-468b-f71b-c61e-779c2e256e92/fullrender.png",
@@ -24036,7 +24036,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Red Alert Stinger - Select skin for Stinger",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -24518,7 +24518,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Transition Stinger - Deluxe skin for Stinger",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -24800,7 +24800,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Task Force 809 Knife - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -25352,7 +25352,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Composite Knife - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -25458,7 +25458,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Overlay Dagger - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -25498,7 +25498,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Champions 2022 Butterfly Knife - Ultra skin for Melee",
+    "description": "Limited Time Only",
     "hiddenTags": []
   },
   {
@@ -25622,7 +25622,7 @@
         "color": "#FFFF00"
       }
     ],
-    "description": "Comet Sword - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26102,7 +26102,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Songsteel - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26174,7 +26174,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hivemind Sword - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26278,7 +26278,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Interhelm Sword - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -26300,7 +26300,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Ruin Dagger - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -26322,7 +26322,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": ".SYS Melee - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26458,7 +26458,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Hieroscape Blades - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "battlepass"
     ]
@@ -26588,7 +26588,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Bubble Pop Light Stick - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26628,7 +26628,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Guardrail Hammer - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26668,7 +26668,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Bound  - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26794,7 +26794,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "K/TAC Blade - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -26890,7 +26890,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Smite Hammer - Ultra skin for Melee",
+    "description": "Bundle Cost 3500",
     "hiddenTags": []
   },
   {
@@ -26958,7 +26958,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Iridian Thorn Blade - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -27022,7 +27022,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Arcane Gauntlets - Ultra skin for Melee",
+    "description": "Limited Time Only",
     "hiddenTags": []
   },
   {
@@ -27282,7 +27282,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Genesis Arc - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -27668,7 +27668,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Shellspire Sword - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -27700,7 +27700,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Transition Knife - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -27766,7 +27766,7 @@
         "color": "#FFA500"
       }
     ],
-    "description": "Torque Coiler - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28110,7 +28110,7 @@
         "color": "#00FF00"
       }
     ],
-    "description": "Tilde Knife - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28234,7 +28234,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Sandswept Dagger - Ultra skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28600,7 +28600,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartbreaker Odin - Select skin for Odin",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28632,7 +28632,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dolmir's Revenge Odin - Exclusive skin for Odin",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -28652,7 +28652,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dragon Gate Ares - Select skin for Ares",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28680,7 +28680,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Montage Ares - Deluxe skin for Ares",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28712,7 +28712,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Mystbloom Ares - Exclusive skin for Ares",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -28732,7 +28732,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "ORA by OneTap Vandal - Ultra skin for Vandal",
+    "description": "Bundle Cost 9900",
     "hiddenTags": []
   },
   {
@@ -28760,7 +28760,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Heartstopper Vandal - Deluxe skin for Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28780,7 +28780,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Superset Vandal - Select skin for Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28812,7 +28812,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dolmir's Revenge Vandal - Exclusive skin for Vandal",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -28844,7 +28844,7 @@
         "color": "#000000"
       }
     ],
-    "description": "Solarstride Vandal - Premium skin for Vandal",
+    "description": "Bundle Cost 5795",
     "hiddenTags": []
   },
   {
@@ -28864,7 +28864,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Champions 2025 Vandal - Exclusive skin for Vandal",
+    "description": "Bundle Cost 6640",
     "hiddenTags": []
   },
   {
@@ -28884,7 +28884,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "SilkLeaf Vandal - Deluxe skin for Vandal",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -28916,7 +28916,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Blackthorn Vandal - Exclusive skin for Vandal",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -28936,7 +28936,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Paceline Vandal - Deluxe skin for Vandal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -28968,7 +28968,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Mystbloom Vandal - Exclusive skin for Vandal",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -28988,7 +28988,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartbreaker Bulldog - Select skin for Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29020,7 +29020,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Prelude to Chaos Bulldog - Exclusive skin for Bulldog",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -29052,7 +29052,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Soulburst Bulldog - Select skin for Bulldog",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29072,7 +29072,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wasteland Bulldog - Deluxe skin for Bulldog",
+    "description": "Bundle Cost 5100",
     "hiddenTags": [
       "battlepass"
     ]
@@ -29106,7 +29106,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Prelude to Chaos Phantom - Exclusive skin for Phantom",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -29138,7 +29138,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Nanomight Phantom - Deluxe skin for Phantom",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -29158,7 +29158,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dragon Gate Phantom - Select skin for Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29178,7 +29178,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "ORA by OneTap Phantom - Ultra skin for Phantom",
+    "description": "Bundle Cost 9900",
     "hiddenTags": []
   },
   {
@@ -29198,7 +29198,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Jellybeam Phantom - Deluxe skin for Phantom",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -29226,7 +29226,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Montage Phantom - Deluxe skin for Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29246,7 +29246,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartseeker Phantom - Select skin for Phantom",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29266,7 +29266,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wasteland Phantom - Deluxe skin for Phantom",
+    "description": "Bundle Cost 5100",
     "hiddenTags": [
       "battlepass"
     ]
@@ -29300,7 +29300,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Ayakashi Phantom - Exclusive skin for Phantom",
+    "description": "Bundle Cost 7160",
     "hiddenTags": []
   },
   {
@@ -29320,7 +29320,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dragon Gate Judge - Select skin for Judge",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29340,7 +29340,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Jellybeam Judge - Deluxe skin for Judge",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -29360,7 +29360,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Stormborne Bucky - Select skin for Bucky",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29380,7 +29380,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wasteland Bucky - Deluxe skin for Bucky",
+    "description": "Bundle Cost 5100",
     "hiddenTags": [
       "battlepass"
     ]
@@ -29414,7 +29414,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Nanomight Frenzy - Deluxe skin for Frenzy",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -29442,7 +29442,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Montage Frenzy - Deluxe skin for Frenzy",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29462,7 +29462,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Paceline Frenzy - Deluxe skin for Frenzy",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29470,7 +29470,7 @@
     "name": "Headbanger Classic",
     "weaponType": "Classic",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Contract Reward",
     "collection": "Miks Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ae10ee3c-417d-0552-d4be-528bd11fad85/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ae10ee3c-417d-0552-d4be-528bd11fad85/fullrender.png",
@@ -29482,8 +29482,10 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Headbanger Classic - Select skin for Classic",
-    "hiddenTags": []
+    "description": "Agent Contract Reward",
+    "hiddenTags": [
+      "miks"
+    ]
   },
   {
     "id": "960fa9ae4f429601c722a797a90ec122",
@@ -29502,7 +29504,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Superset Classic - Select skin for Classic",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -29534,7 +29536,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dolmir's Revenge Classic - Exclusive skin for Classic",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -29566,7 +29568,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Blackthorn Classic - Exclusive skin for Classic",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -29586,7 +29588,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x 100T Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29607,7 +29609,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x AG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29628,7 +29630,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x BBL Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29649,7 +29651,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x BLG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29670,7 +29672,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x C9 Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29691,7 +29693,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x DFM Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29712,7 +29714,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x DRG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29733,7 +29735,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x DRX Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29754,7 +29756,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x EDG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29775,7 +29777,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x EG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29796,7 +29798,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x FNC Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29817,7 +29819,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x FPX Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29838,7 +29840,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x FS Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29859,7 +29861,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x FUR Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29880,7 +29882,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x FUT Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29901,7 +29903,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x G2 Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29922,7 +29924,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x GEN Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29943,7 +29945,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x GE Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29964,7 +29966,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x GX Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -29985,7 +29987,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x JDG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30006,7 +30008,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x KC Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30027,7 +30029,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x KRÜ Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30048,7 +30050,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x LEV Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30069,7 +30071,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x LOUD Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30090,7 +30092,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x M8 Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30111,7 +30113,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x MIBR Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30132,7 +30134,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x NAVI Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30153,7 +30155,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x NOVA Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30174,7 +30176,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x NRG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30195,7 +30197,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x NS Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30216,7 +30218,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x NV Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30237,7 +30239,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x PCF Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30258,7 +30260,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x PRX Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30279,7 +30281,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x RRQ Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30300,7 +30302,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x SEN Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30321,7 +30323,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x T1 Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30342,7 +30344,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x TE Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30363,7 +30365,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x TEC Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30384,7 +30386,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x TH Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30405,7 +30407,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x TL Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30426,7 +30428,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x TS Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30447,7 +30449,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x TYL Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30468,7 +30470,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x VIT Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30489,7 +30491,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x VL Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30510,7 +30512,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x WOL Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30531,7 +30533,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x XLG Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30552,7 +30554,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT26 x ZETA Classic - Exclusive skin for Classic",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -30585,7 +30587,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Soulburst Bandit - Select skin for Bandit",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30605,7 +30607,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "SilkLeaf Bandit - Deluxe skin for Bandit",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -30637,7 +30639,7 @@
         "color": "#FFFFFF"
       }
     ],
-    "description": "Reaver Bandit - Premium skin for Bandit",
+    "description": "Bundle Cost 7100",
     "hiddenTags": []
   },
   {
@@ -30665,7 +30667,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Heartstopper Ghost - Deluxe skin for Ghost",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30697,7 +30699,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Mystbloom Ghost - Exclusive skin for Ghost",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -30729,7 +30731,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Ayakashi Ghost - Exclusive skin for Ghost",
+    "description": "Bundle Cost 7160",
     "hiddenTags": []
   },
   {
@@ -30737,7 +30739,7 @@
     "name": "Enforcer Sheriff",
     "weaponType": "Sheriff",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Contract Reward",
     "collection": "Veto Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9a11bbff-4474-00a0-f833-868f5f2488b5/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9a11bbff-4474-00a0-f833-868f5f2488b5/fullrender.png",
@@ -30749,8 +30751,10 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Enforcer Sheriff - Select skin for Sheriff",
-    "hiddenTags": []
+    "description": "Agent Contract Reward",
+    "hiddenTags": [
+      "veto"
+    ]
   },
   {
     "id": "bc23caf44b9c89cf48fd6f9c6f743809",
@@ -30769,7 +30773,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartbreaker Sheriff - Select skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30801,7 +30805,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Prelude to Chaos Sheriff - Exclusive skin for Sheriff",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -30821,7 +30825,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "ORA by OneTap Sheriff - Ultra skin for Sheriff",
+    "description": "Bundle Cost 9900",
     "hiddenTags": []
   },
   {
@@ -30841,7 +30845,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Stormborne Sheriff - Select skin for Sheriff",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30861,7 +30865,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dragon Gate Shorty - Select skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30881,7 +30885,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Jellybeam Shorty - Deluxe skin for Shorty",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -30901,7 +30905,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartseeker Shorty - Select skin for Shorty",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30921,7 +30925,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartbreaker Operator - Select skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30941,7 +30945,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "ORA by OneTap Operator - Ultra skin for Operator",
+    "description": "Bundle Cost 9900",
     "hiddenTags": []
   },
   {
@@ -30961,7 +30965,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Stormborne Operator - Select skin for Operator",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -30993,7 +30997,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Nanomight Guardian - Deluxe skin for Guardian",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31025,7 +31029,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dolmir's Revenge Guardian - Exclusive skin for Guardian",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31057,7 +31061,7 @@
         "color": "#000000"
       }
     ],
-    "description": "Solarstride Guardian - Premium skin for Guardian",
+    "description": "Bundle Cost 5795",
     "hiddenTags": []
   },
   {
@@ -31089,7 +31093,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Blackthorn Guardian - Exclusive skin for Guardian",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31109,7 +31113,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Paceline Guardian - Deluxe skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31129,7 +31133,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartseeker Guardian - Select skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31149,7 +31153,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Stormborne Guardian - Select skin for Guardian",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31181,7 +31185,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Soulburst Outlaw - Select skin for Outlaw",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31213,7 +31217,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Mystbloom Outlaw - Exclusive skin for Outlaw",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31233,7 +31237,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartseeker Outlaw - Select skin for Outlaw",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31253,7 +31257,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wasteland Outlaw - Deluxe skin for Outlaw",
+    "description": "Bundle Cost 5100",
     "hiddenTags": [
       "battlepass"
     ]
@@ -31275,7 +31279,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Superset Marshal - Select skin for Marshal",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31295,7 +31299,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "SilkLeaf Marshal - Deluxe skin for Marshal",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31327,7 +31331,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Blackthorn Marshal - Exclusive skin for Marshal",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31359,7 +31363,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Prelude to Chaos Spectre - Exclusive skin for Spectre",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31379,7 +31383,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Jellybeam Spectre - Deluxe skin for Spectre",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31411,7 +31415,7 @@
         "color": "#FF0000"
       }
     ],
-    "description": "Soulburst Spectre - Select skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31439,7 +31443,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Montage Spectre - Deluxe skin for Spectre",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31471,7 +31475,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Nanomight Stinger - Deluxe skin for Stinger",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31491,7 +31495,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "SilkLeaf Stinger - Deluxe skin for Stinger",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31511,7 +31515,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Paceline Stinger - Deluxe skin for Stinger",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31531,7 +31535,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Heartseeker Stinger - Select skin for Stinger",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31563,7 +31567,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Blade of Chaos - Exclusive skin for Melee",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31595,7 +31599,7 @@
         "color": "#FFC0CB"
       }
     ],
-    "description": "Nanomight Knuckles - Exclusive skin for Melee",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31615,7 +31619,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "ORA by OneTap Knife - Exclusive skin for Melee",
+    "description": "Bundle Cost 9900",
     "hiddenTags": []
   },
   {
@@ -31643,7 +31647,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Heart Splitter - Exclusive skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31675,7 +31679,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Dolmir's Judgement - Exclusive skin for Melee",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31695,7 +31699,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Jellybeam Sugarslice - Exclusive skin for Melee",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31727,7 +31731,7 @@
         "color": "#000000"
       }
     ],
-    "description": "Solarstride Flamethrower - Exclusive skin for Melee",
+    "description": "Bundle Cost 5795",
     "hiddenTags": []
   },
   {
@@ -31747,7 +31751,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Champions 2025 Butterfly Knife - Exclusive skin for Melee",
+    "description": "Bundle Cost 6640",
     "hiddenTags": []
   },
   {
@@ -31775,7 +31779,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Montage Axe - Exclusive skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31795,7 +31799,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "SilkLeaf Fan - Exclusive skin for Melee",
+    "description": "Bundle Cost 5100",
     "hiddenTags": []
   },
   {
@@ -31827,7 +31831,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Blackthorn Blades - Exclusive skin for Melee",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31859,7 +31863,7 @@
         "color": "#FFFFFF"
       }
     ],
-    "description": "Reaver Butterfly Knife - Exclusive skin for Melee",
+    "description": "Bundle Cost 7100",
     "hiddenTags": []
   },
   {
@@ -31879,7 +31883,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Paceline's Edge - Exclusive skin for Melee",
+    "description": "Obtained in Battlepass",
     "hiddenTags": []
   },
   {
@@ -31911,7 +31915,7 @@
         "color": "#800080"
       }
     ],
-    "description": "Mystbloom Fanblade - Exclusive skin for Melee",
+    "description": "Bundle Cost 8700",
     "hiddenTags": []
   },
   {
@@ -31947,7 +31951,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "VCT 2026 Sigil - Exclusive skin for Melee",
+    "description": "VCT Team Capsule",
     "hiddenTags": [],
     "priceVerified": false
   },
@@ -31968,7 +31972,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Wasteland Crowbar - Exclusive skin for Melee",
+    "description": "Bundle Cost 5100",
     "hiddenTags": [
       "battlepass"
     ]
@@ -32002,7 +32006,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Kogitsune - Exclusive skin for Melee",
+    "description": "Bundle Cost 7160",
     "hiddenTags": []
   }
 ]

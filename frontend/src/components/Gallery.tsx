@@ -57,7 +57,7 @@ const Gallery: React.FC<GalleryProps> = ({ filters, onFilterChange }) => {
           case 'rifle':
             return ['vandal', 'phantom', 'guardian', 'bulldog'].includes(skinWeapon);
           case 'sidearm':
-            return ['sheriff', 'ghost', 'classic', 'frenzy', 'shorty'].includes(skinWeapon);
+            return ['sheriff', 'ghost', 'classic', 'frenzy', 'shorty', 'bandit'].includes(skinWeapon);
           case 'sniper':
             return ['operator', 'marshal', 'outlaw'].includes(skinWeapon);
           case 'smg':

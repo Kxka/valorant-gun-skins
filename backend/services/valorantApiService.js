@@ -69,46 +69,40 @@ class ValorantApiService {
   }
 
   isBattlepassSkin(skinName, collectionName) {
-    // Known battlepass collections from all episodes
-    const battlepassCollections = [
-      // Episode 1 (2020)
-      'Kingdom Collection',
-      'Luxe Collection', 
-      
-      // Episode 2-3 (2021)
-      'Artisan Collection',
-      'Wasteland Collection',
-      'Cavalier Collection',
-      'Tethered Collection', // Tethered Realms
-      'Gridcrash Collection',
-      'Convex Collection',
-      
-      // Episode 4-5 (2022)
-      'Ruin Collection',
-      'Nebula Collection',
-      
-      // Episode 6-8 (2023-2024) 
-      'Ruination Collection',
-      
-      // Season 2025
-      'Moon Collection', // Moon Scout
-      'Hieroscape Collection',
-      'Celestia Collection',
-      'Refractrix Collection',
-      'Doom Collection', // Doom Wing
-      'BYTESHIFT Collection',
-      'PERCH Collection',
-      'ATLAS Collection', // ATLAS // CMD
-      'SPACE Collection', // SPACE PIERCER
-      'Interhelm Collection',
-      'Haloform Collection',
-      'Belaflaire Collection'
+    // Complete battlepass collections list (from Valorant Fandom wiki)
+    // Select edition BP collections
+    const selectBP = [
+      '.EXE', '9 Lives', 'Aero', 'Aerosol', 'Aquatica', 'Belaflaire',
+      'Blush', 'Bulletbox', 'Bumble Brigade', 'Celestia', 'Cloudweaver',
+      'Coalition: Cobra', 'Convergence', 'Couture', 'Depths', 'Digihex',
+      'Divine Swine', 'Doom Wing', 'Dragon Gate', 'Fiber Optic', 'Freehand',
+      'Frequency', 'Goldwing', 'Gridcrash', 'Haloform', 'Heartbreaker',
+      'Heartseeker', 'Hue Shift', 'Hydrodip', 'Immortalized', 'Jigsaw',
+      'Libretto', 'Lightwave', 'Monarch', 'Monstrocity', 'Moon Scout',
+      'Moondash', 'Nanobreak', 'Nitro', 'Outpost', 'Panoramic', 'Perch',
+      'POLYfox', 'POLYfrog', 'Premiere Collision', 'Prism III', 'Red Alert',
+      'Refractrix', 'Retrowave', 'Rune Stone', 'Schema', 'Serenity',
+      'Shimmer', 'Signature', 'Silhouette', 'Soulburst', 'Space Piercer',
+      'Spellbound', 'Spitfire', 'Starlit Odyssey', 'Stormborne', 'Striker',
+      'Superset', 'Surge', 'Tactiplay', 'Tacti-Series', 'Tacti-Treat',
+      'Topotek', 'Varnish', 'Yoonseul'
     ];
-    
-    // Check if skin is from a battlepass collection
-    return battlepassCollections.some(bpCollection => 
-      collectionName.toLowerCase().includes(bpCollection.toLowerCase().replace(' collection', ''))
-    );
+    // Deluxe edition BP collections
+    const deluxeBP = [
+      '.SYS', 'ATLAS // CMD', 'Artisan', 'Bound', 'Bubble Pop', 'Byteshift',
+      'Cavalier', 'Comet', 'Composite', 'Genesis', 'Guardrail', 'Heartstopper',
+      'Hieroscape', 'Hivemind', 'Infinity', 'Interhelm', 'Iridian Thorn',
+      'K/TAC', 'Kingdom', 'Lore', "Lycan's Bane", 'Montage', 'Overlay',
+      'Paceline', 'Piedra del Sol', 'Ruin', 'Sandswept', 'Shellspire',
+      'Solarex', 'Songsteel', 'Torque', 'Task Force 809', 'Tilde',
+      'Transition', 'Velocity', 'Venturi'
+    ];
+
+    // Build full collection names for exact matching (avoids "Ruin" matching "Ruination")
+    const allBP = [...selectBP, ...deluxeBP].map(bp => `${bp} Collection`.toLowerCase());
+    const colLower = collectionName.toLowerCase();
+
+    return allBP.includes(colLower);
   }
 
   getAgentFromSkin(skinName) {
@@ -167,93 +161,56 @@ class ValorantApiService {
     
     // Special pricing exceptions for unique skins from PCGamesN website
     const specialPricing = {
-      // Confirmed special melee pricing exceptions
+      // Melee exceptions: Premium melees priced above 3,550
+      'Bolt Knife': 4350,
+      'Eternal Sovereign': 4350,
+      'Helix Daggers': 4350,
+      'Ion Karambit': 4350,
+      'Magepunk Sparkswitch': 4350,
+      'Reaver Karambit': 4350,
+      'Reaver Butterfly Knife': 5350,
+      'XERØFANG Knife': 4350,
+
+      // Melee exceptions: Deluxe melees priced above 2,550
+      'Minima Karambit': 3550,
+      'Luna\'s Descent': 3550,
+
+      // Melee exceptions: Select melees priced above 1,750
+      'Wonderstallion Hammer': 3550,
+
+      // Melee exceptions: Exclusive melees at 5,350 (default is 4,350)
       'Nocturnum Scythe': 5350,
-      'Onimaru Kunitsuna': 5350, // Oni 2.0 melee
+      'Onimaru Kunitsuna': 5350,
       'Cyrax Fanblade': 5350,
-      'EX.O Edge': 5350, 
+      'EX.O Edge': 5350,
       'Kuronami no Yaiba': 5350,
       'Phaseguard Splitter': 5350,
-      'Evori\'s Spellcaster': 4950, // Ultra but different price
-      'Powerfist': 5950, // Radiant Entertainment System
-      'Waveform': 5350, // Spectrum melee
-      
-      // Special gun pricing exceptions  
-      'Neptune Hook': 1775, // Premium melee at gun price
+      'Waveform': 5350,
+
+      // Melee exceptions: Ultra melees at 5,950 (default is 4,950)
+      'Power Fist': 5950,
+
+      // Exclusive guns at 2,375 (default is 2,175)
+      'EX.O Sheriff': 2375,
+      'EX.O Spectre': 2375,
+      'EX.O Vandal': 2375,
+      'EX.O Outlaw': 2375,
+      'Kuronami Sheriff': 2375,
+      'Kuronami Spectre': 2375,
+      'Kuronami Vandal': 2375,
+      'Kuronami Marshal': 2375,
+
+      // Exclusive guns at 2,675 (default is 2,175)
       'Spectrum Bulldog': 2675,
       'Spectrum Classic': 2675,
       'Spectrum Guardian': 2675,
       'Spectrum Phantom': 2675,
-      
-      // Radiant Entertainment System (different tier entirely)
+
+      // Ultra guns at 2,975 (default is 2,475)
       'Radiant Entertainment System Bulldog': 2975,
       'Radiant Entertainment System Ghost': 2975,
       'Radiant Entertainment System Operator': 2975,
       'Radiant Entertainment System Phantom': 2975,
-      
-      // Champions bundles
-      'Champions Karambit': 6000,
-      'Valorant Champions 2021 Vandal': 2475, // Estimate
-      'Valorant Champions 2022 Phantom': 2475, // Estimate
-      
-      // SplashX exceptions
-      'SplashX Operator': 2375,
-      'SplashX Vandal': 2375,
-      
-      // Singularity exceptions
-      'Singularity Ares': 2675,
-      'Singularity Phantom': 2675,
-      'Singularity Sheriff': 2675,
-      'Singularity Spectre': 2675,
-      
-      // Glitchpop exceptions  
-      'Glitchpop Bulldog': 2175,
-      'Glitchpop Classic': 2175,
-      'Glitchpop Judge': 2175,
-      'Glitchpop Odin': 2175,
-      'Glitchpop Vandal': 2175,
-      
-      // Elderflame exceptions
-      'Elderflame Frenzy': 2475,
-      'Elderflame Judge': 2475,
-      'Elderflame Operator': 2475,
-      'Elderflame Vandal': 2475,
-      
-      // Ion exceptions
-      'Ion Bucky': 1775,
-      'Ion Energy Sword': 3550,
-      'Ion Phantom': 1775,
-      'Ion Sheriff': 1775,
-      
-      // Prime exceptions
-      'Prime 2.0 Bucky': 1775,
-      'Prime 2.0 Odin': 1775,
-      'Prime 2.0 Phantom': 1775,
-      'Prime Axe': 3550,
-      'Prime Classic': 1775,
-      'Prime Guardian': 1775,
-      'Prime Spectre': 1775,
-      'Prime Vandal': 1775,
-      
-      // Reaver exceptions
-      'Reaver Guardian': 1775,
-      'Reaver Operator': 1775,
-      'Reaver Sheriff': 1775,
-      'Reaver Vandal': 1775,
-      'Reaver Karambit': 4350,
-      
-      // Sovereign exceptions
-      'Sovereign Ghost': 1775,
-      'Sovereign Guardian': 1775,
-      'Sovereign Marshal': 1775,
-      'Sovereign Stinger': 1775,
-      'Sovereign Sword': 3550,
-      
-      // Sentinels of Light exceptions
-      'Sentinels of Light Ares': 1775,
-      'Sentinels of Light Operator': 1775,
-      'Sentinels of Light Sheriff': 1775,
-      'Sentinels of Light Vandal': 1775,
     };
     
     // Check for special pricing first

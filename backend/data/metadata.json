@@ -1,7 +1,7 @@
 {
-  "lastSync": "2025-10-17T19:13:23.125Z",
+  "lastSync": "2026-04-14T01:57:51.197Z",
   "version": "1.0.0",
-  "totalSkins": 1182,
-  "syncSource": "manual-update",
-  "notes": "Updated all Agent Contract Collection descriptions to 'Unlocked through agent tiers'"
+  "totalSkins": 1301,
+  "syncSource": "valorant-api.com + wiki scrape",
+  "notes": "Auto-sync added 142 new skins"
 }

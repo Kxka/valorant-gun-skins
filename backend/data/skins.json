@@ -1330,7 +1330,7 @@
     "name": "Celestial Ares",
     "weaponType": "Ares",
     "rarity": "Premium",
-    "cost": 1775,
+    "cost": "Battlepass",
     "collection": "Celestial Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/be74e099-4391-a1f6-9296-f2a15eae3725/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/be74e099-4391-a1f6-9296-f2a15eae3725/fullrender.png",
@@ -1604,7 +1604,7 @@
     "name": "Premiere Collision Ares",
     "weaponType": "Ares",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Premiere Collision Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/94a90423-43d7-16c5-9017-2fbe89d1b602/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/94a90423-43d7-16c5-9017-2fbe89d1b602/fullrender.png",
@@ -2404,7 +2404,7 @@
     "name": "Singularity Vandal",
     "weaponType": "Vandal",
     "rarity": "Exclusive",
-    "cost": 2475,
+    "cost": 2175,
     "collection": "Singularity Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ddad90bf-4333-5f7a-4c33-8b8185d03922/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ddad90bf-4333-5f7a-4c33-8b8185d03922/fullrender.png",
@@ -3624,7 +3624,7 @@
     "name": "Tethered Realms Vandal",
     "weaponType": "Vandal",
     "rarity": "Premium",
-    "cost": "Battlepass",
+    "cost": 1775,
     "collection": "Tethered Realms Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/bd02d15d-4b40-d70b-5877-caad6e786f84/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/bd02d15d-4b40-d70b-5877-caad6e786f84/fullrender.png",
@@ -3900,7 +3900,7 @@
     "name": "Wasteland Vandal",
     "weaponType": "Vandal",
     "rarity": "Deluxe",
-    "cost": "Battlepass",
+    "cost": 1275,
     "collection": "Wasteland Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/849b5754-47c2-38f2-f912-a796b0644307/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/849b5754-47c2-38f2-f912-a796b0644307/fullrender.png",
@@ -3922,7 +3922,7 @@
     "name": "SplashX Vandal",
     "weaponType": "Vandal",
     "rarity": "Exclusive",
-    "cost": 2375,
+    "cost": 2175,
     "collection": "SplashX Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/fb9b07eb-4591-d22c-a611-bb821664fbf6/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/fb9b07eb-4591-d22c-a611-bb821664fbf6/fullrender.png",
@@ -5026,7 +5026,7 @@
     "name": "Premiere Collision Bulldog",
     "weaponType": "Bulldog",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Premiere Collision Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/69906458-4876-9061-0980-20a0dc06a52e/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/69906458-4876-9061-0980-20a0dc06a52e/fullrender.png",
@@ -6676,7 +6676,7 @@
     "name": "Celestial Phantom",
     "weaponType": "Phantom",
     "rarity": "Premium",
-    "cost": 1775,
+    "cost": "Battlepass",
     "collection": "Celestial Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f78791cf-4084-55c2-9205-9aa2533284a8/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f78791cf-4084-55c2-9205-9aa2533284a8/fullrender.png",
@@ -8356,7 +8356,7 @@
     "name": "Celestial Judge",
     "weaponType": "Judge",
     "rarity": "Premium",
-    "cost": 1775,
+    "cost": "Battlepass",
     "collection": "Celestial Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c8d3c3a4-49eb-6ee4-50cf-c1bf6cfd2a12/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c8d3c3a4-49eb-6ee4-50cf-c1bf6cfd2a12/fullrender.png",
@@ -9784,7 +9784,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Kaleidoscope Frenzy - Select skin for Frenzy",
     "hiddenTags": [
       "waylay"
     ]
@@ -9890,7 +9890,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "RagnaRocker Frenzy - Select skin for Frenzy",
     "hiddenTags": [
       "breach"
     ]
@@ -10128,7 +10128,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Swooping Frenzy - Select skin for Frenzy",
     "hiddenTags": [
       "skye"
     ]
@@ -10340,7 +10340,7 @@
     "name": "Celestial Frenzy",
     "weaponType": "Frenzy",
     "rarity": "Premium",
-    "cost": 1775,
+    "cost": "Battlepass",
     "collection": "Celestial Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b738edd8-4f28-348b-3066-29b184f7032f/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b738edd8-4f28-348b-3066-29b184f7032f/fullrender.png",
@@ -10532,7 +10532,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Obtained in Battlepass",
     "hiddenTags": [
       "phoenix"
     ]
@@ -10770,7 +10770,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Live Wire Frenzy - Select skin for Frenzy",
     "hiddenTags": [
       "neon"
     ]
@@ -10930,7 +10930,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Resolution Classic - Select skin for Classic",
     "hiddenTags": [
       "deadlock"
     ]
@@ -10952,7 +10952,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Steel Resolve Classic - Select skin for Classic",
     "hiddenTags": [
       "vyse"
     ]
@@ -11188,7 +11188,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Pistolinha Classic - Select skin for Classic",
     "hiddenTags": [
       "raze"
     ]
@@ -11366,7 +11366,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Finesse Classic - Select skin for Classic",
     "hiddenTags": [
       "chamber"
     ]
@@ -11530,7 +11530,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "FIRE/arm Classic - Select skin for Classic",
     "hiddenTags": [
       "kay/o"
     ]
@@ -11958,7 +11958,7 @@
     "name": "Premiere Collision Classic",
     "weaponType": "Classic",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Premiere Collision Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/23da120e-408d-2234-4cac-58bcf1557752/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/23da120e-408d-2234-4cac-58bcf1557752/fullrender.png",
@@ -12188,7 +12188,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Final Chamber Classic - Select skin for Classic",
     "hiddenTags": [
       "sage"
     ]
@@ -14070,7 +14070,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Flutter Ghost - Select skin for Ghost",
     "hiddenTags": [
       "clove"
     ]
@@ -14462,7 +14462,7 @@
     "name": "Singularity Ghost",
     "weaponType": "Ghost",
     "rarity": "Exclusive",
-    "cost": 2475,
+    "cost": 2175,
     "collection": "Singularity Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1012742f-4828-4f3a-340b-79ac4cc2ef5e/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1012742f-4828-4f3a-340b-79ac4cc2ef5e/fullrender.png",
@@ -14566,7 +14566,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Hush Ghost - Select skin for Ghost",
     "hiddenTags": [
       "cypher"
     ]
@@ -15060,7 +15060,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Eclipse Ghost - Select skin for Ghost",
     "hiddenTags": [
       "astra"
     ]
@@ -15176,7 +15176,7 @@
     "name": "Tethered Realms Ghost",
     "weaponType": "Ghost",
     "rarity": "Premium",
-    "cost": "Battlepass",
+    "cost": 1775,
     "collection": "Tethered Realms Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/702acc78-4bfe-805c-d4fb-5ba8815e8029/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/702acc78-4bfe-805c-d4fb-5ba8815e8029/fullrender.png",
@@ -15494,7 +15494,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Vendetta Ghost - Select skin for Ghost",
     "hiddenTags": [
       "reyna"
     ]
@@ -15536,7 +15536,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Soul Silencer Ghost - Select skin for Ghost",
     "hiddenTags": [
       "omen"
     ]
@@ -15558,7 +15558,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Wayfarer Sheriff - Select skin for Sheriff",
     "hiddenTags": [
       "harbor"
     ]
@@ -15580,7 +15580,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Mythmaker Sheriff - Select skin for Sheriff",
     "hiddenTags": [
       "iso"
     ]
@@ -16174,7 +16174,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Protektor Sheriff - Select skin for Sheriff",
     "hiddenTags": [
       "sova"
     ]
@@ -16704,7 +16704,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Peacekeeper Sheriff - Select skin for Sheriff",
     "hiddenTags": [
       "brimstone"
     ]
@@ -16924,7 +16924,7 @@
     "name": "Wasteland Sheriff",
     "weaponType": "Sheriff",
     "rarity": "Deluxe",
-    "cost": "Battlepass",
+    "cost": 1275,
     "collection": "Wasteland Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e75d09b4-4c8b-d9bf-f190-f9a844f3c474/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e75d09b4-4c8b-d9bf-f190-f9a844f3c474/fullrender.png",
@@ -16958,7 +16958,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Game Over Sheriff - Select skin for Sheriff",
     "hiddenTags": [
       "jett"
     ]
@@ -17000,7 +17000,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Death Wish Sheriff - Select skin for Sheriff",
     "hiddenTags": [
       "yoru"
     ]
@@ -17054,7 +17054,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Hard Bargain Shorty - Select skin for Shorty",
     "hiddenTags": [
       "tejo"
     ]
@@ -17076,7 +17076,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Sidekick Shorty - Select skin for Shorty",
     "hiddenTags": [
       "gekko"
     ]
@@ -17186,7 +17186,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Karabasan Shorty - Select skin for Shorty",
     "hiddenTags": [
       "fade"
     ]
@@ -17516,7 +17516,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Wunderkind Shorty - Select skin for Shorty",
     "hiddenTags": [
       "killjoy"
     ]
@@ -17624,7 +17624,7 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Unlocked through agent tiers",
+    "description": "Snakebite Shorty - Select skin for Shorty",
     "hiddenTags": [
       "viper"
     ]
@@ -17830,7 +17830,7 @@
     "name": "Wasteland Shorty",
     "weaponType": "Shorty",
     "rarity": "Deluxe",
-    "cost": "Battlepass",
+    "cost": 1275,
     "collection": "Wasteland Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/701655f9-43d8-1c72-f567-acac565fd353/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/701655f9-43d8-1c72-f567-acac565fd353/fullrender.png",
@@ -19012,7 +19012,7 @@
     "name": "Tethered Realms Operator",
     "weaponType": "Operator",
     "rarity": "Premium",
-    "cost": "Battlepass",
+    "cost": 1775,
     "collection": "Tethered Realms Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0b57244b-432b-daa8-f71c-09b200b7740e/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0b57244b-432b-daa8-f71c-09b200b7740e/fullrender.png",
@@ -19204,7 +19204,7 @@
     "name": "SplashX Operator",
     "weaponType": "Operator",
     "rarity": "Exclusive",
-    "cost": 2375,
+    "cost": 2175,
     "collection": "SplashX Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5afc7d90-4d07-9da8-7350-6b91bfcf754e/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5afc7d90-4d07-9da8-7350-6b91bfcf754e/fullrender.png",
@@ -20296,7 +20296,7 @@
     "name": "Tethered Realms Guardian",
     "weaponType": "Guardian",
     "rarity": "Premium",
-    "cost": "Battlepass",
+    "cost": 1775,
     "collection": "Tethered Realms Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/549b4ed5-493f-23a2-4350-b095dfdd0deb/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/549b4ed5-493f-23a2-4350-b095dfdd0deb/fullrender.png",
@@ -21840,7 +21840,7 @@
     "name": "Premiere Collision Marshal",
     "weaponType": "Marshal",
     "rarity": "Select",
-    "cost": 875,
+    "cost": "Battlepass",
     "collection": "Premiere Collision Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/229e680e-4b55-94b7-8a07-618468647fa3/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/229e680e-4b55-94b7-8a07-618468647fa3/fullrender.png",
@@ -22004,7 +22004,7 @@
     "name": "Wasteland Marshal",
     "weaponType": "Marshal",
     "rarity": "Deluxe",
-    "cost": "Battlepass",
+    "cost": 1275,
     "collection": "Wasteland Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6e4dceba-441b-2fc5-5992-80ab4d779922/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6e4dceba-441b-2fc5-5992-80ab4d779922/fullrender.png",
@@ -23780,7 +23780,7 @@
     "name": "Wasteland Spectre",
     "weaponType": "Spectre",
     "rarity": "Deluxe",
-    "cost": "Battlepass",
+    "cost": 1275,
     "collection": "Wasteland Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/967fc785-4b8e-0e3c-6232-07b20c01dc81/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/967fc785-4b8e-0e3c-6232-07b20c01dc81/fullrender.png",
@@ -24788,7 +24788,7 @@
     "name": "Task Force 809 Knife",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Task Force 809 Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5d5b1d55-4047-a5c6-b1d2-23a940d55fb0/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5d5b1d55-4047-a5c6-b1d2-23a940d55fb0/fullrender.png",
@@ -25340,7 +25340,7 @@
     "name": "Composite Knife",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Composite Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/66d057a7-4681-bd8b-ecbc-258573e6fd0a/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/66d057a7-4681-bd8b-ecbc-258573e6fd0a/fullrender.png",
@@ -25434,7 +25434,7 @@
     "name": "Overlay Dagger",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Overlay Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3695e607-48f8-2ab3-8e83-b6b047a45748/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3695e607-48f8-2ab3-8e83-b6b047a45748/fullrender.png",
@@ -25598,7 +25598,7 @@
     "name": "Comet Sword",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Comet Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2f95a542-4558-8480-3df2-7bb0ae98cdab/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2f95a542-4558-8480-3df2-7bb0ae98cdab/fullrender.png",
@@ -26090,7 +26090,7 @@
     "name": "Songsteel",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Songsteel Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/db9cbc78-43a8-cc55-22c0-f9abd8f48c9e/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/db9cbc78-43a8-cc55-22c0-f9abd8f48c9e/fullrender.png",
@@ -26162,7 +26162,7 @@
     "name": "Hivemind Sword",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Hivemind Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e276db7c-4cab-3215-2b83-c483b8b9139d/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e276db7c-4cab-3215-2b83-c483b8b9139d/fullrender.png",
@@ -26310,7 +26310,7 @@
     "name": ".SYS Melee",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": ".SYS Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7cf68fce-474d-cd59-5729-17a45fd83764/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7cf68fce-474d-cd59-5729-17a45fd83764/fullrender.png",
@@ -26572,7 +26572,7 @@
     "name": "Bubble Pop Light Stick",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Bubble Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f464a9ce-4438-ea4c-a377-e9b50f9e36c4/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f464a9ce-4438-ea4c-a377-e9b50f9e36c4/fullrender.png",
@@ -26616,7 +26616,7 @@
     "name": "Guardrail Hammer",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Guardrail Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/da1b864e-48f9-bb1e-0cce-24b047713af5/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/da1b864e-48f9-bb1e-0cce-24b047713af5/fullrender.png",
@@ -26656,7 +26656,7 @@
     "name": "Bound ",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Bound Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/beb877d1-4878-c887-2bfc-63bb9997d7eb/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/beb877d1-4878-c887-2bfc-63bb9997d7eb/fullrender.png",
@@ -26728,7 +26728,7 @@
     "name": "Broken Blade of the Ruined King",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": 4350,
     "collection": "Ruination Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/28dd8ae8-4c0f-77c6-275d-e2bb310e95eb/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/28dd8ae8-4c0f-77c6-275d-e2bb310e95eb/fullrender.png",
@@ -26782,7 +26782,7 @@
     "name": "K/TAC Blade",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "K/TAC Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2265cbe1-4b96-9f34-68ed-09900e0eaba9/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2265cbe1-4b96-9f34-68ed-09900e0eaba9/fullrender.png",
@@ -26946,7 +26946,7 @@
     "name": "Iridian Thorn Blade",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Iridian Thorn Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/236deb7d-4aea-5aae-4730-dca65f88e4b3/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/236deb7d-4aea-5aae-4730-dca65f88e4b3/fullrender.png",
@@ -26966,7 +26966,7 @@
     "name": "Celestial Fan",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 3550,
+    "cost": "Battlepass",
     "collection": "Celestial Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/beaac174-44a6-0ee8-4607-939405782cae/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/beaac174-44a6-0ee8-4607-939405782cae/fullrender.png",
@@ -27270,7 +27270,7 @@
     "name": "Genesis Arc",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Genesis Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/550d4b9c-4fe9-0f15-d4e9-3f9466685596/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/550d4b9c-4fe9-0f15-d4e9-3f9466685596/fullrender.png",
@@ -27656,7 +27656,7 @@
     "name": "Shellspire Sword",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Shellspire Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/51e4a1c9-469b-61f4-6111-c09e1e918d23/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/51e4a1c9-469b-61f4-6111-c09e1e918d23/fullrender.png",
@@ -27676,7 +27676,7 @@
     "name": "Transition Knife",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Transition Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/450082a2-4dce-7b5e-c19a-adbe61ff60b2/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/450082a2-4dce-7b5e-c19a-adbe61ff60b2/fullrender.png",
@@ -27742,7 +27742,7 @@
     "name": "Torque Coiler",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Torque Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3582d12e-4f66-69a5-fc4a-d2a76ecadce6/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3582d12e-4f66-69a5-fc4a-d2a76ecadce6/fullrender.png",
@@ -28086,7 +28086,7 @@
     "name": "Tilde Knife",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Tilde Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/05dce4fd-4b4d-1fe5-4226-27bff185488c/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/05dce4fd-4b4d-1fe5-4226-27bff185488c/fullrender.png",
@@ -28210,7 +28210,7 @@
     "name": "Sandswept Dagger",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": "Battlepass",
     "collection": "Sandswept Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a4777026-40ac-ff15-c43b-2c9c65ba5e46/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a4777026-40ac-ff15-c43b-2c9c65ba5e46/fullrender.png",
@@ -28450,7 +28450,7 @@
     "name": "SplashX Gloves",
     "weaponType": "Melee",
     "rarity": "Exclusive",
-    "cost": 4950,
+    "cost": 4350,
     "collection": "SplashX Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5a81f28d-4221-3aaa-f230-8f9cbc2fc3e4/fullrender.png",
     "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5a81f28d-4221-3aaa-f230-8f9cbc2fc3e4/fullrender.png",
@@ -28584,106 +28584,30 @@
     "hiddenTags": []
   },
   {
-    "id": "f69f409188276587e19c07032df890a9",
-    "name": "Dolmir's Revenge Classic",
-    "weaponType": "Classic",
-    "rarity": "Premium",
-    "cost": 2175,
-    "collection": "Dolmir's Revenge Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ff89d8db-408f-0ba8-152e-17b42d55f469/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ff89d8db-408f-0ba8-152e-17b42d55f469/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
+    "id": "d6586a384bf41c3522c9029aee5942bb",
+    "name": "Heartbreaker Odin",
+    "weaponType": "Odin",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartbreaker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4ea11932-4b53-3a08-d5f8-a7980ed05ed5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4ea11932-4b53-3a08-d5f8-a7980ed05ed5/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
     "colorVariants": [
       {
-        "name": "Dolmir's Revenge Classic",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Classic Level 4\n(Variant 1 Obsidian)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Classic Level 4\n(Variant 2 Moss)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Classic Level 4\n(Variant 3 Ice)",
+        "name": "Heartbreaker Odin",
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 8700",
+    "description": "Heartbreaker Odin - Select skin for Odin",
     "hiddenTags": []
   },
   {
-    "id": "147a651f73b02ea614b4149c8c1d4861",
-    "name": "Dolmir's Revenge Guardian",
-    "weaponType": "Guardian",
-    "rarity": "Premium",
-    "cost": 2175,
-    "collection": "Dolmir's Revenge Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/46c6b89b-4f4a-a70e-7793-88b8072f4d82/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/46c6b89b-4f4a-a70e-7793-88b8072f4d82/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "Dolmir's Revenge Guardian",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Guardian Level 4\n(Variant 1 Obsidian)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Guardian Level 4\n(Variant 2 Moss)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Guardian Level 4\n(Variant 3 Ice)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 8700",
-    "hiddenTags": []
-  },
-  {
-    "id": "a75bbbed6fd02b79de225b9825c014cc",
-    "name": "Dolmir's Revenge Vandal",
-    "weaponType": "Vandal",
-    "rarity": "Premium",
-    "cost": 2175,
-    "collection": "Dolmir's Revenge Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f3a01eb6-405b-70de-4f5e-5eb2ced246a9/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f3a01eb6-405b-70de-4f5e-5eb2ced246a9/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "Dolmir's Revenge Vandal",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Vandal Level 4\n(Variant 1 Obsidian)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Vandal Level 4\n(Variant 2 Moss)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Revenge Vandal Level 4\n(Variant 3 Ice)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 8700",
-    "hiddenTags": []
-  },
-  {
-    "id": "d8b537b444066c026b196bf57eff9b1c",
+    "id": "79ffb1d7405d1b966071e7a804555cd7",
     "name": "Dolmir's Revenge Odin",
     "weaponType": "Odin",
-    "rarity": "Premium",
+    "rarity": "Exclusive",
     "cost": 2175,
     "collection": "Dolmir's Revenge Collection",
     "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/38ed4817-4d86-09e8-8865-1e9c4edc40f2/fullrender.png",
@@ -28708,851 +28632,55 @@
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 8700",
+    "description": "Dolmir's Revenge Odin - Exclusive skin for Odin",
     "hiddenTags": []
   },
   {
-    "id": "f6ebfc1b5466b37d78dd707116d4dcce",
-    "name": "Dolmir's Judgement",
-    "weaponType": "Melee",
-    "rarity": "Premium",
-    "cost": 4350,
-    "collection": "Dolmir's Revenge Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/83272460-40e1-a592-2c4b-dcb5509e9ccc/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/83272460-40e1-a592-2c4b-dcb5509e9ccc/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
+    "id": "5bbf3175411faf59c8ee4395a61b3858",
+    "name": "Dragon Gate Ares",
+    "weaponType": "Ares",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Dragon Gate Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/76d4cfc8-4830-9ce5-9632-a3bb86557ad7/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/76d4cfc8-4830-9ce5-9632-a3bb86557ad7/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
     "colorVariants": [
       {
-        "name": "Dolmir's Judgement",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Judgement Level 2\n(Variant 1 Obsidian)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Judgement Level 2\n(Variant 2 Moss)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Dolmir's Judgement Level 2\n(Variant 3 Ice)",
+        "name": "Dragon Gate Ares",
         "color": "#ffffff"
       }
     ],
-    "description": "Bundle Cost 8700",
+    "description": "Dragon Gate Ares - Select skin for Ares",
     "hiddenTags": []
   },
   {
-    "id": "ba1fab5e4af1958c7de9b7d518feb37a",
-    "name": "Heartstopper Vandal",
-    "weaponType": "Vandal",
+    "id": "de06622c4bf3d9af219111bf1c55ca54",
+    "name": "Montage Ares",
+    "weaponType": "Ares",
     "rarity": "Deluxe",
     "cost": "Battlepass",
-    "collection": "Heartstopper Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/37ca89ef-4c8f-e7fc-d4f4-c69686d7760a/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/37ca89ef-4c8f-e7fc-d4f4-c69686d7760a/fullrender.png",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3d54e034-4d0b-948e-17dc-998d96960bcc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3d54e034-4d0b-948e-17dc-998d96960bcc/fullrender.png",
     "hasColorVariants": true,
     "hasAnimations": false,
     "colorVariants": [
       {
-        "name": "Heartstopper Vandal",
+        "name": "Montage Ares",
         "color": "#ffffff"
       },
       {
-        "name": "Heartstopper Vandal\n(Variant 1 Black)",
-        "color": "#ffffff"
+        "name": "Montage Ares\r\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
       },
       {
-        "name": "Heartstopper Vandal\n(Variant 2 Blue)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "7789d355bc8cd3cdd9a7acae22e2d85f",
-    "name": "Heartstopper Ghost",
-    "weaponType": "Ghost",
-    "rarity": "Deluxe",
-    "cost": "Battlepass",
-    "collection": "Heartstopper Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/02f03f97-41c4-8bf0-fe97-95afb2366efb/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/02f03f97-41c4-8bf0-fe97-95afb2366efb/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartstopper Ghost",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Heartstopper Ghost\n(Variant 1 Black)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Heartstopper Ghost\n(Variant 2 Blue)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "4d7e31713d6b19919e4080b956ec3019",
-    "name": "Heart Splitter",
-    "weaponType": "Melee",
-    "rarity": "Deluxe",
-    "cost": "Battlepass",
-    "collection": "Heartstopper Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/86400850-423e-518e-aa58-798b7edbf1d5/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/86400850-423e-518e-aa58-798b7edbf1d5/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heart Splitter",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Heart Splitter\n(Variant 1 Black)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Heart Splitter\n(Variant 2 Blue)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "74d2322e87e49b3682942bb04667735e",
-    "name": "Heartbreaker Bulldog",
-    "weaponType": "Bulldog",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartbreaker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8c745262-41fb-c85f-44ac-0e9d924569e4/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8c745262-41fb-c85f-44ac-0e9d924569e4/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartbreaker Bulldog",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "199be4fe92ac18ee93f169bee6bb03df",
-    "name": "Heartbreaker Odin",
-    "weaponType": "Odin",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartbreaker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4ea11932-4b53-3a08-d5f8-a7980ed05ed5/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4ea11932-4b53-3a08-d5f8-a7980ed05ed5/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartbreaker Odin",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "d9148f3d5f7cac938138eee983f538b7",
-    "name": "Heartbreaker Sheriff",
-    "weaponType": "Sheriff",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartbreaker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ae11734d-45d7-3278-3661-0ab5e924a5ef/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ae11734d-45d7-3278-3661-0ab5e924a5ef/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartbreaker Sheriff",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "de816e183a8acceb86278c395b667a00",
-    "name": "Heartbreaker Operator",
-    "weaponType": "Operator",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartbreaker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0f3f5018-4081-4b9e-795f-3494e91f49e9/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0f3f5018-4081-4b9e-795f-3494e91f49e9/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartbreaker Operator",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "5e27d1d03db8b1c6e6f3cd091011e8bd",
-    "name": "Heartseeker Shorty",
-    "weaponType": "Shorty",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartseeker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9b5d06ff-4d88-2a95-afce-96a228cbb8bf/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9b5d06ff-4d88-2a95-afce-96a228cbb8bf/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartseeker Shorty",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "dc3d0364a033ab9bc7c125d726499395",
-    "name": "Heartseeker Stinger",
-    "weaponType": "Stinger",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartseeker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/754037f3-45e0-507a-46c1-32ae613a26f0/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/754037f3-45e0-507a-46c1-32ae613a26f0/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartseeker Stinger",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "f6eddf0132daa48fd7398536801e28a9",
-    "name": "Heartseeker Outlaw",
-    "weaponType": "Outlaw",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartseeker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1785c300-46d0-47bc-d035-54ada5bd292b/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1785c300-46d0-47bc-d035-54ada5bd292b/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartseeker Outlaw",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "c9794ce2d0d5f1bf8f8d7eac010ee6b6",
-    "name": "Heartseeker Guardian",
-    "weaponType": "Guardian",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartseeker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9ce7845f-4c4c-d1e4-8baf-e9a7e7de20ca/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9ce7845f-4c4c-d1e4-8baf-e9a7e7de20ca/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartseeker Guardian",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "bd0d94365f1f4b2cc47ca182c84c222f",
-    "name": "Heartseeker Phantom",
-    "weaponType": "Phantom",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Heartseeker Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/20582491-464e-9213-8fec-f685dd7b1e36/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/20582491-464e-9213-8fec-f685dd7b1e36/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Heartseeker Phantom",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": []
-  },
-  {
-    "id": "b1031cda9bca9a1fd505658a237b5dcc",
-    "name": "Wasteland Bucky",
-    "weaponType": "Bucky",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Wasteland Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/caa2cec8-4f09-5a38-bc86-f09d3786bfc4/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/caa2cec8-4f09-5a38-bc86-f09d3786bfc4/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Wasteland Bucky",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "b94bd35beacf9830167b90351ffbd2e9",
-    "name": "Wasteland Bulldog",
-    "weaponType": "Bulldog",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Wasteland Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/fd1427ec-416d-8256-8ce2-ccaaa817e4a4/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/fd1427ec-416d-8256-8ce2-ccaaa817e4a4/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Wasteland Bulldog",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "4804fa2d1fdb967c1859d434d7b91743",
-    "name": "Wasteland Phantom",
-    "weaponType": "Phantom",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Wasteland Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4547da25-4c9f-13fd-9b8d-0cb416413b57/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4547da25-4c9f-13fd-9b8d-0cb416413b57/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Wasteland Phantom",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "2c2735a98f157f46167268fd085907d6",
-    "name": "Wasteland Outlaw",
-    "weaponType": "Outlaw",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Wasteland Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/12120d07-41f2-d2c4-f476-82a5687f1e62/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/12120d07-41f2-d2c4-f476-82a5687f1e62/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Wasteland Outlaw",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "984249fb328fdb9d83dea943a2fb7280",
-    "name": "Wasteland Crowbar",
-    "weaponType": "Melee",
-    "rarity": "Deluxe",
-    "cost": 2550,
-    "collection": "Wasteland Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4da3193d-4884-7a53-aa04-14878acd4546/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4da3193d-4884-7a53-aa04-14878acd4546/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Wasteland Crowbar",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "0e77510b44149dc5935f9c53a5f48ccf",
-    "name": "Enforcer Sheriff",
-    "weaponType": "Sheriff",
-    "rarity": "Select",
-    "cost": "Veto",
-    "collection": "Agent Contract Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9a11bbff-4474-00a0-f833-868f5f2488b5/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9a11bbff-4474-00a0-f833-868f5f2488b5/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Enforcer Sheriff",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Unlocked through agent tiers",
-    "hiddenTags": []
-  },
-  {
-    "id": "2ef9ee97-4735-e7d9-069f-fb80541468b5",
-    "name": "ORA by OneTap Vandal",
-    "weaponType": "Vandal",
-    "rarity": "Ultra",
-    "cost": 2475,
-    "collection": "ORA by OneTap",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/296d373f-4838-5712-d8d4-eaaf5cfabe79/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/296d373f-4838-5712-d8d4-eaaf5cfabe79/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "ORA by OneTap Vandal",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Vandal Level 2\n(Sound Effects)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Vandal Level 3\n(Animation)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Vandal Level 4\n(Finisher)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Vandal Level 5\n(Song Shuffle)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 9900",
-    "hiddenTags": []
-  },
-  {
-    "id": "7581e975-418f-fe4f-e3b0-08a3000e9a8d",
-    "name": "ORA by OneTap Phantom",
-    "weaponType": "Phantom",
-    "rarity": "Ultra",
-    "cost": 2475,
-    "collection": "ORA by OneTap",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/75ab3a8e-471c-00c7-5e38-37ad5e1bff6a/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/75ab3a8e-471c-00c7-5e38-37ad5e1bff6a/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "ORA by OneTap Phantom",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Phantom Level 2\n(Sound Effects)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Phantom Level 3\n(Animation)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Phantom Level 4\n(Finisher)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Phantom Level 5\n(Song Shuffle)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 9900",
-    "hiddenTags": []
-  },
-  {
-    "id": "a452fcd9-4fe6-dc8c-6459-b2ad13ef89ff",
-    "name": "ORA by OneTap Sheriff",
-    "weaponType": "Sheriff",
-    "rarity": "Ultra",
-    "cost": 2475,
-    "collection": "ORA by OneTap",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5b9779b4-48cc-e53c-4043-3681c7067ddb/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5b9779b4-48cc-e53c-4043-3681c7067ddb/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "ORA by OneTap Sheriff",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Sheriff Level 2\n(Sound Effects)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Sheriff Level 3\n(Animation)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Sheriff Level 4\n(Finisher)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Sheriff Level 5\n(Song Shuffle)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 9900",
-    "hiddenTags": []
-  },
-  {
-    "id": "94e98f1f-4a49-ef5f-b995-cf84750194b6",
-    "name": "ORA by OneTap Operator",
-    "weaponType": "Operator",
-    "rarity": "Ultra",
-    "cost": 2475,
-    "collection": "ORA by OneTap",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5dfc59c5-4faf-d120-b7cf-4da129e4f8af/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5dfc59c5-4faf-d120-b7cf-4da129e4f8af/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "ORA by OneTap Operator",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Operator Level 2\n(Sound Effects)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Operator Level 3\n(Animation)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Operator Level 4\n(Finisher)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Operator Level 5\n(Song Shuffle)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 9900",
-    "hiddenTags": []
-  },
-  {
-    "id": "6fb14e4e-41df-de2d-98bc-fcb68d27db48",
-    "name": "ORA by OneTap Knife",
-    "weaponType": "Melee",
-    "rarity": "Ultra",
-    "cost": 4950,
-    "collection": "ORA by OneTap",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8cdc879e-4959-87e6-414d-7e924bbb566b/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8cdc879e-4959-87e6-414d-7e924bbb566b/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "ORA by OneTap Knife",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Knife Level 2\n(Animation)",
-        "color": "#ffffff"
-      },
-      {
-        "name": "ORA by OneTap Knife Level 3\n(Song Shuffle)",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Bundle Cost 9900",
-    "hiddenTags": []
-  },
-  {
-    "id": "a72c55b6-4cad-3db4-bcc3-5faece01b0ef",
-    "name": "Nanomight Phantom",
-    "weaponType": "Phantom",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Nanomight",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7f75a90c-414d-fbc6-9bbc-8cb310943b3d/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7f75a90c-414d-fbc6-9bbc-8cb310943b3d/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Nanomight Phantom",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Nanomight Phantom\n(Variant 1 Green)",
-        "color": "#00FF00"
-      },
-      {
-        "name": "Nanomight Phantom\n(Variant 2 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Nanomight Phantom\n(Variant 3 Pink)",
-        "color": "#FF69B4"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "c8b1923b-4cda-a532-7616-4b9a9a2cfe15",
-    "name": "Nanomight Frenzy",
-    "weaponType": "Frenzy",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Nanomight",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/99e0735a-42f5-f234-322a-b5b94c749a07/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/99e0735a-42f5-f234-322a-b5b94c749a07/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Nanomight Frenzy",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Nanomight Frenzy\n(Variant 1 Green)",
-        "color": "#00FF00"
-      },
-      {
-        "name": "Nanomight Frenzy\n(Variant 2 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Nanomight Frenzy\n(Variant 3 Pink)",
-        "color": "#FF69B4"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "ef889a32-4951-ae40-44fe-40a4da210060",
-    "name": "Nanomight Guardian",
-    "weaponType": "Guardian",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Nanomight",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/18252494-4654-9c9f-6086-a3b623fc0a9f/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/18252494-4654-9c9f-6086-a3b623fc0a9f/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Nanomight Guardian",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Nanomight Guardian\n(Variant 1 Green)",
-        "color": "#00FF00"
-      },
-      {
-        "name": "Nanomight Guardian\n(Variant 2 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Nanomight Guardian\n(Variant 3 Pink)",
-        "color": "#FF69B4"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "eee0304d-45f1-6c08-1a53-4e850f594f51",
-    "name": "Nanomight Stinger",
-    "weaponType": "Stinger",
-    "rarity": "Deluxe",
-    "cost": 1275,
-    "collection": "Nanomight",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0df1e30e-4e75-929d-fb95-f1ad28daf985/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0df1e30e-4e75-929d-fb95-f1ad28daf985/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Nanomight Stinger",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Nanomight Stinger\n(Variant 1 Green)",
-        "color": "#00FF00"
-      },
-      {
-        "name": "Nanomight Stinger\n(Variant 2 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Nanomight Stinger\n(Variant 3 Pink)",
-        "color": "#FF69B4"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "f1d98ecd-4d68-30af-8908-edafabcf18ab",
-    "name": "Nanomight Knuckles",
-    "weaponType": "Melee",
-    "rarity": "Deluxe",
-    "cost": 2550,
-    "collection": "Nanomight",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a440f428-45ba-5579-cbe4-d2afebc25f08/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a440f428-45ba-5579-cbe4-d2afebc25f08/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Nanomight Knuckles",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Nanomight Knuckles\n(Variant 1 Green)",
-        "color": "#00FF00"
-      },
-      {
-        "name": "Nanomight Knuckles\n(Variant 2 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Nanomight Knuckles\n(Variant 3 Pink)",
-        "color": "#FF69B4"
-      }
-    ],
-    "description": "Bundle Cost 5100",
-    "hiddenTags": []
-  },
-  {
-    "id": "82511942465b560076d7778159d01bf4",
-    "name": "Mystbloom Ghost",
-    "weaponType": "Ghost",
-    "rarity": "Exclusive",
-    "cost": 2175,
-    "collection": "Mystbloom Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/89dbe2d2-4d10-6935-3118-01ac8524ee97/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/89dbe2d2-4d10-6935-3118-01ac8524ee97/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "Mystbloom Ghost",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Mystbloom Ghost Level 4\n(Variant 1 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Mystbloom Ghost Level 4\n(Variant 2 Orange)",
-        "color": "#FFA500"
-      },
-      {
-        "name": "Mystbloom Ghost Level 4\n(Variant 3 Purple)",
+        "name": "Montage Ares\r\n(Variant 2 Purple)",
         "color": "#800080"
       }
     ],
-    "description": "Bundle Cost 8700",
-    "hiddenTags": []
-  },
-  {
-    "id": "4fc362144492ef57f8fb4cab81863545",
-    "name": "Mystbloom Vandal",
-    "weaponType": "Vandal",
-    "rarity": "Exclusive",
-    "cost": 2175,
-    "collection": "Mystbloom Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/087f02e8-4676-b272-2a16-f6bdd3612a45/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/087f02e8-4676-b272-2a16-f6bdd3612a45/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "Mystbloom Vandal",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Mystbloom Vandal Level 4\n(Variant 1 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Mystbloom Vandal Level 4\n(Variant 2 Orange)",
-        "color": "#FFA500"
-      },
-      {
-        "name": "Mystbloom Vandal Level 4\n(Variant 3 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Bundle Cost 8700",
-    "hiddenTags": []
-  },
-  {
-    "id": "1a097db147787049b62e6fa071ad7193",
-    "name": "Mystbloom Outlaw",
-    "weaponType": "Outlaw",
-    "rarity": "Exclusive",
-    "cost": 2175,
-    "collection": "Mystbloom Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6b6a6645-4f5c-c9fc-b20c-33a025b21ecb/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6b6a6645-4f5c-c9fc-b20c-33a025b21ecb/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": true,
-    "colorVariants": [
-      {
-        "name": "Mystbloom Outlaw",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Mystbloom Outlaw Level 4\n(Variant 1 Blue)",
-        "color": "#0000FF"
-      },
-      {
-        "name": "Mystbloom Outlaw Level 4\n(Variant 2 Orange)",
-        "color": "#FFA500"
-      },
-      {
-        "name": "Mystbloom Outlaw Level 4\n(Variant 3 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Bundle Cost 8700",
+    "description": "Montage Ares - Deluxe skin for Ares",
     "hiddenTags": []
   },
   {
@@ -29584,39 +28712,1992 @@
         "color": "#800080"
       }
     ],
-    "description": "Bundle Cost 8700",
+    "description": "Mystbloom Ares - Exclusive skin for Ares",
     "hiddenTags": []
   },
   {
-    "id": "a0d4ac37416bae62aa3648803714e25f",
-    "name": "Mystbloom Fanblade",
-    "weaponType": "Melee",
+    "id": "2ef9ee974735e7d9069ffb80541468b5",
+    "name": "ORA by OneTap Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/296d373f-4838-5712-d8d4-eaaf5cfabe79/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/296d373f-4838-5712-d8d4-eaaf5cfabe79/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "ORA by OneTap Vandal - Ultra skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "08cdb3d54742f8d4961435b9f231b044",
+    "name": "Heartstopper Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Heartstopper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/37ca89ef-4c8f-e7fc-d4f4-c69686d7760a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/37ca89ef-4c8f-e7fc-d4f4-c69686d7760a/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartstopper Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Heartstopper Vandal\n(Variant 1 Black)",
+        "color": "#000000"
+      },
+      {
+        "name": "Heartstopper Vandal\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Heartstopper Vandal - Deluxe skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "c9c999ae4bc4df1c328dad93c0d81368",
+    "name": "Superset Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Superset Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/64241e28-4242-c309-a84a-008b97dd5b25/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/64241e28-4242-c309-a84a-008b97dd5b25/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Superset Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Superset Vandal - Select skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "3a079e064b632293fbd84fb896e8af3d",
+    "name": "Dolmir's Revenge Vandal",
+    "weaponType": "Vandal",
     "rarity": "Exclusive",
-    "cost": 4350,
-    "collection": "Mystbloom Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/81931c67-4c80-6dbb-7832-759d5b193b25/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/81931c67-4c80-6dbb-7832-759d5b193b25/fullrender.png",
+    "cost": 2175,
+    "collection": "Dolmir's Revenge Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f3a01eb6-405b-70de-4f5e-5eb2ced246a9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f3a01eb6-405b-70de-4f5e-5eb2ced246a9/fullrender.png",
     "hasColorVariants": true,
     "hasAnimations": true,
     "colorVariants": [
       {
-        "name": "Mystbloom Fanblade",
+        "name": "Dolmir's Revenge Vandal",
         "color": "#ffffff"
       },
       {
-        "name": "Mystbloom Fanblade Level 2\n(Variant 1 Blue)",
+        "name": "Dolmir's Revenge Vandal Level 4\n(Variant 1 Obsidian)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Vandal Level 4\n(Variant 2 Moss)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Vandal Level 4\n(Variant 3 Ice)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dolmir's Revenge Vandal - Exclusive skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "6d0e790745e1ca593bd466a454963957",
+    "name": "Solarstride Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Premium",
+    "cost": 1775,
+    "collection": "Solarstride Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7aa05464-4cd1-8143-58a7-df8d354793a5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7aa05464-4cd1-8143-58a7-df8d354793a5/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Solarstride Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Solarstride Vandal Level 4\n(Variant 1 Blue)",
         "color": "#0000FF"
       },
       {
-        "name": "Mystbloom Fanblade Level 2\n(Variant 2 Orange)",
-        "color": "#FFA500"
+        "name": "Solarstride Vandal Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
       },
       {
-        "name": "Mystbloom Fanblade Level 2\n(Variant 3 Purple)",
+        "name": "Solarstride Vandal Level 4\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Solarstride Vandal - Premium skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "15cc1aab432f34d8e0e8d2925d54324b",
+    "name": "Champions 2025 Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2675,
+    "collection": "Champions 2025 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e986283f-493a-0777-41d8-c49b47052472/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e986283f-493a-0777-41d8-c49b47052472/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Champions 2025 Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Champions 2025 Vandal - Exclusive skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "9b4adbf3491daee70df22282476e2814",
+    "name": "SilkLeaf Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "SilkLeaf Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e0b870a4-40f3-d2a5-6f41-a89518a895be/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e0b870a4-40f3-d2a5-6f41-a89518a895be/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "SilkLeaf Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "SilkLeaf Vandal - Deluxe skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "4f1823dd4a1775116ac84aa28a6a263a",
+    "name": "Blackthorn Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackthorn Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/75ea21d8-453d-ef05-47d4-948bf221bdae/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/75ea21d8-453d-ef05-47d4-948bf221bdae/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackthorn Vandal",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Vandal Level 4\n(Variant 1 Gold)",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Vandal Level 4\r\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Blackthorn Vandal Level 4\n(Variant 3 Purple Shear)",
         "color": "#800080"
       }
     ],
-    "description": "Bundle Cost 8700",
+    "description": "Blackthorn Vandal - Exclusive skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "01780683456328458d41daba73b3daca",
+    "name": "Paceline Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Paceline Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c5a33feb-49c9-1a32-2f1a-73950c097602/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c5a33feb-49c9-1a32-2f1a-73950c097602/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Paceline Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Paceline Vandal - Deluxe skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "4fc362144492ef57f8fb4cab81863545",
+    "name": "Mystbloom Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/087f02e8-4676-b272-2a16-f6bdd3612a45/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/087f02e8-4676-b272-2a16-f6bdd3612a45/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Vandal Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Vandal Level 4\r\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Vandal Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Mystbloom Vandal - Exclusive skin for Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "9d806fb544e04756977e188df6473fe0",
+    "name": "Heartbreaker Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartbreaker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8c745262-41fb-c85f-44ac-0e9d924569e4/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8c745262-41fb-c85f-44ac-0e9d924569e4/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartbreaker Bulldog",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartbreaker Bulldog - Select skin for Bulldog",
+    "hiddenTags": []
+  },
+  {
+    "id": "c5676fb64268d5bdf2f7f3a1334ca8b8",
+    "name": "Prelude to Chaos Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Prelude to Chaos Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8de7e2bf-49b5-7e7a-b732-ff9b5908a742/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8de7e2bf-49b5-7e7a-b732-ff9b5908a742/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Prelude to Chaos Bulldog",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Prelude to Chaos Bulldog Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Prelude to Chaos Bulldog Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Prelude to Chaos Bulldog Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Prelude to Chaos Bulldog - Exclusive skin for Bulldog",
+    "hiddenTags": []
+  },
+  {
+    "id": "6ff0d2cf488ec565d118da9bd4ac1e3c",
+    "name": "Soulburst Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Soulburst Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/87ab2342-436e-5460-9cb3-18aee9fccbfc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/87ab2342-436e-5460-9cb3-18aee9fccbfc/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Soulburst Bulldog",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Soulburst Bulldog\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Soulburst Bulldog\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Soulburst Bulldog\n(Variant 3 Red)",
+        "color": "#FF0000"
+      }
+    ],
+    "description": "Soulburst Bulldog - Select skin for Bulldog",
+    "hiddenTags": []
+  },
+  {
+    "id": "ffb2f24f43bd8735f9bd36bde08d86cb",
+    "name": "Wasteland Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Wasteland Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/fd1427ec-416d-8256-8ce2-ccaaa817e4a4/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/fd1427ec-416d-8256-8ce2-ccaaa817e4a4/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Wasteland Bulldog",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Wasteland Bulldog - Deluxe skin for Bulldog",
+    "hiddenTags": [
+      "battlepass"
+    ]
+  },
+  {
+    "id": "ad2c5365414723daafaa08b9bfb3817b",
+    "name": "Prelude to Chaos Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Prelude to Chaos Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8b132ed4-46b8-84e0-e0ec-caa69d1818ea/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8b132ed4-46b8-84e0-e0ec-caa69d1818ea/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Prelude to Chaos Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Prelude to Chaos Phantom Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Prelude to Chaos Phantom Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Prelude to Chaos Phantom Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Prelude to Chaos Phantom - Exclusive skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "a72c55b64cad3db4bcc35faece01b0ef",
+    "name": "Nanomight Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7f75a90c-414d-fbc6-9bbc-8cb310943b3d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7f75a90c-414d-fbc6-9bbc-8cb310943b3d/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Phantom\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Phantom\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Phantom\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Nanomight Phantom - Deluxe skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "40758d8b40d12c26fa746fa2688d22bc",
+    "name": "Dragon Gate Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Dragon Gate Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f0779c4c-4e66-4529-d6f3-c49d2243dfb3/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f0779c4c-4e66-4529-d6f3-c49d2243dfb3/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Dragon Gate Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dragon Gate Phantom - Select skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "7581e975418ffe4fe3b008a3000e9a8d",
+    "name": "ORA by OneTap Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/75ab3a8e-471c-00c7-5e38-37ad5e1bff6a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/75ab3a8e-471c-00c7-5e38-37ad5e1bff6a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "ORA by OneTap Phantom - Ultra skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "4daff9cb46b4734b8352b29108095864",
+    "name": "Jellybeam Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Jellybeam Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c0dbeca3-4afc-7acb-8b39-108424e53aba/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c0dbeca3-4afc-7acb-8b39-108424e53aba/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Jellybeam Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Jellybeam Phantom - Deluxe skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "af9b3af74ae62e0738196da4bc9d50b9",
+    "name": "Montage Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6349ea5e-40de-bd8f-6657-34af1f0183f8/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6349ea5e-40de-bd8f-6657-34af1f0183f8/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Phantom\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Phantom\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Montage Phantom - Deluxe skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "cb6664ae40f42676da7d7f974b3407f4",
+    "name": "Heartseeker Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartseeker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/20582491-464e-9213-8fec-f685dd7b1e36/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/20582491-464e-9213-8fec-f685dd7b1e36/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartseeker Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartseeker Phantom - Select skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "33f1ae2c4bd397eb179857ab067ce805",
+    "name": "Wasteland Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Wasteland Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4547da25-4c9f-13fd-9b8d-0cb416413b57/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4547da25-4c9f-13fd-9b8d-0cb416413b57/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Wasteland Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Wasteland Phantom - Deluxe skin for Phantom",
+    "hiddenTags": [
+      "battlepass"
+    ]
+  },
+  {
+    "id": "c1b9627443462ea465f4ec957d217922",
+    "name": "Ayakashi Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Ayakashi Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/58b05ae6-4126-2be4-84c1-1e9d63409091/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/58b05ae6-4126-2be4-84c1-1e9d63409091/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Ayakashi Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Ayakashi Phantom Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Ayakashi Phantom Level 4\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Ayakashi Phantom Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Ayakashi Phantom - Exclusive skin for Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "138d91434b8c92012fe097b4c2b94402",
+    "name": "Dragon Gate Judge",
+    "weaponType": "Judge",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Dragon Gate Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0167cd57-405b-a65d-f9b5-eab82eacc1f3/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0167cd57-405b-a65d-f9b5-eab82eacc1f3/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Dragon Gate Judge",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dragon Gate Judge - Select skin for Judge",
+    "hiddenTags": []
+  },
+  {
+    "id": "d012123646bcc79742f2dbb41093d8fb",
+    "name": "Jellybeam Judge",
+    "weaponType": "Judge",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Jellybeam Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/09bbb8af-49f1-ae8f-6704-6cb554050d22/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/09bbb8af-49f1-ae8f-6704-6cb554050d22/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Jellybeam Judge",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Jellybeam Judge - Deluxe skin for Judge",
+    "hiddenTags": []
+  },
+  {
+    "id": "bc0478c84b7ab6f6eb1e95bab0485435",
+    "name": "Stormborne Bucky",
+    "weaponType": "Bucky",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1b8cbf78-45cd-3140-6064-688def115317/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1b8cbf78-45cd-3140-6064-688def115317/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Bucky",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Stormborne Bucky - Select skin for Bucky",
+    "hiddenTags": []
+  },
+  {
+    "id": "949e32984875c4959978ec87f3a85118",
+    "name": "Wasteland Bucky",
+    "weaponType": "Bucky",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Wasteland Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/caa2cec8-4f09-5a38-bc86-f09d3786bfc4/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/caa2cec8-4f09-5a38-bc86-f09d3786bfc4/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Wasteland Bucky",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Wasteland Bucky - Deluxe skin for Bucky",
+    "hiddenTags": [
+      "battlepass"
+    ]
+  },
+  {
+    "id": "c8b1923b4cdaa53276164b9a9a2cfe15",
+    "name": "Nanomight Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/99e0735a-42f5-f234-322a-b5b94c749a07/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/99e0735a-42f5-f234-322a-b5b94c749a07/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Frenzy",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Frenzy\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Frenzy\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Frenzy\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Nanomight Frenzy - Deluxe skin for Frenzy",
+    "hiddenTags": []
+  },
+  {
+    "id": "66823deb48b3dc1b81a169b59b9e4b0f",
+    "name": "Montage Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/77baf127-4834-1e6b-0e22-7aad3e2f531e/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/77baf127-4834-1e6b-0e22-7aad3e2f531e/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Frenzy",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Frenzy\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Frenzy\r\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Montage Frenzy - Deluxe skin for Frenzy",
+    "hiddenTags": []
+  },
+  {
+    "id": "67f86b804411b5937ecc01839637cb85",
+    "name": "Paceline Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Paceline Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0eda257a-4463-dea3-7da7-749066da15f1/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0eda257a-4463-dea3-7da7-749066da15f1/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Paceline Frenzy",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Paceline Frenzy - Deluxe skin for Frenzy",
+    "hiddenTags": []
+  },
+  {
+    "id": "89db82ba4bf68bc01131248ee1e90742",
+    "name": "Headbanger Classic",
+    "weaponType": "Classic",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Miks Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ae10ee3c-417d-0552-d4be-528bd11fad85/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ae10ee3c-417d-0552-d4be-528bd11fad85/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Headbanger Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Headbanger Classic - Select skin for Classic",
+    "hiddenTags": []
+  },
+  {
+    "id": "960fa9ae4f429601c722a797a90ec122",
+    "name": "Superset Classic",
+    "weaponType": "Classic",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Superset Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/38bccd91-481b-7efa-2d03-168111f44299/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/38bccd91-481b-7efa-2d03-168111f44299/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Superset Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Superset Classic - Select skin for Classic",
+    "hiddenTags": []
+  },
+  {
+    "id": "2136523c484730e82e19b381be7afac4",
+    "name": "Dolmir's Revenge Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Dolmir's Revenge Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ff89d8db-408f-0ba8-152e-17b42d55f469/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ff89d8db-408f-0ba8-152e-17b42d55f469/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Dolmir's Revenge Classic",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Classic Level 4\n(Variant 1 Obsidian)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Classic Level 4\n(Variant 2 Moss)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Classic Level 4\n(Variant 3 Ice)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dolmir's Revenge Classic - Exclusive skin for Classic",
+    "hiddenTags": []
+  },
+  {
+    "id": "66668fb44143bcf9fd35b39d93a13257",
+    "name": "Blackthorn Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackthorn Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/905df5bb-4f1c-4768-ab36-e692f05212a5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/905df5bb-4f1c-4768-ab36-e692f05212a5/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackthorn Classic",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Classic Level 4\n(Variant 1 Gold)",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Classic Level 4\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Blackthorn Classic Level 4\n(Variant 3 Purple Shear)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Blackthorn Classic - Exclusive skin for Classic",
+    "hiddenTags": []
+  },
+  {
+    "id": "5c153c294af1e37cf91430984bcc1a00",
+    "name": "VCT26 x 100T Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x 100T Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/382c188b-4f5b-192d-7b89-e8bfc9a25b0f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/382c188b-4f5b-192d-7b89-e8bfc9a25b0f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x 100T Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x 100T Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "e4d5454c43d1fdd43db0cfb31cfb120c",
+    "name": "VCT26 x AG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x AG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cce9ecf0-4aaa-7310-c415-ef8556b014dd/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cce9ecf0-4aaa-7310-c415-ef8556b014dd/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x AG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x AG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "855185cf49add48bc67cbcad08e63229",
+    "name": "VCT26 x BBL Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x BBL Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2349d9e0-467a-7b2d-96bd-37bd3cb60267/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2349d9e0-467a-7b2d-96bd-37bd3cb60267/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x BBL Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x BBL Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "3ab7d3f5402db2cd2289df918f3cfc08",
+    "name": "VCT26 x BLG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x BLG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a16d925b-4080-336e-ed7e-89aa2f12b92f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a16d925b-4080-336e-ed7e-89aa2f12b92f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x BLG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x BLG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "607df0224b11d3158e487ea00e9a7334",
+    "name": "VCT26 x C9 Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x C9 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b3bca22f-47e2-277f-f995-abadb6b406ad/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b3bca22f-47e2-277f-f995-abadb6b406ad/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x C9 Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x C9 Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "9f2d4fb8473916c1d27043b0cd0a1202",
+    "name": "VCT26 x DFM Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x DFM Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a96bcc36-46f4-cf8b-5ebc-fd8901fcee23/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a96bcc36-46f4-cf8b-5ebc-fd8901fcee23/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x DFM Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x DFM Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "34f12708420cfc777376c1b7a4ba7bdd",
+    "name": "VCT26 x DRG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x DRG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/74aa2cc5-4978-69dc-cdb3-51914e9fe420/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/74aa2cc5-4978-69dc-cdb3-51914e9fe420/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x DRG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x DRG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "969e5b1f45e59b2475baab9e8d24a7a9",
+    "name": "VCT26 x DRX Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x DRX Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/10c92f2f-43a5-0f80-4678-22890482a711/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/10c92f2f-43a5-0f80-4678-22890482a711/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x DRX Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x DRX Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "10a6918542aeddd324cfdba31bd7667f",
+    "name": "VCT26 x EDG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x EDG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b19ae08b-44b5-4ec8-35f5-af9df91dda02/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b19ae08b-44b5-4ec8-35f5-af9df91dda02/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x EDG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x EDG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "e8879b694b10a67ce7f65da69971f426",
+    "name": "VCT26 x EG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x EG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f6c78871-4f59-e6e9-fd89-1b8329d48866/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f6c78871-4f59-e6e9-fd89-1b8329d48866/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x EG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x EG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "8a7fd35e423ba9c7048b50a7ad930125",
+    "name": "VCT26 x FNC Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x FNC Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/baa058b9-49ac-c7cd-880c-41a7ac728809/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/baa058b9-49ac-c7cd-880c-41a7ac728809/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x FNC Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x FNC Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "3cb0793744d1f14f10e95fb5fab0eddc",
+    "name": "VCT26 x FPX Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x FPX Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2a4fd4f0-467a-65ae-9741-fbbf60c9af91/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2a4fd4f0-467a-65ae-9741-fbbf60c9af91/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x FPX Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x FPX Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "c0b2d53443b236170c71d8904cf3c2d7",
+    "name": "VCT26 x FS Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x FS Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1560e6f3-4324-5f3d-b1c5-eebfe0ad32a9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1560e6f3-4324-5f3d-b1c5-eebfe0ad32a9/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x FS Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x FS Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "7338b17b48d1ee6056d0a39b653893e9",
+    "name": "VCT26 x FUR Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x FUR Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e162669e-4868-00f7-549f-759087295b79/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e162669e-4868-00f7-549f-759087295b79/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x FUR Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x FUR Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "9065201c47206af0c26c23861542b724",
+    "name": "VCT26 x FUT Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x FUT Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ba1da274-4ed1-4e0d-10f5-f8a0f7f92999/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ba1da274-4ed1-4e0d-10f5-f8a0f7f92999/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x FUT Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x FUT Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "6f7320814f00664f87e8d6a32d494bae",
+    "name": "VCT26 x G2 Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x G2 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d23447bf-410e-4f4e-d1db-a7997bd7b298/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d23447bf-410e-4f4e-d1db-a7997bd7b298/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x G2 Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x G2 Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "ab529e854a66359140b6cab280236416",
+    "name": "VCT26 x GEN Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x GEN Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/51159878-4630-9feb-8d60-9092812d27e2/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/51159878-4630-9feb-8d60-9092812d27e2/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x GEN Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x GEN Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "5814474d4d92d1f504ce2f8d23ae2466",
+    "name": "VCT26 x GE Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x GE Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c296e1ee-4e6f-e5e8-7c9b-a7864c995dfe/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c296e1ee-4e6f-e5e8-7c9b-a7864c995dfe/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x GE Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x GE Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "0f3309ad4edc4c1620c106ba255e49ce",
+    "name": "VCT26 x GX Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x GX Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f868ec3b-46fc-a6c3-4ccd-06a9a889cd41/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f868ec3b-46fc-a6c3-4ccd-06a9a889cd41/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x GX Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x GX Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "f303a77748c38b4981a0ad867d8f40c6",
+    "name": "VCT26 x JDG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x JDG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/db5ee408-404e-bc93-3e4d-e7811170811f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/db5ee408-404e-bc93-3e4d-e7811170811f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x JDG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x JDG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "71da48ed43edc74b6580ec9435e72492",
+    "name": "VCT26 x KC Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x KC Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/15f2c715-40bc-ae2e-e4eb-dda2b1f2bb79/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/15f2c715-40bc-ae2e-e4eb-dda2b1f2bb79/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x KC Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x KC Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "1b263b90423feab6bb0ea491d296d002",
+    "name": "VCT26 x KRÜ Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x KRÜ Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/238b5ee7-4b27-a078-5e24-f4b5508e1a66/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/238b5ee7-4b27-a078-5e24-f4b5508e1a66/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x KRÜ Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x KRÜ Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "e2c5ccb54ebacdc523e4329f037023c9",
+    "name": "VCT26 x LEV Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x LEV Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6c147067-4ada-0626-4cc4-6bad0c02348a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6c147067-4ada-0626-4cc4-6bad0c02348a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x LEV Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x LEV Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "33926ae044b9efbc8e0809822976f3a2",
+    "name": "VCT26 x LOUD Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x LOUD Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/50e1b02d-4f19-1479-12f0-46addb7a828c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/50e1b02d-4f19-1479-12f0-46addb7a828c/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x LOUD Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x LOUD Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "8d023ac3442ecad9de853eb4965d074f",
+    "name": "VCT26 x M8 Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x M8 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b8a7e9b5-4e90-1c79-4c1d-508fdf82faf2/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b8a7e9b5-4e90-1c79-4c1d-508fdf82faf2/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x M8 Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x M8 Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "2ddc650545ad640c69e1608af936f7b3",
+    "name": "VCT26 x MIBR Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x MIBR Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8980af0f-40fd-58cc-682a-cc83b975baf5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8980af0f-40fd-58cc-682a-cc83b975baf5/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x MIBR Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x MIBR Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "99a20e1b44b73793c2f3b3a9346f40e6",
+    "name": "VCT26 x NAVI Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x NAVI Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/465b36ea-4e2c-0eeb-db78-7ba7a5e75fbb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/465b36ea-4e2c-0eeb-db78-7ba7a5e75fbb/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x NAVI Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x NAVI Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "bdcbc0764dd17685dee34d990b536e08",
+    "name": "VCT26 x NOVA Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x NOVA Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1789dabc-47bb-9042-5dd8-cc89cf07d8fc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1789dabc-47bb-9042-5dd8-cc89cf07d8fc/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x NOVA Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x NOVA Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "e5af583a42d419bfd83621be8ba58e4b",
+    "name": "VCT26 x NRG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x NRG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9b5ff901-40c7-d5a0-ba39-76be1d3545b4/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9b5ff901-40c7-d5a0-ba39-76be1d3545b4/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x NRG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x NRG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "3cdd7a3f447da8d0b4b11f8b9471af1f",
+    "name": "VCT26 x NS Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x NS Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d2e9d879-4b08-4815-d95d-e1aa3385d27c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d2e9d879-4b08-4815-d95d-e1aa3385d27c/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x NS Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x NS Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "ff74f60648cce54ab092ce8131ef5763",
+    "name": "VCT26 x NV Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x NV Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2fc3625d-4b67-3d68-5457-71b29e29b6b0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2fc3625d-4b67-3d68-5457-71b29e29b6b0/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x NV Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x NV Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "331fde45439d2b68193cfe94a36f53f3",
+    "name": "VCT26 x PCF Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x PCF Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2eb09415-4cb9-12d3-e133-3a906396e2ce/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2eb09415-4cb9-12d3-e133-3a906396e2ce/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x PCF Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x PCF Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "cb2d0716405903a76cdd4aa160ef9f05",
+    "name": "VCT26 x PRX Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x PRX Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/490a926f-48f7-eb42-6862-60bcf7a8e28c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/490a926f-48f7-eb42-6862-60bcf7a8e28c/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x PRX Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x PRX Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "9f887a2c4275385acee795ab01e76e5a",
+    "name": "VCT26 x RRQ Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x RRQ Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a12676db-4f97-3f6b-180e-7c9c3d591c43/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a12676db-4f97-3f6b-180e-7c9c3d591c43/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x RRQ Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x RRQ Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "42be8fc9484400684a0e6fb4fab908d1",
+    "name": "VCT26 x SEN Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x SEN Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/26095b3d-4851-2752-d182-ae9aca986f9f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/26095b3d-4851-2752-d182-ae9aca986f9f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x SEN Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x SEN Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "31ad3e2e403439bb883667be75b8e7a0",
+    "name": "VCT26 x T1 Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x T1 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6e4ae4b6-43c8-3625-538b-3b9b84e8610f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6e4ae4b6-43c8-3625-538b-3b9b84e8610f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x T1 Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x T1 Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "419654b44058433ab9b923af6a614779",
+    "name": "VCT26 x TE Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x TE Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ae740ec9-4815-147d-eac9-cb913141d8c9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ae740ec9-4815-147d-eac9-cb913141d8c9/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x TE Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x TE Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "b7922c344b43a48ee91a389ff8ae79f0",
+    "name": "VCT26 x TEC Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x TEC Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/251b5854-4f65-51a2-2c7e-569dbf157d57/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/251b5854-4f65-51a2-2c7e-569dbf157d57/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x TEC Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x TEC Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "c775735d4bd952c57f689898787b52a5",
+    "name": "VCT26 x TH Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x TH Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/457e000f-4b17-4bfe-ae96-61939fa8d244/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/457e000f-4b17-4bfe-ae96-61939fa8d244/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x TH Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x TH Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "522776e744ea9d97832f5a8dfe1b28f6",
+    "name": "VCT26 x TL Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x TL Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/629dc7a1-4076-092a-4830-afa7f9cead67/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/629dc7a1-4076-092a-4830-afa7f9cead67/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x TL Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x TL Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "285dcd5e49c5da61f4c272b7877ad85f",
+    "name": "VCT26 x TS Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x TS Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/38e2150c-4bd6-a6f6-6b06-8ca2d528c603/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/38e2150c-4bd6-a6f6-6b06-8ca2d528c603/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x TS Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x TS Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "40ec4fc445df8e5721a2da82217f52a8",
+    "name": "VCT26 x TYL Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x TYL Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/786f092c-4ca2-c690-b6fd-dab6c3a7c4f8/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/786f092c-4ca2-c690-b6fd-dab6c3a7c4f8/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x TYL Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x TYL Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "d2fbf51943dda4103c6faaa26dba9852",
+    "name": "VCT26 x VIT Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x VIT Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/77502e15-4d88-05e3-48be-d8a75d2f3cf0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/77502e15-4d88-05e3-48be-d8a75d2f3cf0/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x VIT Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x VIT Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "896157f14bf953b86d4d59aa7ad70e7c",
+    "name": "VCT26 x VL Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x VL Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7e6fe739-4fca-5f05-4ba7-76a3fb810e20/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7e6fe739-4fca-5f05-4ba7-76a3fb810e20/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x VL Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x VL Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "e187724b40fb2eaabd0316b3faa14d9e",
+    "name": "VCT26 x WOL Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x WOL Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2dc31fd4-4382-9b13-12e6-dcac36a68c69/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2dc31fd4-4382-9b13-12e6-dcac36a68c69/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x WOL Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x WOL Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "d014e6454349cbf55a14938073bb8754",
+    "name": "VCT26 x XLG Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x XLG Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e2c24576-4fdb-4752-b1fa-0db0b7f2a7e5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e2c24576-4fdb-4752-b1fa-0db0b7f2a7e5/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x XLG Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x XLG Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "fcd3527f40bdc834d68bfdb5adfce2d1",
+    "name": "VCT26 x ZETA Classic",
+    "weaponType": "Classic",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "VCT x ZETA Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/74a7cb8f-4e74-f130-623f-fdb8621aa479/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/74a7cb8f-4e74-f130-623f-fdb8621aa479/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT26 x ZETA Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT26 x ZETA Classic - Exclusive skin for Classic",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "2505a3cf4604d6ff5785d981df847fb7",
+    "name": "Soulburst Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Soulburst Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/716281c1-454d-d454-142d-03ae37b913ce/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/716281c1-454d-d454-142d-03ae37b913ce/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Soulburst Bandit",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Soulburst Bandit\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Soulburst Bandit\r\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Soulburst Bandit\n(Variant 3 Red)",
+        "color": "#FF0000"
+      }
+    ],
+    "description": "Soulburst Bandit - Select skin for Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "8911ce5b485d3a9bffa1199ca6c067c1",
+    "name": "SilkLeaf Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "SilkLeaf Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6e96c515-415a-d7c6-270e-8c85231e8363/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6e96c515-415a-d7c6-270e-8c85231e8363/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "SilkLeaf Bandit",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "SilkLeaf Bandit - Deluxe skin for Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "ff766c804c4a269d21643ebb341de27a",
+    "name": "Reaver Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Premium",
+    "cost": 1775,
+    "collection": "Reaver Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/fd2f03bd-4de4-653b-a33a-46800191601c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/fd2f03bd-4de4-653b-a33a-46800191601c/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Reaver Bandit",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Reaver Bandit Level 4\r\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Reaver Bandit Level 4\r\n(Variant 2 Black)",
+        "color": "#000000"
+      },
+      {
+        "name": "Reaver Bandit Level 4\r\n(Variant 3 White)",
+        "color": "#FFFFFF"
+      }
+    ],
+    "description": "Reaver Bandit - Premium skin for Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "25a656e24994020b32e9e99b8171429f",
+    "name": "Heartstopper Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Heartstopper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/02f03f97-41c4-8bf0-fe97-95afb2366efb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/02f03f97-41c4-8bf0-fe97-95afb2366efb/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartstopper Ghost",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Heartstopper Ghost\n(Variant 1 Black)",
+        "color": "#000000"
+      },
+      {
+        "name": "Heartstopper Ghost\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Heartstopper Ghost - Deluxe skin for Ghost",
+    "hiddenTags": []
+  },
+  {
+    "id": "82511942465b560076d7778159d01bf4",
+    "name": "Mystbloom Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/89dbe2d2-4d10-6935-3118-01ac8524ee97/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/89dbe2d2-4d10-6935-3118-01ac8524ee97/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Ghost",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Ghost Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Ghost Level 4\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Ghost Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Mystbloom Ghost - Exclusive skin for Ghost",
     "hiddenTags": []
   },
   {
@@ -29648,40 +30729,1249 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Bundle Cost 7160",
+    "description": "Ayakashi Ghost - Exclusive skin for Ghost",
     "hiddenTags": []
   },
   {
-    "id": "c1b96274434652a465f4ec957d217922",
-    "name": "Ayakashi Phantom",
-    "weaponType": "Phantom",
+    "id": "7aa2c00d4eb308918ea0f2b29cbe7254",
+    "name": "Enforcer Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Veto Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9a11bbff-4474-00a0-f833-868f5f2488b5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9a11bbff-4474-00a0-f833-868f5f2488b5/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Enforcer Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Enforcer Sheriff - Select skin for Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "bc23caf44b9c89cf48fd6f9c6f743809",
+    "name": "Heartbreaker Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartbreaker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ae11734d-45d7-3278-3661-0ab5e924a5ef/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ae11734d-45d7-3278-3661-0ab5e924a5ef/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartbreaker Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartbreaker Sheriff - Select skin for Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "81bd181f41249e58ffd409964dc0d2cc",
+    "name": "Prelude to Chaos Sheriff",
+    "weaponType": "Sheriff",
     "rarity": "Exclusive",
-    "cost": 2375,
-    "collection": "Ayakashi Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/58b05ae6-4126-2be4-84c1-1e9d63409091/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/58b05ae6-4126-2be4-84c1-1e9d63409091/fullrender.png",
+    "cost": 2175,
+    "collection": "Prelude to Chaos Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/463fe130-4b39-c71b-9df5-d2b777d71633/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/463fe130-4b39-c71b-9df5-d2b777d71633/fullrender.png",
     "hasColorVariants": true,
     "hasAnimations": true,
     "colorVariants": [
       {
-        "name": "Ayakashi Phantom",
+        "name": "Prelude to Chaos Sheriff",
         "color": "#ffffff"
       },
       {
-        "name": "Ayakashi Phantom Level 4\n(Variant 1 Red)",
-        "color": "#FF0000"
+        "name": "Prelude to Chaos Sheriff Level 4\r\n(Variant 1 Green)",
+        "color": "#00FF00"
       },
       {
-        "name": "Ayakashi Phantom Level 4\n(Variant 2 Pink)",
-        "color": "#FFC0CB"
+        "name": "Prelude to Chaos Sheriff Level 4\r\n(Variant 2 White)",
+        "color": "#FFFFFF"
       },
       {
-        "name": "Ayakashi Phantom Level 4\n(Variant 3 Blue)",
+        "name": "Prelude to Chaos Sheriff Level 4\r\n(Variant 3 Blue)",
         "color": "#0000FF"
       }
     ],
-    "description": "Bundle Cost 7160",
+    "description": "Prelude to Chaos Sheriff - Exclusive skin for Sheriff",
     "hiddenTags": []
+  },
+  {
+    "id": "a452fcd94fe6dc8c6459b2ad13ef89ff",
+    "name": "ORA by OneTap Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5b9779b4-48cc-e53c-4043-3681c7067ddb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5b9779b4-48cc-e53c-4043-3681c7067ddb/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "ORA by OneTap Sheriff - Ultra skin for Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "6ca0d0724fb0fa690c766cbc2d9eeab3",
+    "name": "Stormborne Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/39b6299e-4f81-5902-467f-79adf6e47122/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/39b6299e-4f81-5902-467f-79adf6e47122/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Stormborne Sheriff - Select skin for Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "ee0acade47fcc2127c1641979c1ba1f3",
+    "name": "Dragon Gate Shorty",
+    "weaponType": "Shorty",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Dragon Gate Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/223c32b5-424b-bcf6-7909-3fa4bf51d370/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/223c32b5-424b-bcf6-7909-3fa4bf51d370/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Dragon Gate Shorty",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dragon Gate Shorty - Select skin for Shorty",
+    "hiddenTags": []
+  },
+  {
+    "id": "74d8ac90453d96ef6cc620a65c58eb5c",
+    "name": "Jellybeam Shorty",
+    "weaponType": "Shorty",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Jellybeam Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4ef6bdeb-4626-7c77-f87d-f4bd7eae6b2d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4ef6bdeb-4626-7c77-f87d-f4bd7eae6b2d/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Jellybeam Shorty",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Jellybeam Shorty - Deluxe skin for Shorty",
+    "hiddenTags": []
+  },
+  {
+    "id": "9f48747340375b0a8cc6aab4ead88880",
+    "name": "Heartseeker Shorty",
+    "weaponType": "Shorty",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartseeker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9b5d06ff-4d88-2a95-afce-96a228cbb8bf/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9b5d06ff-4d88-2a95-afce-96a228cbb8bf/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartseeker Shorty",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartseeker Shorty - Select skin for Shorty",
+    "hiddenTags": []
+  },
+  {
+    "id": "3e3ad4024a7154cae764f89a2c2ff217",
+    "name": "Heartbreaker Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartbreaker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0f3f5018-4081-4b9e-795f-3494e91f49e9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0f3f5018-4081-4b9e-795f-3494e91f49e9/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartbreaker Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartbreaker Operator - Select skin for Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "94e98f1f4a49ef5fb995cf84750194b6",
+    "name": "ORA by OneTap Operator",
+    "weaponType": "Operator",
+    "rarity": "Ultra",
+    "cost": 2475,
+    "collection": "ORA by OneTap Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/5dfc59c5-4faf-d120-b7cf-4da129e4f8af/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/5dfc59c5-4faf-d120-b7cf-4da129e4f8af/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "ORA by OneTap Operator - Ultra skin for Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "c319c2304d988d9905bc7d8c02146570",
+    "name": "Stormborne Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4a005ab5-4d13-54a8-da10-41a66ec4b446/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4a005ab5-4d13-54a8-da10-41a66ec4b446/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Stormborne Operator - Select skin for Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "ef889a324951ae4044fe40a4da210060",
+    "name": "Nanomight Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/18252494-4654-9c9f-6086-a3b623fc0a9f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/18252494-4654-9c9f-6086-a3b623fc0a9f/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Guardian\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Guardian\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Guardian\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Nanomight Guardian - Deluxe skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "5bf741d94e0f12c317d1129befd702cd",
+    "name": "Dolmir's Revenge Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Dolmir's Revenge Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/46c6b89b-4f4a-a70e-7793-88b8072f4d82/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/46c6b89b-4f4a-a70e-7793-88b8072f4d82/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Dolmir's Revenge Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Guardian Level 4\n(Variant 1 Obsidian)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Guardian Level 4\n(Variant 2 Moss)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Revenge Guardian Level 4\n(Variant 3 Ice)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dolmir's Revenge Guardian - Exclusive skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "41e6c2044ba231dc70b44d99b4ac9668",
+    "name": "Solarstride Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Premium",
+    "cost": 1775,
+    "collection": "Solarstride Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b20ed144-49e4-d0d6-5e80-2f81451c70e2/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b20ed144-49e4-d0d6-5e80-2f81451c70e2/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Solarstride Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Solarstride Guardian Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Solarstride Guardian Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Solarstride Guardian Level 4\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Solarstride Guardian - Premium skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "4047a6674d1dbb68df9ea09bfa68d934",
+    "name": "Blackthorn Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackthorn Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1603c2f9-4ca9-8746-ac7a-78a074aaed4c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1603c2f9-4ca9-8746-ac7a-78a074aaed4c/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackthorn Guardian",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Guardian Level 4\n(Variant 1 Gold)",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Guardian Level 4\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Blackthorn Guardian Level 4\n(Variant 3 Purple Shear)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Blackthorn Guardian - Exclusive skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "b0913a8940a1aafacc8993bb6f9a4870",
+    "name": "Paceline Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Paceline Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9f5472f7-45f8-4bbe-75bb-f18fc8361456/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9f5472f7-45f8-4bbe-75bb-f18fc8361456/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Paceline Guardian",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Paceline Guardian - Deluxe skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "288407cb4812d285f5694880176b64d2",
+    "name": "Heartseeker Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartseeker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9ce7845f-4c4c-d1e4-8baf-e9a7e7de20ca/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9ce7845f-4c4c-d1e4-8baf-e9a7e7de20ca/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartseeker Guardian",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartseeker Guardian - Select skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "66e8e5e643cec8d5470ba5b0d69ed47d",
+    "name": "Stormborne Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Stormborne Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4e4baff1-4cc9-13e1-8cb5-da9b9ba3073d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4e4baff1-4cc9-13e1-8cb5-da9b9ba3073d/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Stormborne Guardian",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Stormborne Guardian - Select skin for Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "20c9c71544dce58f5fdf4593b24cf6fb",
+    "name": "Soulburst Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Soulburst Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7569a29f-4add-3982-b891-54a532e9155c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7569a29f-4add-3982-b891-54a532e9155c/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Soulburst Outlaw",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Soulburst Outlaw\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Soulburst Outlaw\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Soulburst Outlaw\n(Variant 3 Red)",
+        "color": "#FF0000"
+      }
+    ],
+    "description": "Soulburst Outlaw - Select skin for Outlaw",
+    "hiddenTags": []
+  },
+  {
+    "id": "1a097db147787049b62e6fa071ad7193",
+    "name": "Mystbloom Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6b6a6645-4f5c-c9fc-b20c-33a025b21ecb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6b6a6645-4f5c-c9fc-b20c-33a025b21ecb/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Outlaw",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Outlaw Level 4\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Outlaw Level 4\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Outlaw Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Mystbloom Outlaw - Exclusive skin for Outlaw",
+    "hiddenTags": []
+  },
+  {
+    "id": "db1044ad4da2d98192ce8685a1ead1a4",
+    "name": "Heartseeker Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartseeker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1785c300-46d0-47bc-d035-54ada5bd292b/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1785c300-46d0-47bc-d035-54ada5bd292b/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartseeker Outlaw",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartseeker Outlaw - Select skin for Outlaw",
+    "hiddenTags": []
+  },
+  {
+    "id": "04b1d6874e86101156a4a9816cf3f5e0",
+    "name": "Wasteland Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Wasteland Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/12120d07-41f2-d2c4-f476-82a5687f1e62/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/12120d07-41f2-d2c4-f476-82a5687f1e62/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Wasteland Outlaw",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Wasteland Outlaw - Deluxe skin for Outlaw",
+    "hiddenTags": [
+      "battlepass"
+    ]
+  },
+  {
+    "id": "93cd08364da1e8c9b1db0ea9d0eed269",
+    "name": "Superset Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Superset Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7bd25a14-4f21-d4d2-cad2-75843e4edab2/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7bd25a14-4f21-d4d2-cad2-75843e4edab2/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Superset Marshal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Superset Marshal - Select skin for Marshal",
+    "hiddenTags": []
+  },
+  {
+    "id": "a8f3a6704b8e9fc830bdf4b395d1ff5f",
+    "name": "SilkLeaf Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "SilkLeaf Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b4f6d49b-416d-2ae8-647d-9b88a52c5089/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b4f6d49b-416d-2ae8-647d-9b88a52c5089/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "SilkLeaf Marshal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "SilkLeaf Marshal - Deluxe skin for Marshal",
+    "hiddenTags": []
+  },
+  {
+    "id": "7c47be9b48a5752e7229f7b1668239dd",
+    "name": "Blackthorn Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackthorn Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/da4134fb-498e-3012-0297-d0a4aeed76f0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/da4134fb-498e-3012-0297-d0a4aeed76f0/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackthorn Marshal",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Marshal Level 4\n(Variant 1 Gold)",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Marshal Level 4\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Blackthorn Marshal Level 4\n(Variant 3 Purple Shear)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Blackthorn Marshal - Exclusive skin for Marshal",
+    "hiddenTags": []
+  },
+  {
+    "id": "fbb2acd54aef1f50da103084c323011c",
+    "name": "Prelude to Chaos Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Prelude to Chaos Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/00f580a5-4e03-f5df-545b-dfa18f361668/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/00f580a5-4e03-f5df-545b-dfa18f361668/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Prelude to Chaos Spectre",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Prelude to Chaos Spectre Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Prelude to Chaos Spectre Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Prelude to Chaos Spectre Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Prelude to Chaos Spectre - Exclusive skin for Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "05eebe8b47d5a6c59dbf0da47f93842e",
+    "name": "Jellybeam Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Jellybeam Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d6c59bf2-42f6-1403-646b-c8af6be2bdf5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d6c59bf2-42f6-1403-646b-c8af6be2bdf5/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Jellybeam Spectre",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Jellybeam Spectre - Deluxe skin for Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "6847054247f937e9875f1bb24f7a0cfa",
+    "name": "Soulburst Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Soulburst Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/354dcf5a-4a93-e5f7-75fc-49910d31c7e7/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/354dcf5a-4a93-e5f7-75fc-49910d31c7e7/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Soulburst Spectre",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Soulburst Spectre\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Soulburst Spectre\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Soulburst Spectre\n(Variant 3 Red)",
+        "color": "#FF0000"
+      }
+    ],
+    "description": "Soulburst Spectre - Select skin for Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "f31e4763458a961cf958ad8ea4973021",
+    "name": "Montage Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a32c7595-4f91-5253-9bf9-77b72b116d29/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a32c7595-4f91-5253-9bf9-77b72b116d29/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Spectre",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Spectre\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Spectre\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Montage Spectre - Deluxe skin for Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "eee0304d45f16c081a534e850f594f51",
+    "name": "Nanomight Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Nanomight Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0df1e30e-4e75-929d-fb95-f1ad28daf985/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0df1e30e-4e75-929d-fb95-f1ad28daf985/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Stinger",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Stinger\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Stinger\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Stinger\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Nanomight Stinger - Deluxe skin for Stinger",
+    "hiddenTags": []
+  },
+  {
+    "id": "8068c6244e564360abe4eab38b43820d",
+    "name": "SilkLeaf Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "SilkLeaf Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cd02a6de-430c-2ce0-375d-69965d74a445/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cd02a6de-430c-2ce0-375d-69965d74a445/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "SilkLeaf Stinger",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "SilkLeaf Stinger - Deluxe skin for Stinger",
+    "hiddenTags": []
+  },
+  {
+    "id": "21f25ca246e0da6c295cf09d294b2d8d",
+    "name": "Paceline Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Deluxe",
+    "cost": "Battlepass",
+    "collection": "Paceline Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/503251c6-4a25-4d87-7413-b89dab34e088/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/503251c6-4a25-4d87-7413-b89dab34e088/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Paceline Stinger",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Paceline Stinger - Deluxe skin for Stinger",
+    "hiddenTags": []
+  },
+  {
+    "id": "fb8995984b23fe13021fccb674d6b3f6",
+    "name": "Heartseeker Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Select",
+    "cost": "Battlepass",
+    "collection": "Heartseeker Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/754037f3-45e0-507a-46c1-32ae613a26f0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/754037f3-45e0-507a-46c1-32ae613a26f0/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heartseeker Stinger",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Heartseeker Stinger - Select skin for Stinger",
+    "hiddenTags": []
+  },
+  {
+    "id": "6e0496c14c987abe16c47ca3653e5cd8",
+    "name": "Blade of Chaos",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Prelude to Chaos Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/54417551-4a5d-9b90-35dc-a28b93feb50b/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/54417551-4a5d-9b90-35dc-a28b93feb50b/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blade of Chaos",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Blade of Chaos Level 2\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Blade of Chaos Level 2\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Blade of Chaos Level 2\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Blade of Chaos - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "f1d98ecd4d6830af8908edafabcf18ab",
+    "name": "Nanomight Knuckles",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 2550,
+    "collection": "Nanomight Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a440f428-45ba-5579-cbe4-d2afebc25f08/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a440f428-45ba-5579-cbe4-d2afebc25f08/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Nanomight Knuckles",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Nanomight Knuckles\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Nanomight Knuckles\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Nanomight Knuckles\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Nanomight Knuckles - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "6fb14e4e41dfde2d98bcfcb68d27db48",
+    "name": "ORA by OneTap Knife",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4950,
+    "collection": "ORA by OneTap Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8cdc879e-4959-87e6-414d-7e924bbb566b/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8cdc879e-4959-87e6-414d-7e924bbb566b/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "ORA by OneTap Knife",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "ORA by OneTap Knife - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "13e1d87e4ff2d03c9b31168e5637858a",
+    "name": "Heart Splitter",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": "Battlepass",
+    "collection": "Heartstopper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/86400850-423e-518e-aa58-798b7edbf1d5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/86400850-423e-518e-aa58-798b7edbf1d5/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Heart Splitter",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Heart Splitter\n(Variant 1 Black)",
+        "color": "#000000"
+      },
+      {
+        "name": "Heart Splitter\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Heart Splitter - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "d74e34014996733455b680a504375b7a",
+    "name": "Dolmir's Judgement",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Dolmir's Revenge Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/83272460-40e1-a592-2c4b-dcb5509e9ccc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/83272460-40e1-a592-2c4b-dcb5509e9ccc/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Dolmir's Judgement",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Judgement Level 2\n(Variant 1 Obsidian)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Judgement Level 2\n(Variant 2 Moss)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Dolmir's Judgement Level 2\n(Variant 3 Ice)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Dolmir's Judgement - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "6b689d7146036140f4a236a297ff3fdb",
+    "name": "Jellybeam Sugarslice",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 2550,
+    "collection": "Jellybeam Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7a7115c3-4938-8a53-3dc6-66a5e9923ecd/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7a7115c3-4938-8a53-3dc6-66a5e9923ecd/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Jellybeam Sugarslice",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Jellybeam Sugarslice - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "846e247746bfa5830d358db82054e53a",
+    "name": "Solarstride Flamethrower",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 3550,
+    "collection": "Solarstride Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/53490399-4ef4-dc9f-9d4f-fab8d00ab697/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/53490399-4ef4-dc9f-9d4f-fab8d00ab697/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Solarstride Flamethrower",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Solarstride Flamethrower Level 2\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Solarstride Flamethrower Level 2\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Solarstride Flamethrower Level 2\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Solarstride Flamethrower - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "d901cc4643c7ebe89c5af7963f1a4db3",
+    "name": "Champions 2025 Butterfly Knife",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 5350,
+    "collection": "Champions 2025 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/471b294d-41ec-93c8-d470-af87fcabd94f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/471b294d-41ec-93c8-d470-af87fcabd94f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Champions 2025 Butterfly Knife",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Champions 2025 Butterfly Knife - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "0a5304664d70b221c056659a535a128b",
+    "name": "Montage Axe",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": "Battlepass",
+    "collection": "Montage Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/50cf41a3-40e8-af02-2c11-eb935a7a9b72/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/50cf41a3-40e8-af02-2c11-eb935a7a9b72/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Montage Axe",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Montage Axe\n(Variant 1 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Montage Axe\n(Variant 2 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Montage Axe - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "4ffeeeff49f745781506c8ac8c7dc289",
+    "name": "SilkLeaf Fan",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 2550,
+    "collection": "SilkLeaf Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c3b03f2a-40cd-d23c-489e-fa85314e42f7/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c3b03f2a-40cd-d23c-489e-fa85314e42f7/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "SilkLeaf Fan",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "SilkLeaf Fan - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "fa0972de486816794a3e7bb357f7f281",
+    "name": "Blackthorn Blades",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Blackthorn Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/e57becd4-4580-d8ca-1391-95815f421d94/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/e57becd4-4580-d8ca-1391-95815f421d94/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackthorn Blades",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Blades Level 2\n(Variant 1 Gold)",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackthorn Blades Level 2\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Blackthorn Blades Level 2\r\n(Variant 3 Purple Shear)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Blackthorn Blades - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "81c37ac148d497477fd656932358a3fe",
+    "name": "Reaver Butterfly Knife",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 5350,
+    "collection": "Reaver Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f36aca9c-4138-3e30-fb23-9c80b619cd6f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f36aca9c-4138-3e30-fb23-9c80b619cd6f/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Reaver Butterfly Knife",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Reaver Butterfly Knife Level 2\r\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Reaver Butterfly Knife Level 2\r\n(Variant 2 Black)",
+        "color": "#000000"
+      },
+      {
+        "name": "Reaver Butterfly Knife Level 2\r\n(Variant 3 White)",
+        "color": "#FFFFFF"
+      }
+    ],
+    "description": "Reaver Butterfly Knife - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "9fb116be4fe40a43375d88b96b579b40",
+    "name": "Paceline's Edge",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": "Battlepass",
+    "collection": "Paceline Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1d4c295e-4988-b848-8294-d880e2b00de7/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1d4c295e-4988-b848-8294-d880e2b00de7/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Paceline's Edge",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Paceline's Edge - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "a0d4ac37416bae62aa3648803714e25f",
+    "name": "Mystbloom Fanblade",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Mystbloom Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/81931c67-4c80-6dbb-7832-759d5b193b25/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/81931c67-4c80-6dbb-7832-759d5b193b25/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Mystbloom Fanblade",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Mystbloom Fanblade Level 2\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Mystbloom Fanblade Level 2\n(Variant 2 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Mystbloom Fanblade Level 2\r\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Mystbloom Fanblade - Exclusive skin for Melee",
+    "hiddenTags": []
+  },
+  {
+    "id": "53c003f541f8f94673101ebfd3509aec",
+    "name": "VCT 2026 Sigil",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "VCT 2026 Season Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/27262e01-4cea-6fcb-b45a-90b95ba59625/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/27262e01-4cea-6fcb-b45a-90b95ba59625/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "VCT 2026 Sigil",
+        "color": "#ffffff"
+      },
+      {
+        "name": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "VCT 2026 Sigil - Exclusive skin for Melee",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "9ccde7384d2644e3189eddaebb95e64e",
+    "name": "Wasteland Crowbar",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 2550,
+    "collection": "Wasteland Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4da3193d-4884-7a53-aa04-14878acd4546/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4da3193d-4884-7a53-aa04-14878acd4546/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Wasteland Crowbar",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Wasteland Crowbar - Exclusive skin for Melee",
+    "hiddenTags": [
+      "battlepass"
+    ]
   },
   {
     "id": "987e847d47d26ab323690497b6c39a7e",
@@ -29712,287 +32002,7 @@
         "color": "#0000FF"
       }
     ],
-    "description": "Bundle Cost 7160",
+    "description": "Kogitsune - Exclusive skin for Melee",
     "hiddenTags": []
-  },
-  {
-    "id": "6ca0d0724fb0fa690c766cbc2d9eeab3",
-    "name": "Stormborne Sheriff",
-    "weaponType": "Sheriff",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Stormborne Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/39b6299e-4f81-5902-467f-79adf6e47122/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/39b6299e-4f81-5902-467f-79adf6e47122/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Stormborne Sheriff",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "66e8e5e643cec8d5470ba5b0d69ed47d",
-    "name": "Stormborne Guardian",
-    "weaponType": "Guardian",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Stormborne Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4e4baff1-4cc9-13e1-8cb5-da9b9ba3073d/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4e4baff1-4cc9-13e1-8cb5-da9b9ba3073d/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Stormborne Guardian",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "bc0478c84b7ab6f6eb1e95bab0485435",
-    "name": "Stormborne Bucky",
-    "weaponType": "Bucky",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Stormborne Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1b8cbf78-45cd-3140-6064-688def115317/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1b8cbf78-45cd-3140-6064-688def115317/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Stormborne Bucky",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "c319c2304d988d9905bc7d8c02146570",
-    "name": "Stormborne Operator",
-    "weaponType": "Operator",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Stormborne Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4a005ab5-4d13-54a8-da10-41a66ec4b446/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4a005ab5-4d13-54a8-da10-41a66ec4b446/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Stormborne Operator",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "93cd08364da1e8c9b1db0ea9d0eed269",
-    "name": "Superset Marshal",
-    "weaponType": "Marshal",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Superset Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7bd25a14-4f21-d4d2-cad2-75843e4edab2/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7bd25a14-4f21-d4d2-cad2-75843e4edab2/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Superset Marshal",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "960fa9ae4f429601c722a797a90ec122",
-    "name": "Superset Classic",
-    "weaponType": "Classic",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Superset Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/38bccd91-481b-7efa-2d03-168111f44299/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/38bccd91-481b-7efa-2d03-168111f44299/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Superset Classic",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "c9c999ae4bc4df1c328dad93c0d81368",
-    "name": "Superset Vandal",
-    "weaponType": "Vandal",
-    "rarity": "Select",
-    "cost": "Battlepass",
-    "collection": "Superset Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/64241e28-4242-c309-a84a-008b97dd5b25/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/64241e28-4242-c309-a84a-008b97dd5b25/fullrender.png",
-    "hasColorVariants": false,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Superset Vandal",
-        "color": "#ffffff"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "f31e4763458a961cf958ad8ea4973021",
-    "name": "Montage Spectre",
-    "weaponType": "Spectre",
-    "rarity": "Deluxe",
-    "cost": "Battlepass",
-    "collection": "Montage Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a32c7595-4f91-5253-9bf9-77b72b116d29/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a32c7595-4f91-5253-9bf9-77b72b116d29/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Montage Spectre",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Montage Spectre\n(Variant 1 Pink)",
-        "color": "#FFC0CB"
-      },
-      {
-        "name": "Montage Spectre\n(Variant 2 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "af9b3af74ae62e0738196da4bc9d50b9",
-    "name": "Montage Phantom",
-    "weaponType": "Phantom",
-    "rarity": "Deluxe",
-    "cost": "Battlepass",
-    "collection": "Montage Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6349ea5e-40de-bd8f-6657-34af1f0183f8/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6349ea5e-40de-bd8f-6657-34af1f0183f8/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Montage Phantom",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Montage Phantom\n(Variant 1 Pink)",
-        "color": "#FFC0CB"
-      },
-      {
-        "name": "Montage Phantom\n(Variant 2 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "de06622c4bf3d9af219111bf1c55ca54",
-    "name": "Montage Ares",
-    "weaponType": "Ares",
-    "rarity": "Deluxe",
-    "cost": "Battlepass",
-    "collection": "Montage Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3d54e034-4d0b-948e-17dc-998d96960bcc/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3d54e034-4d0b-948e-17dc-998d96960bcc/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Montage Ares",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Montage Ares\n(Variant 1 Pink)",
-        "color": "#FFC0CB"
-      },
-      {
-        "name": "Montage Ares\n(Variant 2 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "0a5304664d70b221c056659a535a128b",
-    "name": "Montage Axe",
-    "weaponType": "Melee",
-    "rarity": "Exclusive",
-    "cost": "Battlepass",
-    "collection": "Montage Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/50cf41a3-40e8-af02-2c11-eb935a7a9b72/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/50cf41a3-40e8-af02-2c11-eb935a7a9b72/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Montage Axe",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Montage Axe\n(Variant 1 Pink)",
-        "color": "#FFC0CB"
-      },
-      {
-        "name": "Montage Axe\n(Variant 2 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
-  },
-  {
-    "id": "66823deb48b3dc1b81a169b59b9e4b0f",
-    "name": "Montage Frenzy",
-    "weaponType": "Frenzy",
-    "rarity": "Deluxe",
-    "cost": "Battlepass",
-    "collection": "Montage Collection",
-    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/77baf127-4834-1e6b-0e22-7aad3e2f531e/fullrender.png",
-    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/77baf127-4834-1e6b-0e22-7aad3e2f531e/fullrender.png",
-    "hasColorVariants": true,
-    "hasAnimations": false,
-    "colorVariants": [
-      {
-        "name": "Montage Frenzy",
-        "color": "#ffffff"
-      },
-      {
-        "name": "Montage Frenzy\n(Variant 1 Pink)",
-        "color": "#FFC0CB"
-      },
-      {
-        "name": "Montage Frenzy\n(Variant 2 Purple)",
-        "color": "#800080"
-      }
-    ],
-    "description": "Obtained in Battlepass",
-    "hiddenTags": ["battlepass"]
   }
 ]

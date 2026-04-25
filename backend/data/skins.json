@@ -32008,5 +32008,165 @@
     ],
     "description": "Bundle Cost 7160",
     "hiddenTags": []
+  },
+  {
+    "id": "7c4f7e274dcb0b66659fcc94d720e67e",
+    "name": "Holo Meridian Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Holo Meridian Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/aa6c599d-42a6-326d-5c4a-3895308ddfb6/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/aa6c599d-42a6-326d-5c4a-3895308ddfb6/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Holo Meridian Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Holo Meridian Vandal Level 4\n(Variant 1 Yellow)",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "Holo Meridian Vandal Level 4\r\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Holo Meridian Vandal Level 4\n(Variant 3 Orange)",
+        "color": "#FFA500"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "d07a726647571da9e957baa93c9fc43f",
+    "name": "Holo Meridian Judge",
+    "weaponType": "Judge",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Holo Meridian Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a797a1fc-4150-36fc-68e2-1a87a2a4e088/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a797a1fc-4150-36fc-68e2-1a87a2a4e088/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Holo Meridian Judge",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Holo Meridian Judge Level 4\n(Variant 1 Yellow)",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "Holo Meridian Judge Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Holo Meridian Judge Level 4\n(Variant 3 Orange)",
+        "color": "#FFA500"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "5ff60bfc4a7fb9bf245df2b4e31de6a4",
+    "name": "Holo Meridian Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Holo Meridian Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/15cfe9f1-4eb1-8b21-9cf0-67bd31062802/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/15cfe9f1-4eb1-8b21-9cf0-67bd31062802/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Holo Meridian Sheriff",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Holo Meridian Sheriff Level 4\n(Variant 1 Yellow)",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "Holo Meridian Sheriff Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Holo Meridian Sheriff Level 4\n(Variant 3 Orange)",
+        "color": "#FFA500"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "c60a54484eb59fd7991b029a325a3281",
+    "name": "Holo Meridian Operator",
+    "weaponType": "Operator",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Holo Meridian Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9583f06e-4fee-bd0e-563d-eda4ea754636/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9583f06e-4fee-bd0e-563d-eda4ea754636/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Holo Meridian Operator",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Holo Meridian Operator Level 4\n(Variant 1 Yellow)",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "Holo Meridian Operator Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Holo Meridian Operator Level 4\n(Variant 3 Orange)",
+        "color": "#FFA500"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
+  },
+  {
+    "id": "81b1f8554f18382ba06edead577fdf49",
+    "name": "Holoflare",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Holo Meridian Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1db84ec1-4649-80df-7884-a3abd074cf14/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1db84ec1-4649-80df-7884-a3abd074cf14/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Holoflare",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Holoflare Level 2\n(Variant 1 Yellow)",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "Holoflare Level 2\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Holoflare Level 2\r\n(Variant 3 Orange)",
+        "color": "#FFA500"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": []
   }
 ]

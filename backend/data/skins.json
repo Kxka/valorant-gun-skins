@@ -32168,5 +32168,486 @@
     ],
     "description": "Bundle Cost 8700",
     "hiddenTags": []
+  },
+  {
+    "id": "ca1a3ade480935eacd96b687149f4945",
+    "name": "Insidious Odin",
+    "weaponType": "Odin",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Insidious Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d2a6429f-4d7a-a70f-3a0e-7f8303773b7a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d2a6429f-4d7a-a70f-3a0e-7f8303773b7a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Insidious Odin",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Insidious Odin",
+    "hiddenTags": []
+  },
+  {
+    "id": "d40afbc04cb6d8eca5e823afdfdc9dc3",
+    "name": "Keys to Elysium Ares",
+    "weaponType": "Ares",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Keys to Elysium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8c219c09-479c-6f0e-a8cc-668f4a9e9d22/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8c219c09-479c-6f0e-a8cc-668f4a9e9d22/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keys to Elysium Ares",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keys to Elysium Ares\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Keys to Elysium Ares\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Keys to Elysium Ares\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Keys to Elysium Ares",
+    "hiddenTags": []
+  },
+  {
+    "id": "1bac9c8745f6ee1c7f1256a3e2658478",
+    "name": "Keys to Elysium Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Keys to Elysium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a4b8fc11-4a97-42b1-47d5-aa9603740161/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a4b8fc11-4a97-42b1-47d5-aa9603740161/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keys to Elysium Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keys to Elysium Vandal\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Keys to Elysium Vandal\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Keys to Elysium Vandal\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Keys to Elysium Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "5f4992ca4a26a9262b0f53a2e28d9c9c",
+    "name": "Insidious Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Insidious Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/49bb22d3-4765-6c8b-33ee-758bb22afacd/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/49bb22d3-4765-6c8b-33ee-758bb22afacd/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Insidious Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Insidious Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "3f6410af4fd774fbc0f46ab61d30022c",
+    "name": "Kuronami Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Kuronami Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cb1ad7ed-4f7d-3708-08db-6e9137ba4ca8/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cb1ad7ed-4f7d-3708-08db-6e9137ba4ca8/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Kuronami Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Kuronami Phantom Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Kuronami Phantom Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Kuronami Phantom Level 4\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Bundle Cost 9500",
+    "hiddenTags": []
+  },
+  {
+    "id": "e47b971f4eaf89b9a42f7f8a01cf3106",
+    "name": "Crash Out Bucky",
+    "weaponType": "Bucky",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Crash Out Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/11c0e2ec-429e-bd4b-8b8a-759d5587026b/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/11c0e2ec-429e-bd4b-8b8a-759d5587026b/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Crash Out Bucky",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Crash Out Bucky",
+    "hiddenTags": []
+  },
+  {
+    "id": "3d4d02e64529d7190166eb988b220cac",
+    "name": "Insidious Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Insidious Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/19aadfd1-4058-045a-4817-b5ac4891bb87/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/19aadfd1-4058-045a-4817-b5ac4891bb87/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Insidious Frenzy",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Insidious Frenzy",
+    "hiddenTags": []
+  },
+  {
+    "id": "a2cb19e6407cf19bffaee9be7fe25abd",
+    "name": "Crash Out Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Crash Out Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/aa3cc912-4a9c-7d99-b458-ccae301a87be/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/aa3cc912-4a9c-7d99-b458-ccae301a87be/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Crash Out Bandit",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Crash Out Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "431799d64e79bdf2573d4cbc8112982e",
+    "name": "Kuronami Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Kuronami Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/704ce0e7-4922-4716-df78-b081db8fd336/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/704ce0e7-4922-4716-df78-b081db8fd336/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Kuronami Ghost",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Kuronami Ghost Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Kuronami Ghost Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Kuronami Ghost Level 4\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Bundle Cost 9500",
+    "hiddenTags": []
+  },
+  {
+    "id": "9b225d0f43753c8f2a40eebf1f36a01c",
+    "name": "Keys to Elysium Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Keys to Elysium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b59fad8f-4d71-09df-fe12-d79c4f9d5d77/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b59fad8f-4d71-09df-fe12-d79c4f9d5d77/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keys to Elysium Sheriff",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keys to Elysium Sheriff\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Keys to Elysium Sheriff\r\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Keys to Elysium Sheriff\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Keys to Elysium Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "a709ad2245d50b515de285ad5c5ca405",
+    "name": "Kuronami Operator",
+    "weaponType": "Operator",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Kuronami Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2ed7173c-4fd9-46e9-20b2-7797875fe4b5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2ed7173c-4fd9-46e9-20b2-7797875fe4b5/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Kuronami Operator",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Kuronami Operator Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Kuronami Operator Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Kuronami Operator Level 4\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Bundle Cost 9500",
+    "hiddenTags": []
+  },
+  {
+    "id": "cf3ccc6745709a2119024ea07a0070af",
+    "name": "Kuronami Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Exclusive",
+    "cost": 2375,
+    "collection": "Kuronami Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0616111d-4827-5aa6-5629-7884a8819ece/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0616111d-4827-5aa6-5629-7884a8819ece/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Kuronami Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Kuronami Guardian Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Kuronami Guardian Level 4\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Kuronami Guardian Level 4\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Bundle Cost 9500",
+    "hiddenTags": []
+  },
+  {
+    "id": "ae6ca8204795505476f8a186b636b231",
+    "name": "Keys to Elysium Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Keys to Elysium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1d816974-4409-eb19-9697-4ca6985b93e6/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1d816974-4409-eb19-9697-4ca6985b93e6/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keys to Elysium Outlaw",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keys to Elysium Outlaw\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Keys to Elysium Outlaw\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Keys to Elysium Outlaw\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Keys to Elysium Outlaw",
+    "hiddenTags": []
+  },
+  {
+    "id": "dbc02d434a71573c1bebc1b7e0274b74",
+    "name": "Insidious Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Insidious Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a81274c3-46b7-1993-d623-a0804862e8ac/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a81274c3-46b7-1993-d623-a0804862e8ac/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Insidious Marshal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Insidious Marshal",
+    "hiddenTags": []
+  },
+  {
+    "id": "1bc10f1f4140cd8c4cc664b1983b04f2",
+    "name": "Crash Out Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Crash Out Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/85200e05-4ee9-2fb8-ac87-0183db2100b9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/85200e05-4ee9-2fb8-ac87-0183db2100b9/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Crash Out Spectre",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Crash Out Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "5e589d744b102a1558b8e5b8293f3b77",
+    "name": "Crash Out Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Crash Out Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6aafb330-4ce9-1545-182b-6fb28a805140/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6aafb330-4ce9-1545-182b-6fb28a805140/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Crash Out Stinger",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Crash Out Stinger",
+    "hiddenTags": []
+  },
+  {
+    "id": "d08733464e42238e0251a399eff11f2f",
+    "name": "Kuronami Naru-Kami",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 5350,
+    "collection": "Kuronami Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4fb8aaea-434f-03e6-8757-808de73c0d48/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4fb8aaea-434f-03e6-8757-808de73c0d48/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Kuronami Naru-Kami",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Kuronami Naru-Kami Level 2\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Kuronami Naru-Kami Level 2\n(Variant 2 White)",
+        "color": "#FFFFFF"
+      },
+      {
+        "name": "Kuronami Naru-Kami Level 2\n(Variant 3 Black)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Bundle Cost 9500",
+    "hiddenTags": []
+  },
+  {
+    "id": "e835360842650adc099321b7012dbb61",
+    "name": "Keys to Elysium",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Keys to Elysium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4ffc402b-4710-d60e-e1a9-46ad68c26191/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4ffc402b-4710-d60e-e1a9-46ad68c26191/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keys to Elysium",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keys to Elysium\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Keys to Elysium\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Keys to Elysium\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Keys to Elysium",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

@@ -32649,5 +32649,170 @@
     ],
     "description": "Bundle Cost 8700",
     "hiddenTags": []
+  },
+  {
+    "id": "1b9b013142feb6a7d212699b342ba642",
+    "name": "Rogue Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Rogue Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b2a27b8b-41d2-af46-50a2-b1a3abb42c76/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b2a27b8b-41d2-af46-50a2-b1a3abb42c76/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Rogue Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Rogue Vandal Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Rogue Vandal Level 4\r\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Rogue Vandal Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Rogue Vandal",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "ea3e6c8a4e5ebaf933c37abacf07aaee",
+    "name": "Rogue Bucky",
+    "weaponType": "Bucky",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Rogue Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/831500b0-4d3e-c635-883d-6eafe85a0acc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/831500b0-4d3e-c635-883d-6eafe85a0acc/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Rogue Bucky",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Rogue Bucky Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Rogue Bucky Level 4\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Rogue Bucky Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Rogue Bucky",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "902a3bcb41643315fe032088fb897ce4",
+    "name": "Rogue Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Rogue Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f8cd2463-4de6-2f96-561b-c0ab717995f9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f8cd2463-4de6-2f96-561b-c0ab717995f9/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Rogue Bandit",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Rogue Bandit Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Rogue Bandit Level 4\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Rogue Bandit Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Rogue Bandit",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "2460c8524d1ba9e3ccda43a8e30cb739",
+    "name": "Rogue Operator",
+    "weaponType": "Operator",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Rogue Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1e92f9b1-4195-0bf9-f203-a1a510194079/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1e92f9b1-4195-0bf9-f203-a1a510194079/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Rogue Operator",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Rogue Operator Level 4\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Rogue Operator Level 4\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Rogue Operator Level 4\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Rogue Operator",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "1c8084694aeeae6cfcd21099e96ac6a0",
+    "name": "Rogue Push Daggers",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Rogue Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/babf3b14-45e0-410f-b99e-d3b6af1a6d8a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/babf3b14-45e0-410f-b99e-d3b6af1a6d8a/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Rogue Push Daggers",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Rogue Push Daggers Level 2\n(Variant 1 Green)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Rogue Push Daggers Level 2\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Rogue Push Daggers Level 2\r\n(Variant 3 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Rogue Push Daggers",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

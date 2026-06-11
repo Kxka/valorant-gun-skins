@@ -32814,5 +32814,106 @@
     "description": "Rogue Push Daggers",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "175393f44e6074034a4d95818f6cc007",
+    "name": "Hi-DR0 Ares",
+    "weaponType": "Ares",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Hi-DR0 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/09e2918b-4e63-8c70-0691-24ad015c8ea0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/09e2918b-4e63-8c70-0691-24ad015c8ea0/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Hi-DR0 Ares",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Hi-DR0 Ares",
+    "hiddenTags": []
+  },
+  {
+    "id": "46e46c4745e6cf2d0fae32ad3ab7e92c",
+    "name": "Hi-DR0 Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Hi-DR0 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b317bdf8-4609-e270-8cbb-83ada59ca94f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b317bdf8-4609-e270-8cbb-83ada59ca94f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Hi-DR0 Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Hi-DR0 Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "e295f9f7409000dc3f598d844567a318",
+    "name": "Hi-DR0 Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Hi-DR0 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2e7c7875-4f4e-6797-6bd9-4a94e267b82e/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2e7c7875-4f4e-6797-6bd9-4a94e267b82e/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Hi-DR0 Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Hi-DR0 Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "2943a7ea4c8169241ba05b9f080d3c13",
+    "name": "Hi-DR0 Operator",
+    "weaponType": "Operator",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Hi-DR0 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/03e360d4-4376-64d4-211d-edb3c5b86003/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/03e360d4-4376-64d4-211d-edb3c5b86003/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Hi-DR0 Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Hi-DR0 Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "9cf4b95c4a42c0ab0d97c0927abffd92",
+    "name": "Hi-DR0 Baton",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Hi-DR0 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/87526251-494c-6772-d97a-13b0a85d138d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/87526251-494c-6772-d97a-13b0a85d138d/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Hi-DR0 Baton",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Hi-DR0 Baton",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

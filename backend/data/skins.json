@@ -32915,5 +32915,451 @@
     "description": "Hi-DR0 Baton",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "80bb82f948917340c8d87daac5567ee2",
+    "name": "Blackspyre Ares",
+    "weaponType": "Ares",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackspyre Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c1b58212-4352-d213-3a3c-7ba98d5789af/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c1b58212-4352-d213-3a3c-7ba98d5789af/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackspyre Ares",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackspyre Ares Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Blackspyre Ares Level 4\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Blackspyre Ares Level 4\n(Variant 3 White)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Blackspyre Ares",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "87fb2de64ead37a5c1685ab3cd684517",
+    "name": "Sky Reaper Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Sky Reaper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3a51ee30-489b-338c-8395-14a354782b8c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3a51ee30-489b-338c-8395-14a354782b8c/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Sky Reaper Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Sky Reaper Vandal\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Sky Reaper Vandal\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Sky Reaper Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "a6d3db824d02058efedadeabd6b52b46",
+    "name": "Intertwine Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Intertwine Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f1a66c3f-4a10-107f-3c4f-909e4e0f62c9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f1a66c3f-4a10-107f-3c4f-909e4e0f62c9/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Intertwine Bulldog",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Intertwine Bulldog",
+    "hiddenTags": []
+  },
+  {
+    "id": "b737c1034c615a4b33e1f0a12f9ceba8",
+    "name": "Tacti-Guild Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Tacti-Guild Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cebbb9d9-4f8f-5c1b-70b3-24a9dd8f40ca/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cebbb9d9-4f8f-5c1b-70b3-24a9dd8f40ca/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Tacti-Guild Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Tacti-Guild Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "02ed72994035c9734a269f8c6d454e63",
+    "name": "Blackspyre Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackspyre Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/566c1ead-4185-05ac-62be-02ad8b42ce8c/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/566c1ead-4185-05ac-62be-02ad8b42ce8c/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackspyre Phantom",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackspyre Phantom Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Blackspyre Phantom Level 4\r\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Blackspyre Phantom Level 4\n(Variant 3 White)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Blackspyre Phantom",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "1b3bc04340d512f57ef1bcadf7977e9d",
+    "name": "Tacti-Guild Judge",
+    "weaponType": "Judge",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Tacti-Guild Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/1fbe3e5d-42e6-1319-dc06-80aefa103d17/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/1fbe3e5d-42e6-1319-dc06-80aefa103d17/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Tacti-Guild Judge",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Tacti-Guild Judge",
+    "hiddenTags": []
+  },
+  {
+    "id": "e1fed5e043697de02545b6ab4c0f7369",
+    "name": "Sky Reaper Bucky",
+    "weaponType": "Bucky",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Sky Reaper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d34ae01e-468e-5e37-448b-f491dbe1f0ef/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d34ae01e-468e-5e37-448b-f491dbe1f0ef/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Sky Reaper Bucky",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Sky Reaper Bucky\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Sky Reaper Bucky\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Sky Reaper Bucky",
+    "hiddenTags": []
+  },
+  {
+    "id": "34a8c77647a9e15dfe4d0c86b2cefb43",
+    "name": "Tacti-Guild Classic",
+    "weaponType": "Classic",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Tacti-Guild Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3fdd7b30-44a8-82fe-2678-2f8994f2670f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3fdd7b30-44a8-82fe-2678-2f8994f2670f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Tacti-Guild Classic",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Tacti-Guild Classic",
+    "hiddenTags": []
+  },
+  {
+    "id": "da0f5e8a4413d3c77c149ca4af77a0dd",
+    "name": "Sky Reaper Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Sky Reaper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9b37dede-4d2d-4fe1-e846-ea85b259adda/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9b37dede-4d2d-4fe1-e846-ea85b259adda/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Sky Reaper Ghost",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Sky Reaper Ghost\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Sky Reaper Ghost\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Sky Reaper Ghost",
+    "hiddenTags": []
+  },
+  {
+    "id": "8504529f455564a66f1828a4438336e1",
+    "name": "Blackspyre Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackspyre Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/869d9325-4712-5e62-afc4-15843ad56b76/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/869d9325-4712-5e62-afc4-15843ad56b76/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackspyre Sheriff",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackspyre Sheriff Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Blackspyre Sheriff Level 4\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Blackspyre Sheriff Level 4\n(Variant 3 White)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Blackspyre Sheriff",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "e7ec70cb4e16255ecaa4fea9a78c8084",
+    "name": "Intertwine Shorty",
+    "weaponType": "Shorty",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Intertwine Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/81ea2bb0-40ab-616c-55d1-308a1f7ba7d8/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/81ea2bb0-40ab-616c-55d1-308a1f7ba7d8/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Intertwine Shorty",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Intertwine Shorty",
+    "hiddenTags": []
+  },
+  {
+    "id": "b035b1a248aa6e3daf6735b48dd21f49",
+    "name": "Intertwine Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Intertwine Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/550715d6-42ae-5622-b67e-0599cc7f59e1/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/550715d6-42ae-5622-b67e-0599cc7f59e1/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Intertwine Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Intertwine Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "d0a78e3a4b3603b5f3f304826a640fed",
+    "name": "Intertwine Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Intertwine Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/167f0b5e-4f2f-c5ff-747f-198af9b24ba9/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/167f0b5e-4f2f-c5ff-747f-198af9b24ba9/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Intertwine Guardian",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Intertwine Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "e6d41dab4d18255e8a4d8cb79f3b3579",
+    "name": "Sky Reaper Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Sky Reaper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/89bc153c-4f73-55ca-53ac-27bfda5b99bf/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/89bc153c-4f73-55ca-53ac-27bfda5b99bf/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Sky Reaper Spectre",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Sky Reaper Spectre\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Sky Reaper Spectre\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Sky Reaper Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "2052a76e411aebfce516fd80dba0ddf9",
+    "name": "Blackspyre Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Blackspyre Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4e3eb54c-401e-ebd2-0a19-a9b83db52883/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4e3eb54c-401e-ebd2-0a19-a9b83db52883/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackspyre Spectre",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackspyre Spectre Level 4\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Blackspyre Spectre Level 4\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Blackspyre Spectre Level 4\n(Variant 3 White)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Blackspyre Spectre",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "362a42f44404db85267c55bbe1b08f52",
+    "name": "Sky Reaper Sword",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Sky Reaper Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/04a5fcc8-4ae0-2154-2da6-d6967872e1b6/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/04a5fcc8-4ae0-2154-2da6-d6967872e1b6/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Sky Reaper Sword",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Sky Reaper Sword\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Sky Reaper Sword\n(Variant 2 Blue)",
+        "color": "#0000FF"
+      }
+    ],
+    "description": "Sky Reaper Sword",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "a179674b4069ea5fb86d1f8aa15f8d74",
+    "name": "Blackspyre Divide",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Blackspyre Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/48134e52-4636-67af-fe0b-46a971485efc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/48134e52-4636-67af-fe0b-46a971485efc/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Blackspyre Divide",
+        "color": "#000000"
+      },
+      {
+        "name": "Blackspyre Divide Level 2\n(Variant 1 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Blackspyre Divide Level 2\n(Variant 2 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Blackspyre Divide Level 2\r\n(Variant 3 White)",
+        "color": "#000000"
+      }
+    ],
+    "description": "Blackspyre Divide",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

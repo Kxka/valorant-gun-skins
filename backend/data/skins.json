@@ -33361,5 +33361,104 @@
     "description": "Blackspyre Divide",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "5ef15ada4332093fea158a8891d863d0",
+    "name": "Neo Frontier Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Neo Frontier Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3b50ed7c-45d5-b5f6-2189-2293c0629eb6/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3b50ed7c-45d5-b5f6-2189-2293c0629eb6/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Neo Frontier Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Neo Frontier Vandal Level 4\n(Variant 1 Gold)",
+        "color": "#FFD700"
+      },
+      {
+        "name": "Neo Frontier Vandal Level 4\n(Variant 2 Silver)",
+        "color": "#C0C0C0"
+      },
+      {
+        "name": "Neo Frontier Vandal Level 4\n(Variant 3 Copper)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "de88d3664d2b655f345c719b97ddf9d9",
+    "name": "Neo Frontier Shorty",
+    "weaponType": "Shorty",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Neo Frontier Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/23193fee-42c2-e7e4-9e76-60a2aee12057/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/23193fee-42c2-e7e4-9e76-60a2aee12057/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Neo Frontier Shorty",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Neo Frontier Shorty Level 4\n(Variant 1 Gold)",
+        "color": "#FFD700"
+      },
+      {
+        "name": "Neo Frontier Shorty Level 4\n(Variant 2 Silver)",
+        "color": "#C0C0C0"
+      },
+      {
+        "name": "Neo Frontier Shorty Level 4\n(Variant 3 Copper)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "38d47ee7414d8cee5bbdaca16656cda9",
+    "name": "Neo Frontier Lasso",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Neo Frontier Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6a10ca7a-4ec8-4ce2-aded-2ebc4ba6c351/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6a10ca7a-4ec8-4ce2-aded-2ebc4ba6c351/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Neo Frontier Lasso",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Neo Frontier Lasso Level 2\n(Variant 1 Gold)",
+        "color": "#FFD700"
+      },
+      {
+        "name": "Neo Frontier Lasso Level 2\n(Variant 2 Silver)",
+        "color": "#C0C0C0"
+      },
+      {
+        "name": "Neo Frontier Lasso Level 2\n(Variant 3 Copper)",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 8700",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

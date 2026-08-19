@@ -33460,5 +33460,471 @@
     "description": "Bundle Cost 8700",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "e434418b4a7953533cfc5a85af91ef0b",
+    "name": "Gourmand Ares",
+    "weaponType": "Ares",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Gourmand Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/08e01856-4db1-9d05-734a-78964e2d6192/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/08e01856-4db1-9d05-734a-78964e2d6192/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Gourmand Ares",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Gourmand Ares",
+    "hiddenTags": []
+  },
+  {
+    "id": "7f26d04c44fb1d6516f04f827686d72b",
+    "name": "Verdant Cafe Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Verdant Cafe Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/fea30a69-4b86-2a75-a97b-d1949cfc4d41/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/fea30a69-4b86-2a75-a97b-d1949cfc4d41/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Verdant Cafe Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Verdant Cafe Vandal\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Verdant Cafe Vandal\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Verdant Cafe Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "b494ddd144596976673600a563a74376",
+    "name": "Aeris Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Aeris Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/aff9bc95-4c4f-8e5f-2325-1cbff7aa7bfd/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/aff9bc95-4c4f-8e5f-2325-1cbff7aa7bfd/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Aeris Vandal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Aeris Vandal Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Aeris Vandal Level 4\r\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Aeris Vandal Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Aeris Vandal",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "6c3b641c47024eb6cd26ab851c04b8ba",
+    "name": "Verdant Cafe Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Verdant Cafe Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2e0f85e1-4315-7660-4a61-7b989499abea/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2e0f85e1-4315-7660-4a61-7b989499abea/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Verdant Cafe Bulldog",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Verdant Cafe Bulldog\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Verdant Cafe Bulldog\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Verdant Cafe Bulldog",
+    "hiddenTags": []
+  },
+  {
+    "id": "5faac1ff41e30675ee8a9f8b42970f3b",
+    "name": "Last Stop Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Last Stop Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/fd7ffd4a-4de7-43b5-d346-06b470c4e54a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/fd7ffd4a-4de7-43b5-d346-06b470c4e54a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Last Stop Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Last Stop Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "bc29898849514d72484501b0986246dd",
+    "name": "Verdant Cafe Classic",
+    "weaponType": "Classic",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Verdant Cafe Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c0b3b15b-473a-71e1-8471-348b66f1259f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c0b3b15b-473a-71e1-8471-348b66f1259f/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Verdant Cafe Classic",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Verdant Cafe Classic\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Verdant Cafe Classic\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Verdant Cafe Classic",
+    "hiddenTags": []
+  },
+  {
+    "id": "f6cdb486426fd890d78ba88d0640ce61",
+    "name": "Gourmand Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Gourmand Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0e5b5221-4f91-2c76-2330-8883ab13b51f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0e5b5221-4f91-2c76-2330-8883ab13b51f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Gourmand Bandit",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Gourmand Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "f3333480459fcc15da7a34869a8fc9df",
+    "name": "Aeris Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Aeris Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f3630728-4219-5c04-5d0e-29895c83f1ce/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f3630728-4219-5c04-5d0e-29895c83f1ce/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Aeris Bandit",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Aeris Bandit Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Aeris Bandit Level 4\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Aeris Bandit Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Aeris Bandit",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "f9e29f784adc9e498fe6a7b1d6d22743",
+    "name": "Last Stop Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Last Stop Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/00953c82-4f18-09a1-bf69-00b425ad7345/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/00953c82-4f18-09a1-bf69-00b425ad7345/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Last Stop Sheriff",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Last Stop Sheriff",
+    "hiddenTags": []
+  },
+  {
+    "id": "38e99cac42b770b36ea64aa42e8c478e",
+    "name": "Gourmand Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Gourmand Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cbb926a1-4ae3-dc92-db1b-39a4bde7e088/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cbb926a1-4ae3-dc92-db1b-39a4bde7e088/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Gourmand Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Gourmand Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "875ce5da44cfe6fd6c63b9873ab950d4",
+    "name": "Last Stop Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Last Stop Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/a9af310d-479f-9a8b-0fb1-95b9a021646a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/a9af310d-479f-9a8b-0fb1-95b9a021646a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Last Stop Guardian",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Last Stop Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "56f74904457eb08b0cbdd6bd7c39d267",
+    "name": "Aeris Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Aeris Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/6516c969-4d41-0b48-f1df-fc8094b8e46d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/6516c969-4d41-0b48-f1df-fc8094b8e46d/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Aeris Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Aeris Guardian Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Aeris Guardian Level 4\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Aeris Guardian Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Aeris Guardian",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "30e385474d4bf0bd6416deab45d74493",
+    "name": "Gourmand Outlaw",
+    "weaponType": "Outlaw",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Gourmand Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/52374aea-4db0-3dd2-105d-a9a9031867af/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/52374aea-4db0-3dd2-105d-a9a9031867af/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Gourmand Outlaw",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Gourmand Outlaw",
+    "hiddenTags": []
+  },
+  {
+    "id": "301233cb442b402bbf7d199d0f54cad8",
+    "name": "Last Stop Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Last Stop Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/04b7099e-49d0-19c5-bbf1-fba03707ae89/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/04b7099e-49d0-19c5-bbf1-fba03707ae89/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Last Stop Marshal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Last Stop Marshal",
+    "hiddenTags": []
+  },
+  {
+    "id": "9ff57b3842221c1eb775e682b7e6379b",
+    "name": "Aeris Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Aeris Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/35927f01-4500-9f9c-82d2-61b8d474ec41/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/35927f01-4500-9f9c-82d2-61b8d474ec41/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Aeris Marshal",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Aeris Marshal Level 4\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Aeris Marshal Level 4\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Aeris Marshal Level 4\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Aeris Marshal",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "d83fecfa41ff9dce02410980c6a087d7",
+    "name": "Verdant Cafe Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Verdant Cafe Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c9580b87-4f21-5b5b-f447-f8985526aafd/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c9580b87-4f21-5b5b-f447-f8985526aafd/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Verdant Cafe Stinger",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Verdant Cafe Stinger\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Verdant Cafe Stinger\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Verdant Cafe Stinger",
+    "hiddenTags": []
+  },
+  {
+    "id": "25f7a66f41a313da53d9ff94be3ace42",
+    "name": "Verdant Cafe Chef's Knife",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Verdant Cafe Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/0c12c2f9-47e0-698d-f091-4398c43b4ace/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/0c12c2f9-47e0-698d-f091-4398c43b4ace/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Verdant Cafe Chef's Knife",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Verdant Cafe Chef's Knife\n(Variant 1 Blue)",
+        "color": "#0000FF"
+      },
+      {
+        "name": "Verdant Cafe Chef's Knife\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Verdant Cafe Chef's Knife",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "80f3db034b8ebac2b62f4a85e63cb2b2",
+    "name": "Suit of Aeris",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Aeris Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4126d4b1-4371-a64d-0fbf-20baa6891a3f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4126d4b1-4371-a64d-0fbf-20baa6891a3f/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Suit of Aeris",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Suit of Aeris Level 2\n(Variant 1 Red)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "Suit of Aeris Level 2\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      },
+      {
+        "name": "Suit of Aeris Level 2\r\n(Variant 3 Purple)",
+        "color": "#800080"
+      }
+    ],
+    "description": "Suit of Aeris",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

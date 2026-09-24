@@ -33926,5 +33926,167 @@
     "description": "Suit of Aeris",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "9450a84c4fc58df69d04328d11d7d979",
+    "name": "Galleria Odin",
+    "weaponType": "Odin",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Galleria Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/86c4c0ba-4764-36d6-f2f1-268a590c8bb0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/86c4c0ba-4764-36d6-f2f1-268a590c8bb0/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Galleria Odin",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Galleria Odin",
+    "hiddenTags": []
+  },
+  {
+    "id": "2b7a1b0048a08bfdf2ecce95e5e78bdb",
+    "name": "Galleria Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Galleria Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/54f4e24d-46ae-73de-0807-348f021d8bc2/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/54f4e24d-46ae-73de-0807-348f021d8bc2/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Galleria Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Galleria Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "7a6c65d84439cf7b1138e2883f53bff8",
+    "name": "Galleria Warden",
+    "weaponType": "Warden",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Galleria Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/deb6d1b0-4a31-ba38-a1f1-f8965af2aee3/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/deb6d1b0-4a31-ba38-a1f1-f8965af2aee3/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Galleria Warden",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Galleria Warden",
+    "hiddenTags": []
+  },
+  {
+    "id": "7b17cfbb4d5049089da518afb3a63d8a",
+    "name": "Champions 2026 Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Champions 2026 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/3ec220aa-4395-9927-28e3-01aa2c3ccb94/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/3ec220aa-4395-9927-28e3-01aa2c3ccb94/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Champions 2026 Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Champions 2026 Phantom",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "b0f4c51b4655cb16a6f0d0b38c0ab45b",
+    "name": "Galleria Judge",
+    "weaponType": "Judge",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Galleria Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9257c8fe-4c85-5c98-652b-16a08787cb8f/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9257c8fe-4c85-5c98-652b-16a08787cb8f/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Galleria Judge",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Galleria Judge",
+    "hiddenTags": []
+  },
+  {
+    "id": "3ad9e6954fd20937289484bdb2798294",
+    "name": "Galleria Frenzy",
+    "weaponType": "Frenzy",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Galleria Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/683d3112-4d7a-8771-4ab6-cc96c7a09d04/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/683d3112-4d7a-8771-4ab6-cc96c7a09d04/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Galleria Frenzy",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Galleria Frenzy",
+    "hiddenTags": []
+  },
+  {
+    "id": "1909cfd3422919432db0d489366a4652",
+    "name": "Galleria Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Galleria Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/88fb724c-4cbf-161c-3f34-9f8cb6481d52/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/88fb724c-4cbf-161c-3f34-9f8cb6481d52/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Galleria Operator",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Galleria Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "f401b55f4b7dc7a5d698a5ab0a54df39",
+    "name": "Champions 2026 Fan",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Champions 2026 Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/b71c896b-48ff-8151-bfee-9bb8f64ebb8a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/b71c896b-48ff-8151-bfee-9bb8f64ebb8a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Champions 2026 Fan",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Champions 2026 Fan",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

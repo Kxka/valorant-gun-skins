@@ -34088,5 +34088,443 @@
     "description": "Champions 2026 Fan",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "e902ec2b4491c455ab883799dd7c8f93",
+    "name": "Popmonz Odin",
+    "weaponType": "Odin",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Popmonz Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/02f02450-4e8c-378f-4026-4898de4d1097/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/02f02450-4e8c-378f-4026-4898de4d1097/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Popmonz Odin",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Popmonz Odin Level 4\n(Variant 1 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Popmonz Odin Level 4\n(Variant 2 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Popmonz Odin Level 4\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Popmonz Odin",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "f916ef5b4bcd9078441defbcfb3d82e0",
+    "name": "Keepsake Odin",
+    "weaponType": "Odin",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Keepsake Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/4ecd0d3e-48ec-3939-780d-6fb1bd706507/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/4ecd0d3e-48ec-3939-780d-6fb1bd706507/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keepsake Odin",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Odin\r\n(Variant 1 Copper)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Odin\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Keepsake Odin",
+    "hiddenTags": []
+  },
+  {
+    "id": "3a5928964f2288af903e97ba6801ef87",
+    "name": "Datalink Warden",
+    "weaponType": "Warden",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Datalink Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d61a0c72-49e4-8dae-b002-47ac4ae1b7dc/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d61a0c72-49e4-8dae-b002-47ac4ae1b7dc/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Datalink Warden",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Datalink Warden",
+    "hiddenTags": []
+  },
+  {
+    "id": "c9806a0745e9378148f64c81bd2f96c9",
+    "name": "Datalink Bulldog",
+    "weaponType": "Bulldog",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Datalink Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/ef997d0c-4e92-2fd2-0d8b-5b8f04e9b96d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/ef997d0c-4e92-2fd2-0d8b-5b8f04e9b96d/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Datalink Bulldog",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Datalink Bulldog",
+    "hiddenTags": []
+  },
+  {
+    "id": "d3e1c6cb46d705319d131595cb15e824",
+    "name": "Popmonz Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Popmonz Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/c4597f7b-4226-f2c8-d3c5-23b9f61f5efb/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/c4597f7b-4226-f2c8-d3c5-23b9f61f5efb/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Popmonz Phantom",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Popmonz Phantom Level 4\n(Variant 1 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Popmonz Phantom Level 4\r\n(Variant 2 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Popmonz Phantom Level 4\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Popmonz Phantom",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "72900d7d466482bf9759e08f083931cb",
+    "name": "Solarium Phantom",
+    "weaponType": "Phantom",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Solarium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d96a8eda-40b1-35f0-2c46-49ae15854b5a/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d96a8eda-40b1-35f0-2c46-49ae15854b5a/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Solarium Phantom",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Solarium Phantom",
+    "hiddenTags": []
+  },
+  {
+    "id": "fca2507d4c323f23b4dd2682009e018f",
+    "name": "Datalink Judge",
+    "weaponType": "Judge",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Datalink Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/8c4cecdb-4d5e-c958-85af-7da41e763910/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/8c4cecdb-4d5e-c958-85af-7da41e763910/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Datalink Judge",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Datalink Judge",
+    "hiddenTags": []
+  },
+  {
+    "id": "4151bc9a4a1220a7086d959b338011d9",
+    "name": "Solarium Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Solarium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cf38a9ef-43fd-031d-cba2-2191b0facd2b/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cf38a9ef-43fd-031d-cba2-2191b0facd2b/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Solarium Bandit",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Solarium Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "84a2ba5e46481d908a7381a06f4b597b",
+    "name": "Datalink Ghost",
+    "weaponType": "Ghost",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Datalink Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/767b0108-4a2c-63dc-91bf-1f81d101c3e1/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/767b0108-4a2c-63dc-91bf-1f81d101c3e1/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Datalink Ghost",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Datalink Ghost",
+    "hiddenTags": []
+  },
+  {
+    "id": "36d06b494b9125b2378e5cac8e2cc9f8",
+    "name": "Popmonz Sheriff",
+    "weaponType": "Sheriff",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Popmonz Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/bf602275-4501-9601-ac70-18bc1520e777/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/bf602275-4501-9601-ac70-18bc1520e777/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Popmonz Sheriff",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Popmonz Sheriff Level 4\n(Variant 1 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Popmonz Sheriff Level 4\n(Variant 2 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Popmonz Sheriff Level 4\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Popmonz Sheriff",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "7d57e0ec420c01205ff684b40dfefe04",
+    "name": "Keepsake Shorty",
+    "weaponType": "Shorty",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Keepsake Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/51434a16-43ec-dc28-64c5-9cb7d9be8da5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/51434a16-43ec-dc28-64c5-9cb7d9be8da5/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keepsake Shorty",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Shorty\r\n(Variant 1 Copper)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Shorty\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Keepsake Shorty",
+    "hiddenTags": []
+  },
+  {
+    "id": "56209bb049ed1ef4b41d5e8ec3321b31",
+    "name": "Keepsake Operator",
+    "weaponType": "Operator",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Keepsake Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/369421d8-4ae4-0d9b-54ff-7ba07e5620f3/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/369421d8-4ae4-0d9b-54ff-7ba07e5620f3/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keepsake Operator",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Operator\r\n(Variant 1 Copper)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Operator\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Keepsake Operator",
+    "hiddenTags": []
+  },
+  {
+    "id": "f4eaad154fb4a91bf8a1deb0caa3cece",
+    "name": "Keepsake Guardian",
+    "weaponType": "Guardian",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Keepsake Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/2b6a4865-405b-7ab2-42e0-a99cc1f588f0/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/2b6a4865-405b-7ab2-42e0-a99cc1f588f0/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Keepsake Guardian",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Guardian\r\n(Variant 1 Copper)",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Keepsake Guardian\n(Variant 2 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Keepsake Guardian",
+    "hiddenTags": []
+  },
+  {
+    "id": "a73ad7c14d065144b5cc508da8684668",
+    "name": "Solarium Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Solarium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7d8a6be1-4a3e-8e02-2a0f-4986a20bb9ee/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7d8a6be1-4a3e-8e02-2a0f-4986a20bb9ee/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Solarium Spectre",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Solarium Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "b1669f9e4c412c5a59b15eb558a670fa",
+    "name": "Popmonz Stinger",
+    "weaponType": "Stinger",
+    "rarity": "Exclusive",
+    "cost": 2175,
+    "collection": "Popmonz Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/f29173b3-4d55-7c92-840a-f491b5d950a5/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/f29173b3-4d55-7c92-840a-f491b5d950a5/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Popmonz Stinger",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Popmonz Stinger Level 4\n(Variant 1 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Popmonz Stinger Level 4\n(Variant 2 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Popmonz Stinger Level 4\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Popmonz Stinger",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "ada542724af97ead64631789b4f7e9e4",
+    "name": "Popmonz Knife",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Popmonz Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/40a89291-408e-eaba-8015-99a419aaca16/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/40a89291-408e-eaba-8015-99a419aaca16/fullrender.png",
+    "hasColorVariants": true,
+    "hasAnimations": true,
+    "colorVariants": [
+      {
+        "name": "Popmonz Knife",
+        "color": "#ffffff"
+      },
+      {
+        "name": "Popmonz Knife Level 2\n(Variant 1 Orange)",
+        "color": "#FFA500"
+      },
+      {
+        "name": "Popmonz Knife Level 2\n(Variant 2 Purple)",
+        "color": "#800080"
+      },
+      {
+        "name": "Popmonz Knife Level 2\r\n(Variant 3 Pink)",
+        "color": "#FFC0CB"
+      }
+    ],
+    "description": "Popmonz Knife",
+    "hiddenTags": [],
+    "priceVerified": false
+  },
+  {
+    "id": "afe4c665435252eeb77cf29fd008ad11",
+    "name": "Solarium Hammer",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Solarium Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/61ef75f6-427c-8867-c910-00b7a35b9d76/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/61ef75f6-427c-8867-c910-00b7a35b9d76/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Solarium Hammer",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Solarium Hammer",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]

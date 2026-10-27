@@ -34526,5 +34526,25 @@
     "description": "Solarium Hammer",
     "hiddenTags": [],
     "priceVerified": false
+  },
+  {
+    "id": "36082abe42665cbf75f489b8218048f1",
+    "name": "Brainwaves Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Select",
+    "cost": 875,
+    "collection": "Hush Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/cdf7f5bc-407a-8043-a272-b096a6089a9d/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/cdf7f5bc-407a-8043-a272-b096a6089a9d/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Brainwaves Bandit",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Brainwaves Bandit",
+    "hiddenTags": []
   }
 ]

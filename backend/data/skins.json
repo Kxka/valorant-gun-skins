@@ -34546,5 +34546,106 @@
     ],
     "description": "Brainwaves Bandit",
     "hiddenTags": []
+  },
+  {
+    "id": "9e7e90074945a414d5b3eabbb551be0e",
+    "name": "Snowfall Vandal",
+    "weaponType": "Vandal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Snowfall Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/87873c31-4e20-c33e-019d-afacd55a0ce4/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/87873c31-4e20-c33e-019d-afacd55a0ce4/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Snowfall Vandal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Snowfall Vandal",
+    "hiddenTags": []
+  },
+  {
+    "id": "19a38b3847e0c12290948d9acde98e85",
+    "name": "Snowfall Bandit",
+    "weaponType": "Bandit",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Snowfall Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/7889fc36-4ba2-c071-0adf-a7a541325417/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/7889fc36-4ba2-c071-0adf-a7a541325417/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Snowfall Bandit",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Snowfall Bandit",
+    "hiddenTags": []
+  },
+  {
+    "id": "3abd59e843aed32fc1503f84a8e6d27b",
+    "name": "Snowfall Marshal",
+    "weaponType": "Marshal",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Snowfall Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/784c6730-4c20-13b0-f77b-9e90e6809216/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/784c6730-4c20-13b0-f77b-9e90e6809216/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Snowfall Marshal",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Snowfall Marshal",
+    "hiddenTags": []
+  },
+  {
+    "id": "59ad51a945527e6cd0f1d6a7ca9a499c",
+    "name": "Snowfall Spectre",
+    "weaponType": "Spectre",
+    "rarity": "Deluxe",
+    "cost": 1275,
+    "collection": "Snowfall Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/9b1fc3fd-4760-5fab-92f0-6d9f1704ac50/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/9b1fc3fd-4760-5fab-92f0-6d9f1704ac50/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Snowfall Spectre",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Snowfall Spectre",
+    "hiddenTags": []
+  },
+  {
+    "id": "6e8cdb9147e8079f23cfbd81bc1ec6e1",
+    "name": "Snowfall Axe",
+    "weaponType": "Melee",
+    "rarity": "Exclusive",
+    "cost": 4350,
+    "collection": "Snowfall Collection",
+    "thumbnailUrl": "https://media.valorant-api.com/weaponskinchromas/d4009d79-4291-db41-0e7e-6782e96d6e76/fullrender.png",
+    "imageUrl": "https://media.valorant-api.com/weaponskinchromas/d4009d79-4291-db41-0e7e-6782e96d6e76/fullrender.png",
+    "hasColorVariants": false,
+    "hasAnimations": false,
+    "colorVariants": [
+      {
+        "name": "Snowfall Axe",
+        "color": "#ffffff"
+      }
+    ],
+    "description": "Bundle Cost 5100",
+    "hiddenTags": [],
+    "priceVerified": false
   }
 ]
